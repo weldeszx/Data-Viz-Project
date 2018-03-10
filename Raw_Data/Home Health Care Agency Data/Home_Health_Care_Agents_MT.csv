@@ -1,0 +1,28 @@
+state,LocationNO,Certification_NO,Address,LicenseRenewalDate,Offers Nursing Care Services,Offers Physical Therapy Services,Offers Speech Pathology Services,Offers Home Health Aide Services,Date Certified,Service Quality,ServiceQualityRating,Type of Ownership
+Montana,76252,277011,736 S MAIN ST,1997-04-12,YES,YES,YES,YES,1967-04-12,Same As Expected,3.0 - 4.0,Government - State/ County
+Montana,75952,277012,2626 FIRST AVE S,1997-05-01,YES,YES,YES,YES,1967-05-01,Same As Expected,3.0 - 4.0,Government - State/ County
+Montana,76227,277017,800 FRONT ST,2003-11-28,YES,YES,YES,YES,1973-11-28,Same As Expected,3.0 - 4.0,Proprietary
+Montana,76477,277019,711 MAIN ST SW,2007-05-01,YES,YES,YES,YES,1977-05-01,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76077,277030,805 SUNSET BLVD,2002-11-12,YES,YES,NO,NO,1982-11-12,Not Available,,Non - Profit Private
+Montana,76427,277033,10 KRUGER ROAD,2005-01-01,YES,YES,NO,YES,1985-01-01,Same As Expected,3.0 - 4.0,Non - Profit Other
+Montana,76402,277032,2687 PALMER ST STE B,2005-02-04,YES,YES,YES,YES,1985-02-04,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76202,277039,1200 WESTWOOD DR,2005-04-01,YES,YES,YES,YES,1985-04-01,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76277,277040,408 WENDELL AVE,2005-04-01,YES,YES,YES,YES,1985-04-01,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76102,277041,600 MT HWY 91 S,2005-06-26,YES,YES,YES,YES,1985-06-26,Same As Expected,3.0 - 4.0,Non - Profit Other
+Montana,76052,277045,407 N A ST,2006-02-10,YES,YES,YES,YES,1986-02-10,Not Available,,Non - Profit Private
+Montana,76327,277050,311 S 8TH AVE E,2007-01-28,YES,YES,YES,YES,1987-01-28,Worse Than Expected,1.0 - 2.5,Non - Profit Other
+Montana,76252,277053,275 CORPORATE DR STE 600,2007-06-16,YES,YES,YES,YES,1987-06-16,Better Than Expected,4.5 - 5.0,Non - Profit Private
+Montana,76027,277058,3745 HARRISON AVE STE G,2008-01-25,YES,YES,YES,YES,1988-01-25,Better Than Expected,4.5 - 5.0,Proprietary
+Montana,76302,277060,320 ALPENGLOW LANE,2009-04-14,YES,YES,YES,YES,1989-04-14,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76127,277061,202 PROSPECT DR,2009-11-22,YES,YES,YES,YES,1989-11-22,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76452,277066,2525 N BROADWAY,2007-10-20,YES,YES,YES,YES,1992-10-20,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,75977,277068,2110 OVERLAND AVE STE 114,2008-02-01,YES,YES,YES,YES,1993-02-01,Same As Expected,3.0 - 4.0,Proprietary
+Montana,76227,277072,201 S CALIFORNIA,2009-05-09,YES,YES,YES,YES,1994-05-09,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76002,277078,205 N TRACY,2009-11-23,YES,YES,YES,YES,1994-11-23,Same As Expected,3.0 - 4.0,Proprietary
+Montana,76352,277079,2300 WILSON ST,2009-12-07,YES,YES,NO,YES,1994-12-07,Same As Expected,3.0 - 4.0,Proprietary
+Montana,76152,277087,425 1ST AVE N,2012-09-12,YES,YES,YES,NO,1997-09-12,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76177,277090,2906 10TH AVE S,2014-02-18,YES,YES,YES,NO,1999-02-18,Same As Expected,3.0 - 4.0,Non - Profit Other
+Montana,75927,277093,118 EAST SEVENTH ST STE 1A,2002-06-29,YES,YES,YES,YES,2000-06-29,Same As Expected,3.0 - 4.0,Non - Profit Private
+Montana,76377,277094,3301 GREAT NORTHERN AVE STE 203,2003-05-25,YES,YES,YES,YES,2001-05-25,Same As Expected,3.0 - 4.0,Proprietary
+Montana,76002,277097,205 HAGGERTY LN STE 120,2011-04-24,YES,YES,YES,YES,2009-04-24,Same As Expected,3.0 - 4.0,Proprietary
+Montana,75977,277098,3940 RIMROCK RD,2016-05-30,YES,YES,YES,YES,2014-05-30,Same As Expected,3.0 - 4.0,Proprietary
