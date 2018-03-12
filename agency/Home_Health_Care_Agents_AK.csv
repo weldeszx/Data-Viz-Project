@@ -1,0 +1,15 @@
+state,LocationNO,Certification_NO,Address,LicenseRenewalDate,Offers Nursing Care Services,Offers Physical Therapy Services,Offers Speech Pathology Services,Offers Home Health Aide Services,Date Certified,Service Quality,ServiceQualityRating,Type of Ownership
+Alaska,1052,27001,4001 DALE STREET SUITE 101,2002-05-17,YES,YES,YES,YES,1982-05-17,Better Than Expected,4.5 - 5.0,Non - Profit Religious
+Alaska,1177,27002,419 SIXTH STREET,2002-12-27,YES,YES,YES,YES,1982-12-27,Same As Expected,3.0 - 4.0,Non - Profit Religious
+Alaska,1127,27006,1302 21ST AVENUE FLOOR 2,2005-09-19,YES,YES,YES,YES,1985-09-19,Same As Expected,3.0 - 4.0,Non - Profit Private
+Alaska,1252,27007,209 MOLLER AVENUE,2005-09-26,YES,YES,YES,NO,1985-09-26,Same As Expected,3.0 - 4.0,Government - Local
+Alaska,1302,27008,950 E BOGARD STE 132,2007-01-22,YES,YES,YES,YES,1987-01-22,Same As Expected,3.0 - 4.0,Proprietary
+Alaska,1227,27009,P.O. BOX 589,2007-07-21,YES,YES,NO,YES,1987-07-21,Not Available,,Non - Profit Other
+Alaska,1152,27010,4300 BARTLETT STREET,2005-02-20,YES,YES,YES,YES,1990-02-20,Same As Expected,3.0 - 4.0,Government - State/ County
+Alaska,1202,27014,126 WASHINGTON STREET,2008-03-04,YES,YES,YES,YES,1993-03-04,Same As Expected,3.0 - 4.0,Non - Profit Religious
+Alaska,1277,27020,43421 KALIFORNSKY BEACH ROAD SUITE 4,2011-01-02,YES,YES,NO,NO,1996-01-02,Same As Expected,3.0 - 4.0,Non - Profit Private
+Alaska,1027,27022,3909 ARCTIC BLVD SUITE 102,2011-05-07,YES,YES,YES,YES,1996-05-07,Same As Expected,3.0 - 4.0,Proprietary
+Alaska,1052,27024,4160 TUDOR CENTRE DRIVE,2011-07-17,YES,YES,NO,YES,1996-07-17,Same As Expected,3.0 - 4.0,Non - Profit Other
+Alaska,1002,27032,711 H STREET SUITE 100,2008-08-23,YES,YES,YES,YES,2006-08-23,Same As Expected,3.0 - 4.0,Proprietary
+Alaska,1077,27035,PO BOX 110154,2016-01-04,YES,NO,NO,YES,2016-01-04,Not Available,,Proprietary
+Alaska,1102,27034,9191 OLD SEWARD HIGHWAY SUITE 19A,2016-02-16,YES,YES,YES,YES,2016-02-16,Not Available,,Non - Profit Private
