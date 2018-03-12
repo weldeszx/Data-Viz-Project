@@ -9,6 +9,18 @@ def combine_csv(path):
     df = pd.concat(df_list)
     return df
 
+def convert_sqr(sqr):
+    if sqr=='Same As Expected':
+        sq=3.5
+    elif sqr=='Better Than Expected':
+        sq=4.75
+    elif sqr=='Worse Than Expected':
+        sq=1.75
+    else:
+        return
+    return sq
+
+
 #merge individual csv
 df_loc=combine_csv('location/*.csv')
 df_agency=combine_csv('agency/*.csv')
@@ -42,5 +54,7 @@ df=df.merge(df_loc,how='inner',on=['loc_no','abbv','state'])
 df=df.loc[:,['country','state', 'abbv','county','city','address','zipcode','loc_no',
              'name','cer_no','date_cer', 'ownership','lrd', 'ncs', 'pts', 'sps',
              'hhas', 'sq', 'sqr']]
+
+df['c_sqr']=df['sq'].apply(convert_sqr)
 
 df.to_csv('data.csv',index=False)
