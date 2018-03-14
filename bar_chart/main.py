@@ -24,6 +24,10 @@ def service_count(df,pts='NO',sps='NO',hhas='NO'):
     df_final=df_final.reset_index().drop(['index'],axis=1)
     return df_final
 
+@app.route('/')
+def homepage():
+     return flask.render_template('index.html')
+
 @app.route('/bar/<name>')
 def get_bar_data(name='pts_sps_hhas'):
     name=name.split('_')
@@ -38,7 +42,8 @@ def get_bar_data(name='pts_sps_hhas'):
     df=df.to_dict()
     return flask.jsonify(df)
 
-#print(get_bar_data())
 
+
+#run
 if __name__ == '__main__':
     app.run(debug=True)
