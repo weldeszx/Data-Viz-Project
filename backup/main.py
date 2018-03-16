@@ -10,7 +10,7 @@ app = flask.Flask(__name__)
 #bar chart
 df_bar=df.loc[:,['abbv','date_cer','ncs','pts','sps','hhas','c_sqr']]
 
-def bar_count(df,pts='NO',sps='NO',hhas='NO'):
+def service_count(df,pts='NO',sps='NO',hhas='NO'):
     df['count']=(df.pts==pts)&(df.sps==sps)&(df.hhas==hhas)
     df_avgsqr=df.loc[df['count'],:]
     df_avgsqr=df_avgsqr.groupby('abbv').agg({'c_sqr':'mean'})
@@ -21,6 +21,7 @@ def bar_count(df,pts='NO',sps='NO',hhas='NO'):
     df_final=df_count.merge(df_avgsqr,how='outer',on='abbv')
     df_final=df_final.sort_values('count',ascending=False)
     df_final['avg_sqr']=df_final['avg_sqr'].round(2)
+    df_final=df_final.reset_index().drop(['index'],axis=1)
     return df_final
 
 @app.route('/')
@@ -37,10 +38,7 @@ def get_bar_data(name='pts_sps_hhas'):
         sps='YES'
     if ('hhas' in name):
         hhas='YES'
-    df=bar_count(df_bar,pts=pts,sps=sps,hhas=hhas)
-    df['count']=df['count'].astype(str)
-    df['avg_sqr']=df['avg_sqr'].astype(str)
-    df=df.set_index('abbv')
+    df=service_count(df_bar,pts=pts,sps=sps,hhas=hhas)
     df=df.to_dict()
     return flask.jsonify(df)
 

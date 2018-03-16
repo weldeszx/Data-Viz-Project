@@ -22,6 +22,7 @@
   </head>
 
   <body>
+    <hr>
     <!-- bar chart button-->
     <div class='container'>
       <div class='row'>
@@ -64,7 +65,6 @@
         let sps=$("#sps :selected").val();
         let hhas=$("#hhas :selected").val();
         let bar_data_string=`${pts}_${sps}_${hhas}`;
-        //plot bar
         Plotly.d3.json(`/bar/${bar_data_string}`, function(error, data){
           if (error) return console.warn(error);
           let barDiv=document.getElementById("bar_chart");
@@ -76,7 +76,7 @@
                     type: 'bar'
                     }];
           let layout={title: 'Number of Providers in Each State',
-                      xaxis: {tickangle: 90},
+                      xaxis: {tickangle: -90},
                       yaxis: {title: 'Number of Providers',
                       titlefont: {size: 18}}
                      };
@@ -85,12 +85,68 @@
         };
 
       //bar chart on click event
+      plot_bar();
       bar_confirm.on('click',function(){
         plot_bar();
       });
     </script>
 
     <hr>
+
+    <!-- pie chart-->
+    <div class='container'>
+      <!-- pie chart button-->
+      <div class='row'>
+        <div class='col-3'>
+          <!-- pie chart button-->
+          <div class="input-group">
+            <input id='pie_input' type="text" class="form-control" placeholder="Search for..." style='height:30px;'>
+            <span class="input-group-btn">
+            <button id='pie_search' class="btn btn-secondary btn-sm" type="button">Search</button>
+            </span>
+          </div></div>
+       </div>
+       <br>
+       <!-- pie chart-->
+       <div class='row'>
+          <div id='pie_chart'></div>
+          <script type="text/javascript">
+          //set var
+          let piechart=d3.select('#pie_chart');
+          let pie_search=d3.select('#pie_search');
+
+          //function pie chart
+          function plot_pie(){
+            let state=$('#pie_input').val();
+            if (state){} else {state='dc'};
+            let state_up=state.toUpperCase();
+            let title=`State: ${state_up}`;
+            Plotly.d3.json(`/pie/${state}`,function(error, data){
+              if (error) return console.warn(error);
+              let pieDiv=document.getElementById("pie_chart");
+              let pie_d=[{
+                values: Object.values(data),
+                labels: Object.keys(data),
+                type:'pie'
+              }];
+              let layout = {
+                            title: title,
+                            height: 500,
+                            width: 700
+                          };
+              Plotly.newPlot(pieDiv, pie_d, layout);
+            });
+          };
+
+          //plot pie
+          plot_pie();
+          pie_search.on('click', function(){
+            plot_pie();
+          });
+          </script>
+        </div>
+
+  <hr>
 
 
   </body>
