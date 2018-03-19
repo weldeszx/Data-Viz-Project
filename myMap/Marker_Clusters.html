@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>Care Providers Clusters</title>
+
+    <!-- read the main geoJSON file -->
+    <script src="homecare.geojson" type="text/javascript"></script>
+
+    <!-- Leaflet JS & CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
+
+    <!-- d3 JS -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+
+    <!-- Marker Cluster JS & CSS -->
+    <script type="text/javascript" src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
+
+    <!-- my CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+  </head>
+  <body>
+
+    <div id="map"></div>
+
+    <script type="text/javascript">
+      
+      // Mapbox API
+var mapbox = "https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ.T6YbdDixkOBWH_k9GbS8JQ";
+
+// // Creating map object
+var myMap = L.map("map", {
+  center: [39.8, -98.58],
+  zoom: 5
+});
+
+// // Adding tile layer to the map
+L.tileLayer(mapbox).addTo(myMap);
+
+// var url= "http://localhost:8000/Data-Viz-Project/myMap/homecare.geojson";
+  // console.log(url);
+
+// Perform a GET request to the query URL
+// d3.json(url, function(data) {
+d3.json("homecare.geojson", function(data) {
+  //  send the data.features object to the createFeatures and createMap functions
+  let homecareData = data.features;
+  // console.log(homecareData);
+  createFeatures(homecareData);
+  createMap(homecareData);
+});
+
+function createFeatures(homecareData) {
+
+  //  for each feature in the features array
+  // Give each feature a popup describing the service quality and renewal date of the provider
+  function onEachFeature(homecareData, layer) {
+    // layer.bindPopup("<h3>" + feature.properties.name +
+    //   "</h3><hr><p>" + new Date(feature.properties.lrd) + "</p>");
+  }
+  
+  // homecareData GeoJSON layer containing the features array on the homecareData object
+   L.geoJSON(homecareData, {
+    onEachFeature: onEachFeature
+  });
+
+};
+
+function createMap(homecareData){
+  //   // Creating a new marker cluster group
+    var markers = L.markerClusterGroup();
+    console.log(homecareData);
+  //   // Loop through our data...
+    for (var i = 0; i < homecareData.length; i++) {
+  //     // set the data location property to a variable
+      var lat = homecareData[i].properties.latitude;
+      var lng = homecareData[i].properties.longitude;
+      var serQ = homecareData[i].properties.sq;
+
+  //     // If the data has a location property...
+      if (lat, lng) {
+
+  //       // Add a new marker to the cluster group and bind a pop-up
+        markers.addLayer(L.marker([lat, lng])
+          .bindPopup(serQ));
+      }
+
+    };
+
+  //   // Add our marker cluster layer to the map
+    myMap.addLayer(markers);
+
+};
+
+    </script>
+
+  </body>
+</html>
