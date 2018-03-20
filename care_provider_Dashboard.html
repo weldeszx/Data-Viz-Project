@@ -2,7 +2,7 @@
 <html lang="en-us">
   <head>
     <meta charset="UTF-8">
-    <title>Care Providers Clusters</title>
+    <title> Home Healthcare Agencies </title>
 
     <!-- read the main geoJSON file -->
     <script src="homecare.geojson" type="text/javascript"></script>
@@ -58,10 +58,7 @@ function createFeatures(homecareData) {
 
   //  for each feature in the features array
   // Give each feature a popup describing the service quality and renewal date of the provider
-  function onEachFeature(homecareData, layer) {
-    // layer.bindPopup("<h3>" + feature.properties.name +
-    //   "</h3><hr><p>" + new Date(feature.properties.lrd) + "</p>");
-  }
+  function onEachFeature(homecareData, layer) {};
   
   // homecareData GeoJSON layer containing the features array on the homecareData object
    L.geoJSON(homecareData, {
@@ -79,6 +76,7 @@ function createMap(homecareData){
   //     // set the data location property to a variable
       var lat = homecareData[i].properties.latitude;
       var lng = homecareData[i].properties.longitude;
+      var name = homecareData[i].properties.name;
       var serQ = homecareData[i].properties.sq;
 
   //     // If the data has a location property...
@@ -86,7 +84,7 @@ function createMap(homecareData){
 
   //       // Add a new marker to the cluster group and bind a pop-up
         markers.addLayer(L.marker([lat, lng])
-          .bindPopup(serQ));
+          .bindPopup("<h3>Name : " + name +"</h3><hr><p> Service quality: "  + serQ  + "</p>"));
       }
 
     };
