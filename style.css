@@ -14,7 +14,7 @@ html {
  * class. See the full CSS for all customizable options:
  * https://github.com/mapbox/mapbox.js/blob/001754177f3985c0e6b4a26e3c869b0c66162c99/theme/style.css#L321-L366
 */
-.custom-popup .leaflet-popup-content-wrapper {
+/*.custom-popup .leaflet-popup-content-wrapper {
   background:#2c3e50;
   color:#fff;
   font-size:16px;
@@ -30,5 +30,5 @@ html {
 .custom-popup .leaflet-popup-tip {
   border-left:15px solid transparent;
   border-right:15px solid transparent;
-  border-top:15px solid #2c3e50;
+  border-top:15px solid #2c3e50;*/
   }

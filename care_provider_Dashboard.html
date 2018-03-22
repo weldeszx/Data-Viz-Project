@@ -1,18 +1,32 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
+    <title>US Home Health Agency Data Visualization</title>
     <meta charset="UTF-8">
-    <title> Home Healthcare Agencies </title>
-
+    
     <!-- read the main geoJSON file -->
     <script src="homecare.geojson" type="text/javascript"></script>
 
-    <!-- Leaflet JS & CSS -->
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" />
-    <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script>
-
-    <!-- d3 JS -->
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!-- plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+      <!-- leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
+    integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
+    crossorigin=""></script>
+      <!-- d3js -->
     <script src="https://d3js.org/d3.v4.min.js"></script>
+      <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+
+    <!-- Leaflet JS & CSS -->
+    <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" /> -->
+    <!-- <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script> -->
 
     <!-- Marker Cluster JS & CSS -->
     <script type="text/javascript" src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
@@ -24,22 +38,23 @@
 
   </head>
   <body>
+    <div  style="color :red; padding: 0; !important"  class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h2 "><center>US Home Health Agency Data Visualization</center></h2>      
+        <p class="lead"></p>
+      </div>
+    </div>
+    <hr>
+    <h3><center>Locations of Home Health Providers</center></h3>
+    <!-- <br> -->
+  <!-- Location map of providers with clustered markers -->
+  <!-- <div class="container"> -->
+    <!-- <div class="row"> -->
+    <div  id="map"></div>
 
-    <div class='popupCustom' id="map"></div>
-
+    <div  id="layerMap"></div>
+->
     <script type="text/javascript">
-      
-      // Mapbox API
-var mapbox = "https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ.T6YbdDixkOBWH_k9GbS8JQ";
-
-// // Creating map object
-var myMap = L.map("map", {
-  center: [39.8, -98.58],
-  zoom: 5
-});
-
-// // Adding tile layer to the map
-L.tileLayer(mapbox).addTo(myMap);
 
 // var url= "http://localhost:8000/Data-Viz-Project/myMap/homecare.geojson";
   // console.log(url);
@@ -47,86 +62,283 @@ L.tileLayer(mapbox).addTo(myMap);
 // Perform a GET request to the query URL
 // d3.json(url, function(data) {
 d3.json("homecare.geojson", function(data) {
-  //  send the data.features object to the createFeatures and createMap functions
+  //  send the data.features object to the createFeatures and createClusteredMap functions
   let homecareData = data.features;
   // console.log(homecareData);
   createFeatures(homecareData);
-  createMap(homecareData);
+  createClusteredMap(homecareData);
+  // createLayerMap(homecareData);
 });
 
 function createFeatures(homecareData) {
 
-  //  for each feature in the features array
-  // Give each feature a popup describing the service quality and renewal date of the provider
+  //  //for each feature in the features array
+  // //Give each feature a popup describing the service quality and renewal date of the provider
   function onEachFeature(homecareData, layer) {};
   
-  // homecareData GeoJSON layer containing the features array on the homecareData object
+  // //homecareData GeoJSON layer containing the features array on the homecareData object
    L.geoJSON(homecareData, {
     onEachFeature: onEachFeature
   });
 
 };
+//    // Function to create clustered markers for alll the data
+function createClusteredMap(homecareData){
+      // Mapbox API
+  var mapbox = "https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ.T6YbdDixkOBWH_k9GbS8JQ";
 
-function createMap(homecareData){
-  //   // Creating a new marker cluster group
-    var markers = L.markerClusterGroup();
-    console.log(homecareData);
+  // // // Creating map object
+  var myMap = L.map("map", {
+    center: [39.8, -98.58],
+    zoom: 5
+  });
 
-      // create custom icon
-    var firefoxIcon = L.icon({
-        iconUrl: 'http://joshuafrazier.info/images/firefox.svg',
-        iconSize: [38, 95], // size of the icon
-        popupAnchor: [0,-15]
-        });
+  // // // Adding tile layer to the map
+  L.tileLayer(mapbox).addTo(myMap);
+    //   // Creating a new marker cluster group
+  var markers = L.markerClusterGroup();
+  // console.log(markers);
 
-     
+    // create custom icon
+  var homecareIcon = L.icon({
+      iconUrl: 'static/Homecare2.png',
+      iconSize: [30, 30], // size of the icon
+      popupAnchor: [0,-15]
+      });
 
-      // specify popup options 
-    var customOptions =
-        {
-        'maxWidth': '400',
-        'width': '200',
-        'background':'#2c3e50',
-        'color':'#fff',
-        'font-size':'16px',
-        'line-height':'24px',
-        'className' : 'popupCustom',
-        'border-left':'15px solid transparent',
-        'border-right':'15px solid transparent',
-        'border-top':'15px solid #2c3e50'
-        }
-
-
-// var marker = L.marker([lat, lng], {icon: myIcon}).addTo(map);
-
-// // bind the custom popup 
-// marker.bindPopup(customPopup,customOptions);
-
-  //   // Loop through our data...
-    for (var i = 0; i < homecareData.length; i++) {
-  //     // set the data location property to a variable
-      var lat = homecareData[i].properties.latitude;
-      var lng = homecareData[i].properties.longitude;
-      var name = homecareData[i].properties.name;
-      var serQ = homecareData[i].properties.sq;
-          // create popup contents
-      var customPopup = "<h3>Name : " + name +"</h3><hr><p> Service quality: "  + serQ  + "</p>";
-
-  //     // If the data has a location property...
-      if (lat, lng) {
-
-  //       // Add a new marker to the cluster group and bind a pop-up
-        markers.addLayer(L.marker([lat, lng],{icon:firefoxIcon})
-          .bindPopup(customPopup,customOptions));//"<h3>Name : " + name +"</h3><hr><p> Service quality: "  + serQ  + "</p>"
-          // .bindPopup("<h3>Name : " + name +"</h3><hr><p> Service quality: "  + serQ  + "</p>"));
+    // specify popup options 
+  var customOptions =
+      {
+      'maxWidth': '400',
+      'width': '200',
+      'background':'#2c3e50',
+      'color':'#fff',
+      'font-size':'16px',
+      'line-height':'24px',
+      'className' : 'popupCustom',
+      'border-left':'15px solid transparent',
+      'border-right':'15px solid transparent',
+      'border-top':'15px solid #2c3e50'
       }
 
-    };
+//   // Loop through our data...
+  for (var i = 0; i < homecareData.length; i++) {
+//     // set the data location property to a variable
+    var lat = homecareData[i].properties.latitude;
+    var lng = homecareData[i].properties.longitude;
+    var name = homecareData[i].properties.name;
+    var serQ = homecareData[i].properties.sq;
 
-  //   // Add our marker cluster layer to the map
-    myMap.addLayer(markers);
+    //set the type of services to a variable
+    var ncs = homecareData[i].properties.ncs.toUpperCase();
+    var pts = homecareData[i].properties.pts.toUpperCase();
+    var sps = homecareData[i].properties.sps.toUpperCase();
+    var hhas = homecareData[i].properties.hhas.toUpperCase();
+    // console.log("ncs  " + ncs + "sps   " + sps + "pts  " + pts + "hhas   " + hhas);
 
+        // create popup contents
+    var customPopup = "<h6>Name   : " + name +"</h6><hr><p font-size=12px> Service quality: "  + serQ  + "</p>";
+
+//     // If the data has a location property...
+    if (lat, lng) {
+
+//       // Add a new marker to the cluster group and bind a pop-up
+      markers.addLayer(L.marker([lat,lng],{icon:homecareIcon})
+        .bindPopup(customPopup,customOptions));
+    }
+  };
+//   // Add our marker cluster layer to the map
+  myMap.addLayer(markers);
+  console.log(homecareData);
 };
+
+// function createLayerMap(homecareData){
+
+//   // // Define variables for our base layers
+//   var streetmap = L.tileLayer(
+//     "https://api.mapbox.com/styles/v1/mapbox/outdoors-v10/tiles/256/{z}/{x}/{y}?" +
+//       "access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ." +
+//       "T6YbdDixkOBWH_k9GbS8JQ"
+//   );
+//   var darkmap = L.tileLayer(
+//     "https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?" +
+//       "access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ." +
+//       "T6YbdDixkOBWH_k9GbS8JQ"
+//   );
+
+//        // // Mapbox API
+//   var mapbox = "https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ.T6YbdDixkOBWH_k9GbS8JQ";
+
+ 
+
+//   // // Define arrays to hold created city and state markers
+//   // var ncs_marker = [];
+//   // var pts_marker = [];
+
+//   //  //Initialize all of the LayerGroups we'll be using
+//   var layers = {
+//     Nursing_Care_Services: new L.LayerGroup(),
+//     Physical_Therapy_Services: new L.LayerGroup(),
+//     Speech_Pathology_Services: new L.LayerGroup(),
+//     Homehealth_Aid_Services: new L.LayerGroup()
+
+//   };
+
+//   // Define a map object with our layers
+//   var myMap2 = L.map("map", {
+//     center: [39.8, -98.58],
+//     zoom: 5,
+//     layers: [streetmap,
+//       layers.Nursing_Care_Services,
+//       layers.Physical_Therapy_Services,
+//       layers.Speech_Pathology_Services,
+//       layers.Homehealth_Aid_Services,
+//       ]
+//   });
+
+//    // Create a baseMaps object
+//   var baseMaps = {
+//     "Street Map": streetmap,
+//     "Dark Map": darkmap
+//   };
+
+//     // Create an overlays object to add to the layer control
+//   var overlayMaps = {
+//     "Nursing Care Services": layers.Nursing_Care_Services,
+//     "Physical Therapy Services": layers.Physical_Therapy_Services,
+//     "Speech Pathology Services":layers.Speech_Pathology_Services,
+//     "Home Health Aid Services":layers.Homehealth_Aid_Services
+//   };
+
+//   // Pass our map layers into our layer control
+//   // Add the layer control to the map
+//   L.control.layers(baseMaps, overlayMaps, {
+//     collapsed: false
+//   }).addTo(myMap2);
+
+
+//   // specify popup options 
+//   var customOptions =
+//       {
+//       'maxWidth': '400',
+//       'width': '200', 'background':'#2c3e50', 'color':'#fff', 'font-size':'16px',
+//       'line-height':'24px', 'className' : 'popupCustom', 'border-left':'15px solid transparent',
+//       'border-right':'15px solid transparent', 'border-top':'15px solid #2c3e50'
+//       };
+
+//   // var stateMarkers = [];
+//   console.log(homecareData);
+
+//    // Initialize a serviceType, which will be used as a key to access the appropriate layers, icons, and pop ups for layer group
+//   var serviceType;
+
+//   // Loop through homecare and create  marker for each service type
+//   for (var i = 0; i < homecareData.length; i++) {
+
+//     // var lat = homecareData[i].properties.latitude;
+//     // var lng = homecareData[i].properties.longitude;
+//     // var name = homecareData[i].properties.name;
+//     // var serQ = homecareData[i].properties.sq;
+
+//     //set the type of services to a variable
+//     var ncs = homecareData[i].properties.ncs.toUpperCase();
+//     var pts = homecareData[i].properties.pts.toUpperCase();
+//     var sps = homecareData[i].properties.sps.toUpperCase();
+//     var hhas = homecareData[i].properties.hhas.toUpperCase();
+
+
+//     // var littleton = L.marker([39.61, -105.02]).bindPopup('This is Littleton, CO.'),
+//     // denver    = L.marker([39.74, -104.99]).bindPopup('This is Denver, CO.'),
+//     // aurora    = L.marker([39.73, -104.8]).bindPopup('This is Aurora, CO.'),
+//     // golden    = L.marker([39.77, -105.23]).bindPopup('This is Golden, CO.');
+
+//     if (ncs==="YES"){
+//       serviceType = "Nursing_Care_Services";
+//     }
+//     else if (pts=='YES'){
+//       serviceType = "Physical_Therapy_Services";
+
+//     }
+//     else if (sps=='YES'){
+//       serviceType = "Speech_Pathology_Services";
+
+//     }
+//     else if (hhas=='YES'){
+//       serviceType = "Homehealth_Aid_Services";
+
+//     }
+
+//       //   // create custom icon
+//       // var firefoxIcon = L.icon({
+//       //     iconUrl: 'static/nursing_care.png',
+//       //     iconSize: [40, 40], // size of the icon
+//       //     popupAnchor: [0,-15]
+//       //     });
+
+//        // create popup contents
+//     var customPopup = "<h3>Name : " + homecareData[i].properties.name +"</h3><hr><p> Service quality: "  + homecareData[i].properties.sq  + "</p>";
+
+//        //coordinated
+//     var lat = homecareData[i].properties.latitude;
+//     var lng = homecareData[i].properties.longitude;
+
+//     //   //set variable for a marker represneting each service type
+//     if (lat, lng) {
+//       var new_marker = L.marker([lat, lng]).bindPopup(customPopup,customOptions);//, {icon:firefoxIcon}
+//     }
+//     // Add the new marker to the appropriate layer
+//     new_marker.addTo(layers[serviceType]);
+
+//       }
+//   console.log(layers);
+
+//     // if (pts ==='YES'){
+
+//     //   //   // create custom icon
+//     //   var firefoxIcon = L.icon({
+//     //       iconUrl: 'static/physical_therapy2.png',
+//     //       iconSize: [40, 40], // size of the icon
+//     //       popupAnchor: [0,-15]
+//     //       });
+
+//     //   //  // create popup contents
+//     //   var customPopup = "<h3>Name : " + homecareData[i].properties.name +"</h3><hr><p> Service quality: "  + homecareData[i].properties.sq  + "</p>";
+
+//     //   // //coordinated
+//     //   var lat = homecareData[i].properties.latitude;
+//     //   var lng = homecareData[i].properties.longitude;
+
+//     //   // //   //set variable for a marker represneting each service type
+//     //     if (lat, lng) {
+//     //       ncs_marker.push(L.marker([lat, lng]).bindPopup(customPopup,customOptions));//, {icon:firefoxIcon}
+//     //     }
+//     //   }
+//   // }
+  
+
+  
+// // Create two separate layer groups: one for each homecare service type 
+
+//   // var ncs_lyr = L.layerGroup(ncs_marker);
+//   // var pts_lyr = L.layerGroup(pts_marker);
+ 
+
+
+  
+//   // // Creating map object
+//   // var myMap = L.map("map", {
+//   //   center: [39.8, -98.58],
+//   //   zoom: 5
+//   // });
+
+//   // // Adding tile layer to the map
+//   // L.tileLayer(mapbox).addTo(myMap);
+
+  
+
+
+
+// };
 
     </script>
 
