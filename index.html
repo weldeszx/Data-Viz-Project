@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title>US Home Health Agency Data Visualization</title>
+    <meta charset="UTF-8">
+    
+    <!-- read the main geoJSON file -->
+    <script src="homecare.geojson" type="text/javascript"></script>
+
+    <!-- Bootstrap CSS -->
+    <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"> -->
+    <!-- plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+      <!-- leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+    integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+    crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
+    integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
+    crossorigin=""></script>
+      <!-- d3js -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+      <!-- jQuery -->
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+
+
+    <!-- Leaflet JS & CSS -->
+    <!-- <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.1/dist/leaflet.css" /> -->
+    <!-- <script src="https://unpkg.com/leaflet@1.0.1/dist/leaflet.js"></script> -->
+
+    <!-- Marker Cluster JS & CSS -->
+    <script type="text/javascript" src="https://unpkg.com/leaflet.markercluster@1.0.3/dist/leaflet.markercluster.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.css">
+    <link rel="stylesheet" type="text/css" href="https://unpkg.com/leaflet.markercluster@1.0.3/dist/MarkerCluster.Default.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!-- my CSS -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+  </head>
+  <body>
+    <!-- <div  style="color :red; padding: 0; !important"  class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h2 "><center>US Home Health Agency Data Visualization</center></h2>      
+        <p class="lead"></p>
+      </div>
+    </div> -->
+
+  <nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">US Home Health Agency Data Visualization</a>
+    </div>
+    <ul class="nav navbar-nav">
+      <li class="active"><a href="index.html">Home</a></li>
+      <li><a href="service_type_map.html">Service Type</a></li>
+      <li><a href="#">Page 2</a></li>
+      <li><a href="#">Page 3</a></li>
+    </ul>
+  </div>
+  </nav>
+
+    <hr>
+    <h3><center>Locations of Home Health Providers</center></h3>
+    <!-- <br> -->
+  <!-- Location map of providers with clustered markers -->
+  <!-- <div class="container"> -->
+    <!-- <div class="row"> -->
+    <div  id="map"></div>
+
+    <!-- <div  id="layerMap"></div> -->
+    <script type="text/javascript">
+
+// var url= "http://localhost:8000/Data-Viz-Project/myMap/homecare.geojson";
+  // console.log(url);
+
+// Perform a GET request to the query URL
+// d3.json(url, function(data) {
+d3.json("homecare.geojson", function(data) {
+  //  send the data.features object to the createFeatures and createClusteredMap functions
+  let homecareData = data.features;
+  // console.log(homecareData);
+  createFeatures(homecareData);
+  createClusteredMap(homecareData);
+  // createLayerMap(homecareData);
+});
+
+function createFeatures(homecareData) {
+
+  //  //for each feature in the features array
+  // //Give each feature a popup describing the service quality and renewal date of the provider
+  function onEachFeature(homecareData, layer) {};
+  
+  // //homecareData GeoJSON layer containing the features array on the homecareData object
+   L.geoJSON(homecareData, {
+    onEachFeature: onEachFeature
+  });
+
+};
+//    // Function to create clustered markers for alll the data
+function createClusteredMap(homecareData){
+      // Mapbox API
+  var mapbox = "https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2pnMzEwIiwiYSI6ImNpdGRjbWhxdjAwNG0yb3A5b21jOXluZTUifQ.T6YbdDixkOBWH_k9GbS8JQ";
+
+  // // // Creating map object
+  var myMap = L.map("map", {
+    center: [39.8, -98.58],
+    zoom: 5
+  });
+
+  // // // Adding tile layer to the map
+  L.tileLayer(mapbox).addTo(myMap);
+    //   // Creating a new marker cluster group
+  var markers = L.markerClusterGroup();
+  // console.log(markers);
+
+    // create custom icon
+  var homecareIcon = L.icon({
+      iconUrl: 'static/Homecare2.png',
+      iconSize: [30, 30], // size of the icon
+      popupAnchor: [0,-15]
+      });
+
+    // specify popup options 
+  var customOptions =
+      {
+      'maxWidth': '400',
+      'width': '200',
+      'background':'#2c3e50',
+      'color':'#fff',
+      'font-size':'16px',
+      'line-height':'24px',
+      'className' : 'popupCustom',
+      'border-left':'15px solid transparent',
+      'border-right':'15px solid transparent',
+      'border-top':'15px solid #2c3e50'
+      }
+
+//   // Loop through our data...
+  for (var i = 0; i < homecareData.length; i++) {
+//     // set the data location property to a variable
+    var lat = homecareData[i].properties.latitude;
+    var lng = homecareData[i].properties.longitude;
+    var name = homecareData[i].properties.name;
+    var serQ = homecareData[i].properties.sq;
+
+    //set the type of services to a variable
+    var ncs = homecareData[i].properties.ncs.toUpperCase();
+    var pts = homecareData[i].properties.pts.toUpperCase();
+    var sps = homecareData[i].properties.sps.toUpperCase();
+    var hhas = homecareData[i].properties.hhas.toUpperCase();
+    // console.log("ncs  " + ncs + "sps   " + sps + "pts  " + pts + "hhas   " + hhas);
+
+        // create popup contents
+    var customPopup = "<h5>Name   : " + name +"</h5><hr><p> Service quality: "  + serQ  + "</p>";
+
+//     // If the data has a location property...
+    if (lat, lng) {
+
+//       // Add a new marker to the cluster group and bind a pop-up
+      markers.addLayer(L.marker([lat,lng],{icon:homecareIcon})
+        .bindPopup(customPopup,customOptions));
+    }
+  };
+//   // Add our marker cluster layer to the map
+  myMap.addLayer(markers);
+  console.log(homecareData);
+};
+
+    </script>
+
+  </body>
+</html>
