@@ -48,10 +48,10 @@
         <a class="navbar-brand" href="index.html">US Home Health Agency Data Visualization</a>
       </div>
       <ul class="nav navbar-nav">
-        <li class="active"><a href="index.html">Home</a></li>
-        <li><a href="service_type_map.html">Service Type</a></li>
-        <li><a href="#">Page 2</a></li>
-        <li><a href="#">Page 3</a></li>
+        <li ><a href="index.html">Home</a></li>
+        <li class="active"><a href="service_type_map.html">Service Type</a></li>
+        <li><a href="#">Service Quality</a></li>
+        <li><a href="#">Find provider</a></li>
       </ul>
     </div>
     </nav>
@@ -123,7 +123,7 @@ function createLayerMap(homecareData){
   var myMap2 = L.map("map", {
     center: [39.8, -98.58],
     zoom: 5,
-    layers: [streetmap,
+    layers: [darkmap,
       layers.Nursing_Care_Services,
       layers.Physical_Therapy_Services,
       layers.Speech_Pathology_Services,
@@ -161,19 +161,23 @@ function createLayerMap(homecareData){
       };
 
   // var stateMarkers = [];
+  // homecareData.sort();
   console.log(homecareData);
 
    // Initialize a serviceType, which will be used as a key to access the appropriate layers, icons, and pop ups for layer group
   var serviceType;
+  var serviceIcon;
 
   // Loop through homecare and create  marker for each service type 
-  for (var i = 0; i < 1000; i++) { // homecareData.length
+  for (var i = 0; i < 12000; i+=Math.floor(Math.random()*20)) { //Math.floor(Math.random()*5)  //homecareData.length
 
     //   //coordinates and labels
+    // if (i === 1000) { break; }
     var lat = homecareData[i].properties.latitude;
     var lng = homecareData[i].properties.longitude;
     var name = homecareData[i].properties.name;
     var serQ = homecareData[i].properties.sq;
+
 
     //set the type of services to a variable
     var ncs = homecareData[i].properties.ncs.toUpperCase();
@@ -182,38 +186,118 @@ function createLayerMap(homecareData){
     var hhas = homecareData[i].properties.hhas.toUpperCase();
     console.log("ncs  " + ncs + "  sps   " + sps + "  pts  " + pts + "  hhas   " + hhas);
 
-
-
-    if (ncs==="YES"){
+    // // Homecare service tpe condition
+    //  // Nursing care services
+    if (ncs==='YES'){
       serviceType = "Nursing_Care_Services";
-    }
-    if (pts=='YES'){
-      serviceType = "Physical_Therapy_Services";
+      serviceIcon = "Nurse_icon.png";
+            // create popup contents
+      var customPopup = "<h5>Name : " + name +"</h5><hr><p> Service quality: "  + serQ  + "</p>";
 
-    }
-    if (sps=='YES'){
-      serviceType = "Speech_Pathology_Services";
-
-    }
-    if (hhas=='YES'){
-      serviceType = "Homehealth_Aid_Services";
-
-    }
-    console.log(serviceType);
-       // create popup contents
-    var customPopup = "<h3>Name : " + name +"</h3><hr><p> Service quality: "  + serQ  + "</p>";
-
-    //   //set variable for a marker represneting each service type
-    if (lat, lng) {
-      var new_marker = L.marker([lat, lng]).bindPopup(customPopup,customOptions);//, {icon:firefoxIcon}
-    }
-    // Add the new marker to the appropriate layer
-    new_marker.addTo(layers[serviceType]);
-
+       // // create custom icon
+      var serviceIcon = L.icon({
+          iconUrl: 'static/'+ serviceIcon,
+          iconSize: [20, 20], // size of the icon
+          popupAnchor: [0,-15]
+          });
+      //   //set variable for a marker represneting each service type
+      if (lat, lng) {
+        var new_marker = L.marker([lat, lng], {icon:serviceIcon}).bindPopup(customPopup,customOptions);
       }
-  // console.log(layers);
-};
+      // Add the new marker to the appropriate layer
+      new_marker.addTo(layers[serviceType]);
+      console.log(new_marker);
+    };
 
+        //  // Physical therapy services
+
+    if (pts==='YES'){
+      serviceType = "Physical_Therapy_Services";
+      serviceIcon = "physical_therapy2.png";
+            // create popup contents
+      var customPopup = "<h5>Name : " + name +"</h5><hr><p> Service quality: "  + serQ  + "</p>";
+
+       // // create custom icon
+      var serviceIcon = L.icon({
+          iconUrl: 'static/'+ serviceIcon,
+          iconSize: [20, 20], // size of the icon
+          popupAnchor: [0,-15]
+          });
+      //   //set variable for a marker represneting each service type
+      if (lat, lng) {
+        var new_marker = L.marker([lat, lng], {icon:serviceIcon}).bindPopup(customPopup,customOptions);
+      }
+      // Add the new marker to the appropriate layer
+      new_marker.addTo(layers[serviceType]);
+      console.log(new_marker);
+
+    };
+        //  // Speech pathology  services
+
+    if (sps==='YES'){
+      serviceType = "Speech_Pathology_Services";
+      serviceIcon = "speech_pathology.png";
+            // create popup contents
+      var customPopup = "<h5>Name : " + name +"</h5><hr><p> Service quality: "  + serQ  + "</p>";
+
+       // // create custom icon
+      var serviceIcon = L.icon({
+          iconUrl: 'static/'+ serviceIcon,
+          iconSize: [20, 20], // size of the icon
+          popupAnchor: [0,-15]
+          });
+      //   //set variable for a marker represneting each service type
+      if (lat, lng) {
+        var new_marker = L.marker([lat, lng], {icon:serviceIcon}).bindPopup(customPopup,customOptions);
+      }
+      // Add the new marker to the appropriate layer
+      new_marker.addTo(layers[serviceType]);
+      console.log(new_marker);
+
+    };
+        //  // Home health aid  services
+    if (hhas==='YES'){
+      serviceType = "Homehealth_Aid_Services";
+      serviceIcon ="hha_icon.png";
+            // create popup contents
+      var customPopup = "<h5>Name : " + name +"</h5><hr><p> Service quality: "  + serQ  + "</p>";
+
+       // // create custom icon
+      var serviceIcon = L.icon({
+          iconUrl: 'static/'+ serviceIcon,
+          iconSize: [15, 15], // size of the icon
+          popupAnchor: [0,-15]
+          });
+      //   //set variable for a marker represneting each service type
+      if (lat, lng) {
+        var new_marker = L.marker([lat, lng], {icon:serviceIcon}).bindPopup(customPopup,customOptions);
+      }
+      // Add the new marker to the appropriate layer
+      new_marker.addTo(layers[serviceType]);
+      console.log(new_marker);
+    };
+    // console.log(serviceType);
+    //  // create popup contents
+    // var customPopup = "<h5>Name : " + name +"</h5><hr><p> Service quality: "  + serQ  + "</p>";
+
+    //  // // create custom icon
+    // var serviceIcon = L.icon({
+    //     iconUrl: 'static/'+ serviceIcon,
+    //     iconSize: [30, 30], // size of the icon
+    //     popupAnchor: [0,-15]
+    //     });
+
+    // //   //set variable for a marker represneting each service type
+    // if (lat, lng) {
+    //   var new_marker = L.marker([lat, lng], {icon:serviceIcon}).bindPopup(customPopup,customOptions);
+    // }
+    // // Add the new marker to the appropriate layer
+    // new_marker.addTo(layers[serviceType]);
+    // console.log(new_marker);
+
+  }
+  
+};
     </script>
   </body>
 </html>
