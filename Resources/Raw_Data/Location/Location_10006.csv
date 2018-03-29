@@ -1,0 +1,589 @@
+LocationNO,Country,State_Abbv,State,County,City,ZipCode
+22427,United States,CT,Connecticut,Litchfield,BANTAM,6750
+22452,United States,CT,Connecticut,Hartford,BERLIN,6037
+22477,United States,CT,Connecticut,Fairfield,BETHEL,6801
+22502,United States,CT,Connecticut,Hartford,BLOOMFIELD,6002
+22527,United States,CT,Connecticut,New Haven,BRANFORD,6405
+22552,United States,CT,Connecticut,Fairfield,BRIDGEPORT,6604
+22577,United States,CT,Connecticut,Hartford,BRISTOL,6010
+22602,United States,CT,Connecticut,Middlesex,CENTERBROOK,6409
+22627,United States,CT,Connecticut,New Haven,CHESHIRE,6410
+22652,United States,CT,Connecticut,Middlesex,CROMWELL,6416
+22677,United States,CT,Connecticut,Fairfield,DANBURY,6810
+22702,United States,CT,Connecticut,Hartford,EAST HARTFORD,6108
+22727,United States,CT,Connecticut,Hartford,EAST HARTFORD,6118
+22752,United States,CT,Connecticut,New Haven,EAST HAVEN,6512
+22777,United States,CT,Connecticut,Hartford,ENFIELD,6083
+22802,United States,CT,Connecticut,Fairfield,FAIRFIELD,6824
+22827,United States,CT,Connecticut,Fairfield,FAIRFIELD,6825
+22852,United States,CT,Connecticut,Hartford,FARMINGTON,6032
+22877,United States,CT,Connecticut,Fairfield,GREENWICH,6831
+22902,United States,CT,Connecticut,New Haven,GUILFORD,6437
+22927,United States,CT,Connecticut,New Haven,HAMDEN,6514
+22952,United States,CT,Connecticut,New Haven,HAMDEN,6518
+22977,United States,CT,Connecticut,Hartford,HARTFORD,6106
+23002,United States,CT,Connecticut,Hartford,HARTFORD,6114
+23027,United States,CT,Connecticut,Tolland,HEBRON,6248
+23052,United States,CT,Connecticut,New London,LEDYARD,6339
+23077,United States,CT,Connecticut,New Haven,MERIDEN,6450
+23102,United States,CT,Connecticut,New Haven,MIDDLEBURY,6762
+23127,United States,CT,Connecticut,Middlesex,MIDDLETOWN,6457
+23152,United States,CT,Connecticut,New Haven,MILFORD,6460
+23177,United States,CT,Connecticut,New Haven,NAUGATUCK,6770
+23202,United States,CT,Connecticut,Hartford,NEW BRITAIN,6053
+23227,United States,CT,Connecticut,Fairfield,NEW CANAAN,6840
+23252,United States,CT,Connecticut,New Haven,NEW HAVEN,6511
+23277,United States,CT,Connecticut,New Haven,NEW HAVEN,6513
+23302,United States,CT,Connecticut,New Haven,NEW HAVEN,6519
+23327,United States,CT,Connecticut,Litchfield,NEW MILFORD,6776
+23352,United States,CT,Connecticut,New Haven,NORTH HAVEN,6473
+23377,United States,CT,Connecticut,Fairfield,NORWALK,6851
+23402,United States,CT,Connecticut,Fairfield,NORWALK,6854
+23427,United States,CT,Connecticut,New London,NORWICH,6360
+23452,United States,CT,Connecticut,Middlesex,OLD SAYBROOK,6475
+23477,United States,CT,Connecticut,New Haven,ORANGE,6477
+23502,United States,CT,Connecticut,Hartford,PLANTSVILLE,6479
+23527,United States,CT,Connecticut,New Haven,PROSPECT,6712
+23552,United States,CT,Connecticut,Windham,PUTNAM,6260
+23577,United States,CT,Connecticut,Fairfield,RIDGEFIELD,6877
+23602,United States,CT,Connecticut,Hartford,ROCKY HILL,6067
+23627,United States,CT,Connecticut,Litchfield,SALISBURY,6068
+23652,United States,CT,Connecticut,Hartford,SIMBURY,6070
+23677,United States,CT,Connecticut,Hartford,SIMSBURY,6070
+23702,United States,CT,Connecticut,Fairfield,STAMFORD,6901
+23727,United States,CT,Connecticut,Fairfield,STAMFORD,6902
+23752,United States,CT,Connecticut,Fairfield,STRATFORD,6497
+23777,United States,CT,Connecticut,Fairfield,STRATFORD,6614
+23802,United States,CT,Connecticut,Fairfield,STRATFORD,6615
+23827,United States,CT,Connecticut,Fairfield,TRUMBULL,6611
+23852,United States,CT,Connecticut,Tolland,VERNON,6066
+23877,United States,CT,Connecticut,New Haven,WALLINGFORD,6492
+23902,United States,CT,Connecticut,New Haven,WATERBURY,6705
+23927,United States,CT,Connecticut,New London,WATERFORD,6385
+23952,United States,CT,Connecticut,Litchfield,WATERTOWN,6795
+23977,United States,CT,Connecticut,Hartford,WEST HARTFORD,6110
+24002,United States,CT,Connecticut,Hartford,WEST HARTFORD,6119
+24027,United States,CT,Connecticut,Middlesex,WESTBROOK,6498
+24052,United States,CT,Connecticut,Fairfield,WESTPORT,6881
+24077,United States,CT,Connecticut,Hartford,WETHERSFIELD,6109
+24102,United States,CT,Connecticut,Litchfield,WINSTED,6098
+41302,United States,IL,Illinois,DuPage,ADDISON,60101
+41327,United States,IL,Illinois,McHenry,ALGONQUIN,60102
+41352,United States,IL,Illinois,Cook,ALSIP,60803
+41377,United States,IL,Illinois,Madison,ALTON,62002
+41402,United States,IL,Illinois,Cook,ARLINGTON HEIGHTS,60004
+41427,United States,IL,Illinois,Cook,ARLINGTON HEIGHTS,60005
+41452,United States,IL,Illinois,,AURORA,60502
+41477,United States,IL,Illinois,DuPage,AURORA,60504
+41502,United States,IL,Illinois,Kane,AURORA,60505
+41527,United States,IL,Illinois,Kane,AURORA,60506
+41552,United States,IL,Illinois,St. Clair,BELLEVILLE,62221
+41577,United States,IL,Illinois,St. Clair,BELLEVILLE,62223
+41602,United States,IL,Illinois,DuPage,BENSENVILLE,60106
+41627,United States,IL,Illinois,Cook,BERWYN,60402
+41652,United States,IL,Illinois,DuPage,BLOOMINGDALE,60108
+41677,United States,IL,Illinois,McLean,BLOOMINGTON,61704
+41702,United States,IL,Illinois,Cook,BLUE ISLAND,60406
+41727,United States,IL,Illinois,Will,BOLINGBROOK,60440
+41752,United States,IL,Illinois,Kankakee,BOURBONNAIS,60914
+41777,United States,IL,Illinois,Cook,BROADVIEW,60155
+41802,United States,IL,Illinois,Cook,BURNHAM,60633
+41827,United States,IL,Illinois,Cook,BURR RIDGE,60527
+41852,United States,IL,Illinois,Cook,CALUMET CITY,60409
+41877,United States,IL,Illinois,Fulton,CANTON,61520
+41902,United States,IL,Illinois,DuPage,CAROL STREAM,60188
+41927,United States,IL,Illinois,Greene,CARROLLTON,62016
+41952,United States,IL,Illinois,Hancock,CARTHAGE,62321
+41977,United States,IL,Illinois,St. Clair,CENTREVILLE,62207
+42002,United States,IL,Illinois,Champaign,CHAMPAIGN,61820
+42027,United States,IL,Illinois,Champaign,CHAMPAIGN,61821
+42052,United States,IL,Illinois,Champaign,CHAMPAIGN,61822
+42077,United States,IL,Illinois,Cook,CHICAGO,60601
+42102,United States,IL,Illinois,Cook,CHICAGO,60602
+42127,United States,IL,Illinois,Cook,CHICAGO,60605
+42152,United States,IL,Illinois,Cook,CHICAGO,60607
+42177,United States,IL,Illinois,Cook,CHICAGO,60608
+42202,United States,IL,Illinois,Cook,CHICAGO,60609
+42227,United States,IL,Illinois,Cook,CHICAGO,60610
+42252,United States,IL,Illinois,Cook,CHICAGO,60613
+42277,United States,IL,Illinois,Cook,CHICAGO,60616
+42302,United States,IL,Illinois,Cook,CHICAGO,60617
+42327,United States,IL,Illinois,Cook,CHICAGO,60618
+42352,United States,IL,Illinois,Cook,CHICAGO,60619
+42377,United States,IL,Illinois,Cook,CHICAGO,60620
+42402,United States,IL,Illinois,Cook,CHICAGO,60622
+42427,United States,IL,Illinois,Cook,CHICAGO,60625
+42452,United States,IL,Illinois,Cook,CHICAGO,60629
+42477,United States,IL,Illinois,Cook,CHICAGO,60630
+42502,United States,IL,Illinois,Cook,CHICAGO,60631
+42527,United States,IL,Illinois,Cook,CHICAGO,60632
+42552,United States,IL,Illinois,Cook,CHICAGO,60634
+42577,United States,IL,Illinois,Cook,CHICAGO,60638
+42602,United States,IL,Illinois,Cook,CHICAGO,60639
+42627,United States,IL,Illinois,Cook,CHICAGO,60640
+42652,United States,IL,Illinois,Cook,CHICAGO,60641
+42677,United States,IL,Illinois,Cook,CHICAGO,60642
+42702,United States,IL,Illinois,Cook,CHICAGO,60643
+42727,United States,IL,Illinois,Cook,CHICAGO,60645
+42752,United States,IL,Illinois,Cook,CHICAGO,60646
+42777,United States,IL,Illinois,Cook,CHICAGO,60647
+42802,United States,IL,Illinois,Cook,CHICAGO,60649
+42827,United States,IL,Illinois,Cook,CHICAGO,60652
+42852,United States,IL,Illinois,Cook,CHICAGO,60653
+42877,United States,IL,Illinois,Cook,CHICAGO,60655
+42902,United States,IL,Illinois,Cook,CHICAGO,60656
+42927,United States,IL,Illinois,Cook,CHICAGO,60657
+42952,United States,IL,Illinois,Cook,CHICAGO,60659
+42977,United States,IL,Illinois,Cook,CHICAGO,60707
+43002,United States,IL,Illinois,Cook,CHICAGO HEIGHTS,60411
+43027,United States,IL,Illinois,Cook,CHICAGO RIDGE,60415
+43052,United States,IL,Illinois,Cook,CICERO,60804
+43077,United States,IL,Illinois,DuPage,CLARENDON HILLS,60514
+43102,United States,IL,Illinois,Grundy,COAL CITY,60416
+43127,United States,IL,Illinois,Cook,COUNTRYSIDE,60525
+43152,United States,IL,Illinois,Will,CREST HILL,60435
+43177,United States,IL,Illinois,Cook,CRESTWOOD,60445
+43202,United States,IL,Illinois,McHenry,CRYSTAL LAKE,60012
+43227,United States,IL,Illinois,McHenry,CRYSTAL LAKE,60014
+43252,United States,IL,Illinois,DuPage,DARIEN,60561
+43277,United States,IL,Illinois,Macon,DECATUR,62522
+43302,United States,IL,Illinois,Macon,DECATUR,62526
+43327,United States,IL,Illinois,DeKalb,DEKALB,60115
+43352,United States,IL,Illinois,Cook,DES PLAINES,60016
+43377,United States,IL,Illinois,Cook,DES PLAINES,60018
+43402,United States,IL,Illinois,Lee,DIXON,61021
+43427,United States,IL,Illinois,Cook,DOLTON,60419
+43452,United States,IL,Illinois,DuPage,DOWNERS GROVE,60515
+43477,United States,IL,Illinois,DuPage,DOWNERS GROVE,60516
+43502,United States,IL,Illinois,Tazewell,EAST PEORIA,61611
+43527,United States,IL,Illinois,St. Clair,EAST SAINT LOUIS,62202
+43552,United States,IL,Illinois,Madison,EDWARDSVILLE,62025
+43577,United States,IL,Illinois,Effingham,EFFINGHAM,62401
+43602,United States,IL,Illinois,Saline,ELDORADO,62930
+43627,United States,IL,Illinois,Kane,ELGIN,60123
+43652,United States,IL,Illinois,Cook,ELK GROVE VILLAGE,60007
+43677,United States,IL,Illinois,DuPage,ELMHURST,60126
+43702,United States,IL,Illinois,Cook,EVERGREEN PARK,60805
+43727,United States,IL,Illinois,Wayne,FAIRFIELD,62837
+43752,United States,IL,Illinois,St. Clair,FAIRVIEW HEIGHTS,62208
+43777,United States,IL,Illinois,Fulton,FARMINGTON,61531
+43802,United States,IL,Illinois,Clay,FLORA,62839
+43827,United States,IL,Illinois,Cook,FLOSSMOOR,60422
+43852,United States,IL,Illinois,Macon,FORSYTH,62535
+43877,United States,IL,Illinois,Will,FRANKFORT,60423
+43902,United States,IL,Illinois,Cook,FRANKLIN PARK,60131
+43927,United States,IL,Illinois,Stephenson,FREEPORT,61032
+43952,United States,IL,Illinois,Jo Daviess,GALENA,61036
+43977,United States,IL,Illinois,Knox,GALESBURG,61401
+44002,United States,IL,Illinois,Henry,GENESEO,61254
+44027,United States,IL,Illinois,DeKalb,GENOA,60135
+44052,United States,IL,Illinois,Henderson,GLADSTONE,61437
+44077,United States,IL,Illinois,DuPage,GLEN ELLYN,60137
+44102,United States,IL,Illinois,DuPage,GLENDALE HEIGHTS,60139
+44127,United States,IL,Illinois,Cook,GLENVIEW,60025
+44152,United States,IL,Illinois,Cook,GLENVIEW,60026
+44177,United States,IL,Illinois,Madison,GRANITE CITY,62040
+44202,United States,IL,Illinois,Lake,GRAYSLAKE,60030
+44227,United States,IL,Illinois,Bond,GREENVILLE,62246
+44252,United States,IL,Illinois,Lake,GURNEE,60031
+44277,United States,IL,Illinois,Lake,HAINESVILLE,60030
+44302,United States,IL,Illinois,Cook,HANOVER PARK,60103
+44327,United States,IL,Illinois,Calhoun,HARDIN,62047
+44352,United States,IL,Illinois,Saline,HARRISBURG,62946
+44377,United States,IL,Illinois,Cook,HARVEY,60426
+44402,United States,IL,Illinois,Cook,HARWOOD HEIGHTS,60656
+44427,United States,IL,Illinois,Cook,HARWOOD HEIGHTS,60706
+44452,United States,IL,Illinois,Mason,HAVANA,62644
+44477,United States,IL,Illinois,Cook,HAZEL CREST,60429
+44502,United States,IL,Illinois,Williamson,HERRIN,62948
+44527,United States,IL,Illinois,DuPage,HINSDALE,60521
+44552,United States,IL,Illinois,,HOFFMAN ESTATES,60169
+44577,United States,IL,Illinois,Cook,HOMEWOOD,60430
+44602,United States,IL,Illinois,DuPage,ITASCA,60143
+44627,United States,IL,Illinois,Jersey,JERSEYVILLE,62052
+44652,United States,IL,Illinois,Will,JOLIET,60435
+44677,United States,IL,Illinois,Kankakee,KANKAKEE,60901
+44702,United States,IL,Illinois,Henry,KEWANEE,61443
+44727,United States,IL,Illinois,Cook,LA GRANGE,60525
+44752,United States,IL,Illinois,Lake,LAKE BLUFF,60044
+44777,United States,IL,Illinois,McHenry,LAKE IN THE HILLS,60156
+44802,United States,IL,Illinois,Lake,LAKE ZURICH,60047
+44827,United States,IL,Illinois,Cook,LANSING,60438
+44852,United States,IL,Illinois,Lawrence,LAWRENCEVILLE,62439
+44877,United States,IL,Illinois,DuPage,LEMONT,60439
+44902,United States,IL,Illinois,Lake,LIBERTYVILLE,60048
+44927,United States,IL,Illinois,Logan,LINCOLN,62656
+44952,United States,IL,Illinois,Lake,LINCOLNSHIRE,60069
+44977,United States,IL,Illinois,Cook,LINCOLNWOOD,60712
+45002,United States,IL,Illinois,DuPage,LISLE,60532
+45027,United States,IL,Illinois,Will,LOCKPORT,60441
+45052,United States,IL,Illinois,DuPage,LOMBARD,60148
+45077,United States,IL,Illinois,Winnebago,LOVES PARK,61111
+45102,United States,IL,Illinois,Cook,LYNWOOD,60411
+45127,United States,IL,Illinois,McDonough,MACOMB,61455
+45152,United States,IL,Illinois,Williamson,MARION,62959
+45177,United States,IL,Illinois,Cook,MARKHAM,60426
+45202,United States,IL,Illinois,Madison,MARYVILLE,62062
+45227,United States,IL,Illinois,Cook,MATTESON,60443
+45252,United States,IL,Illinois,Coles,MATTOON,61938
+45277,United States,IL,Illinois,Cook,MAYWOOD,60153
+45302,United States,IL,Illinois,McHenry,MCHENRY,60050
+45327,United States,IL,Illinois,Cook,MELROSE PARK,60160
+45352,United States,IL,Illinois,Cook,MIDLOTHIAN,60445
+45377,United States,IL,Illinois,Will,MOKENA,60448
+45402,United States,IL,Illinois,Rock Island,MOLINE,61265
+45427,United States,IL,Illinois,Warren,MONMOUTH,61462
+45452,United States,IL,Illinois,Grundy,MORRIS,60450
+45477,United States,IL,Illinois,Tazewell,MORTON,61550
+45502,United States,IL,Illinois,Cook,MORTON GROVE,60053
+45527,United States,IL,Illinois,Cook,MOUNT PROSPECT,60056
+45552,United States,IL,Illinois,Jefferson,MOUNT VERNON,62864
+45577,United States,IL,Illinois,DuPage,NAPERVILLE,60540
+45602,United States,IL,Illinois,DuPage,NAPERVILLE,60563
+45627,United States,IL,Illinois,Will,NAPERVILLE,60564
+45652,United States,IL,Illinois,Will,NEW LENOX,60451
+45677,United States,IL,Illinois,Cook,NILES,60714
+45702,United States,IL,Illinois,McLean,NORMAL,61761
+45727,United States,IL,Illinois,Cook,NORRIDGE,60706
+45752,United States,IL,Illinois,Cook,NORTH RIVERSIDE,60546
+45777,United States,IL,Illinois,Cook,NORTHBROOK,60062
+45802,United States,IL,Illinois,Cook,NORTHFIELD,60093
+45827,United States,IL,Illinois,St. Clair,O FALLON,62269
+45852,United States,IL,Illinois,DuPage,OAK BROOK,60523
+45877,United States,IL,Illinois,Cook,OAK FOREST,60452
+45902,United States,IL,Illinois,Cook,OAK LAWN,60453
+45927,United States,IL,Illinois,Cook,OAK PARK,60302
+45952,United States,IL,Illinois,Cook,OAK PARK,60304
+45977,United States,IL,Illinois,DuPage,OAKBROOK TER,60181
+46002,United States,IL,Illinois,DuPage,OAKBROOK TERRACE,60181
+46027,United States,IL,Illinois,Richland,OLNEY,62450
+46052,United States,IL,Illinois,Cook,OLYMPIA FIELDS,60461
+46077,United States,IL,Illinois,Cook,ORLAND PARK,60462
+46102,United States,IL,Illinois,Cook,ORLAND PARK,60467
+46127,United States,IL,Illinois,Kendall,OSWEGO,60543
+46152,United States,IL,Illinois,Cook,PALATINE,60067
+46177,United States,IL,Illinois,Cook,PALOS HEIGHTS,60463
+46202,United States,IL,Illinois,Cook,PALOS HILLS,60465
+46227,United States,IL,Illinois,Christian,PANA,62557
+46252,United States,IL,Illinois,Cook,PARK FOREST,60466
+46277,United States,IL,Illinois,Cook,PARK RIDGE,60068
+46302,United States,IL,Illinois,Tazewell,PEKIN,61554
+46327,United States,IL,Illinois,Peoria,PEORIA,61614
+46352,United States,IL,Illinois,Peoria,PEORIA,61615
+46377,United States,IL,Illinois,Peoria,PEORIA,61636
+46402,United States,IL,Illinois,Will,PEOTONE,60468
+46427,United States,IL,Illinois,Perry,PINCKNEYVILLE,62274
+46452,United States,IL,Illinois,Pike,PITTSFIELD,62363
+46477,United States,IL,Illinois,,PLAINFIELD,60585
+46502,United States,IL,Illinois,Bureau,PRINCETON,61356
+46527,United States,IL,Illinois,Adams,QUINCY,62305
+46552,United States,IL,Illinois,Randolph,RED BUD,62278
+46577,United States,IL,Illinois,Cook,RIVER GROVE,60171
+46602,United States,IL,Illinois,Crawford,ROBINSON,62454
+46627,United States,IL,Illinois,Rock Island,ROCK ISLAND,61201
+46652,United States,IL,Illinois,Winnebago,ROCKFORD,61103
+46677,United States,IL,Illinois,Winnebago,ROCKFORD,61104
+46702,United States,IL,Illinois,Winnebago,ROCKFORD,61108
+46727,United States,IL,Illinois,Winnebago,ROCKFORD,61112
+46752,United States,IL,Illinois,Cook,ROLLING MDWS,60008
+46777,United States,IL,Illinois,DuPage,ROSELLE,60172
+46802,United States,IL,Illinois,Kane,SAINT CHARLES,60174
+46827,United States,IL,Illinois,Cook,SCHAUMBURG,60173
+46852,United States,IL,Illinois,Cook,SCHAUMBURG,60193
+46877,United States,IL,Illinois,Shelby,SHELBYVILLE,62565
+46902,United States,IL,Illinois,St. Clair,SHILOH,62269
+46927,United States,IL,Illinois,Cook,SKOKIE,60076
+46952,United States,IL,Illinois,Cook,SKOKIE,60077
+46977,United States,IL,Illinois,Lake,SOUTH BARRINGTON,60010
+47002,United States,IL,Illinois,Kane,SOUTH ELGIN,60177
+47027,United States,IL,Illinois,Cook,SOUTH HOLLAND,60473
+47052,United States,IL,Illinois,Randolph,SPARTA,62286
+47077,United States,IL,Illinois,Bureau,SPRING VALLEY,61362
+47102,United States,IL,Illinois,Sangamon,SPRINGFIELD,62701
+47127,United States,IL,Illinois,Sangamon,SPRINGFIELD,62702
+47152,United States,IL,Illinois,Sangamon,SPRINGFIELD,62704
+47177,United States,IL,Illinois,Sangamon,SPRINGFIELD,62711
+47202,United States,IL,Illinois,Whiteside,STERLING,61081
+47227,United States,IL,Illinois,Moultrie,SULLIVAN,61951
+47252,United States,IL,Illinois,St. Clair,SWANSEA,62226
+47277,United States,IL,Illinois,Cook,TINLEY PARK,60477
+47302,United States,IL,Illinois,,TINLEY PARK,60487
+47327,United States,IL,Illinois,Fayette,VANDALIA,62471
+47352,United States,IL,Illinois,DuPage,VILLA PARK,60181
+47377,United States,IL,Illinois,Cass,VIRGINIA,62691
+47402,United States,IL,Illinois,Iroquois,WATSEKA,60970
+47427,United States,IL,Illinois,DuPage,WEST CHICAGO,60185
+47452,United States,IL,Illinois,Kane,WEST DUNDEE,60118
+47477,United States,IL,Illinois,Cook,WESTCHESTER,60154
+47502,United States,IL,Illinois,DuPage,WESTMONT,60559
+47527,United States,IL,Illinois,DuPage,WHEATON,60187
+47552,United States,IL,Illinois,Cook,WHEELING,60090
+47577,United States,IL,Illinois,Cook,WILLOWBROOK,60527
+47602,United States,IL,Illinois,Cook,WILMETTE,60091
+47627,United States,IL,Illinois,DuPage,WOOD DALE,60191
+47652,United States,IL,Illinois,DuPage,WOODRIDGE,60517
+47677,United States,IL,Illinois,McHenry,WOODSTOCK,60098
+47702,United States,IL,Illinois,Cook,WORTH,60482
+47727,United States,IL,Illinois,Kendall,YORKVILLE,60560
+47752,United States,IL,Illinois,Lake,ZION,60099
+50977,United States,KS,Kansas,Dickinson,ABILENE,67410
+51002,United States,KS,Kansas,Harper,ANTHONY,67003
+51027,United States,KS,Kansas,Atchison,ATCHISON,66002
+51052,United States,KS,Kansas,Leavenworth,BASEHOR,66007
+51077,United States,KS,Kansas,Republic,BELLEVILLE,66935
+51102,United States,KS,Kansas,Mitchell,BELOIT,67420
+51127,United States,KS,Kansas,Wyandotte,BONNER SPRINGS,66012
+51152,United States,KS,Kansas,Coffey,BURLINGTON,66839
+51177,United States,KS,Kansas,Neosho,CHANUTE,66720
+51202,United States,KS,Kansas,Clay,CLAY CENTER,67432
+51227,United States,KS,Kansas,Montgomery,COFFEYVILLE,67337
+51252,United States,KS,Kansas,Thomas,COLBY,67701
+51277,United States,KS,Kansas,Cloud,CONCORDIA,66901
+51302,United States,KS,Kansas,Ford,DODGE CITY,67801
+51327,United States,KS,Kansas,Butler,EL DORADO,67042
+51352,United States,KS,Kansas,Lyon,EMPORIA,66801
+51377,United States,KS,Kansas,Greenwood,EUREKA,67045
+51402,United States,KS,Kansas,Bourbon,FORT SCOTT,66701
+51427,United States,KS,Kansas,Wilson,FREDONIA,66736
+51452,United States,KS,Kansas,Finney,GARDEN CITY,67846
+51477,United States,KS,Kansas,Crawford,GIRARD,66743
+51502,United States,KS,Kansas,Sherman,GOODLAND,67735
+51527,United States,KS,Kansas,Barton,GREAT BEND,67530
+51552,United States,KS,Kansas,Ellis,HAYS,67601
+51577,United States,KS,Kansas,Brown,HIAWATHA,66434
+51602,United States,KS,Kansas,Jackson,HOLTON,66436
+51627,United States,KS,Kansas,Reno,HUTCHINSON,67501
+51652,United States,KS,Kansas,Montgomery,INDEPENDENCE,67301
+51677,United States,KS,Kansas,Allen,IOLA,66749
+51702,United States,KS,Kansas,Geary,JUNCTION CITY,66441
+51727,United States,KS,Kansas,Wyandotte,KANSAS CITY,66102
+51752,United States,KS,Kansas,Wyandotte,KANSAS CITY,66106
+51777,United States,KS,Kansas,Kingman,KINGMAN,67068
+51802,United States,KS,Kansas,Kearny,LAKIN,67860
+51827,United States,KS,Kansas,Douglas,LAWRENCE,66044
+51852,United States,KS,Kansas,Johnson,LEAWOOD,66209
+51877,United States,KS,Kansas,Johnson,LENEXA,66215
+51902,United States,KS,Kansas,Seward,LIBERAL,67901
+51927,United States,KS,Kansas,Lincoln,LINCOLN,67455
+51952,United States,KS,Kansas,Riley,MANHATTAN,66502
+51977,United States,KS,Kansas,Riley,MANHATTAN,66503
+52002,United States,KS,Kansas,Marion,MARION,66861
+52027,United States,KS,Kansas,Marshall,MARYSVILLE,66508
+52052,United States,KS,Kansas,McPherson,MCPHERSON,67460
+52077,United States,KS,Kansas,Ness,NESS CITY,67560
+52102,United States,KS,Kansas,Harvey,NEWTON,67114
+52127,United States,KS,Kansas,Johnson,OLATHE,66061
+52152,United States,KS,Kansas,Pottawatomie,ONAGA,66521
+52177,United States,KS,Kansas,Jefferson,OSKALOOSA,66066
+52202,United States,KS,Kansas,Johnson,OVERLAND PARK,66202
+52227,United States,KS,Kansas,Johnson,OVERLAND PARK,66207
+52252,United States,KS,Kansas,Johnson,OVERLAND PARK,66210
+52277,United States,KS,Kansas,Johnson,OVERLAND PARK,66211
+52302,United States,KS,Kansas,Miami,PAOLA,66071
+52327,United States,KS,Kansas,Labette,PARSONS,67357
+52352,United States,KS,Kansas,Phillips,PHILLIPSBURG,67661
+52377,United States,KS,Kansas,Crawford,PITTSBURG,66762
+52402,United States,KS,Kansas,Johnson,PRAIRIE VILLAGE,66208
+52427,United States,KS,Kansas,Pratt,PRATT,67124
+52452,United States,KS,Kansas,Nemaha,SABETHA,66534
+52477,United States,KS,Kansas,Saline,SALINA,67401
+52502,United States,KS,Kansas,Johnson,SHAWNEE MISSION,66204
+52527,United States,KS,Kansas,Cheyenne,ST FRANCIS,67756
+52552,United States,KS,Kansas,Stafford,STAFFORD,67578
+52577,United States,KS,Kansas,Rooks,STOCKTON,67669
+52602,United States,KS,Kansas,Shawnee,TOPEKA,66604
+52627,United States,KS,Kansas,Shawnee,TOPEKA,66606
+52652,United States,KS,Kansas,Shawnee,TOPEKA,66611
+52677,United States,KS,Kansas,Shawnee,TOPEKA,66612
+52702,United States,KS,Kansas,Shawnee,TOPEKA,66614
+52727,United States,KS,Kansas,Doniphan,TROY,66087
+52752,United States,KS,Kansas,Trego,WAKEENEY,67672
+52777,United States,KS,Kansas,Washington,WASHINGTON,66968
+52802,United States,KS,Kansas,Sumner,WELLINGTON,67152
+52827,United States,KS,Kansas,Sedgwick,WICHITA,67202
+52852,United States,KS,Kansas,Sedgwick,WICHITA,67203
+52877,United States,KS,Kansas,Sedgwick,WICHITA,67205
+52902,United States,KS,Kansas,Sedgwick,WICHITA,67206
+52927,United States,KS,Kansas,Sedgwick,WICHITA,67207
+52952,United States,KS,Kansas,Sedgwick,WICHITA,67211
+52977,United States,KS,Kansas,Sedgwick,WICHITA,67212
+53002,United States,KS,Kansas,Sedgwick,WICHITA,67213
+53027,United States,KS,Kansas,Sedgwick,WICHITA,67214
+53052,United States,KS,Kansas,Sedgwick,WICHITA,67226
+53077,United States,KS,Kansas,Cowley,WINFIELD,67156
+71877,United States,MO,Missouri,Gentry,ALBANY,64402
+71902,United States,MO,Missouri,St. Louis,BALLWIN,63011
+71927,United States,MO,Missouri,Harrison,BETHANY,64424
+71952,United States,MO,Missouri,Polk,BOLIVAR,65613
+71977,United States,MO,Missouri,Pike,BOWLING GREEN,63334
+72002,United States,MO,Missouri,Taney,BRANSON,65616
+72027,United States,MO,Missouri,St. Louis,BRENTWOOD,63144
+72052,United States,MO,Missouri,St. Louis,BRIDGETON,63044
+72077,United States,MO,Missouri,Clinton,CAMERON,64429
+72102,United States,MO,Missouri,Dunklin,CAMPBELL,63933
+72127,United States,MO,Missouri,Cape Girardeau,CAPE GIRARDEAU,63703
+72152,United States,MO,Missouri,Carroll,CARROLLTON,64633
+72177,United States,MO,Missouri,St. Louis,CHESTERFIELD,63017
+72202,United States,MO,Missouri,Henry,CLINTON,64735
+72227,United States,MO,Missouri,Boone,COLUMBIA,65201
+72252,United States,MO,Missouri,Boone,COLUMBIA,65202
+72277,United States,MO,Missouri,Boone,COLUMBIA,65203
+72302,United States,MO,Missouri,St. Louis,CREVE COEUR,63141
+72327,United States,MO,Missouri,Pulaski,CROCKER,65452
+72352,United States,MO,Missouri,Stoddard,DEXTER,63841
+72377,United States,MO,Missouri,Ripley,DONIPHAN,63935
+72402,United States,MO,Missouri,Knox,EDINA,63537
+72427,United States,MO,Missouri,Cedar,EL DORADO SPRINGS,64744
+72452,United States,MO,Missouri,Shannon,EMINENCE,65466
+72477,United States,MO,Missouri,Clay,EXCELSIOR SPRINGS,64024
+72502,United States,MO,Missouri,Atchison,FAIRFAX,64446
+72527,United States,MO,Missouri,St. Francois,FARMINGTON,63640
+72552,United States,MO,Missouri,Howard,FAYETTE,65248
+72577,United States,MO,Missouri,Jefferson,FESTUS,63028
+72602,United States,MO,Missouri,St. Louis,FLORISSANT,63033
+72627,United States,MO,Missouri,Madison,FREDERICKTOWN,63645
+72652,United States,MO,Missouri,Marion,HANNIBAL,63401
+72677,United States,MO,Missouri,Pemiscot,HAYTI,63851
+72702,United States,MO,Missouri,Gasconade,HERMANN,65041
+72727,United States,MO,Missouri,Jefferson,HILLSBORO,63050
+72752,United States,MO,Missouri,Texas,HOUSTON,65483
+72777,United States,MO,Missouri,Jackson,INDEPENDENCE,64055
+72802,United States,MO,Missouri,Jackson,INDEPENDENCE,64057
+72827,United States,MO,Missouri,Cape Girardeau,JACKSON,63755
+72852,United States,MO,Missouri,Cole,JEFFERSON CITY,65101
+72877,United States,MO,Missouri,Cole,JEFFERSON CITY,65109
+72902,United States,MO,Missouri,Jasper,JOPLIN,64801
+72927,United States,MO,Missouri,Jasper,JOPLIN,64804
+72952,United States,MO,Missouri,Clark,KAHOKA,63445
+72977,United States,MO,Missouri,Jackson,KANSAS CITY,64108
+73002,United States,MO,Missouri,Jackson,KANSAS CITY,64109
+73027,United States,MO,Missouri,Jackson,KANSAS CITY,64110
+73052,United States,MO,Missouri,Jackson,KANSAS CITY,64111
+73077,United States,MO,Missouri,Jackson,KANSAS CITY,64113
+73102,United States,MO,Missouri,Jackson,KANSAS CITY,64114
+73127,United States,MO,Missouri,Jackson,KANSAS CITY,64123
+73152,United States,MO,Missouri,Jackson,KANSAS CITY,64131
+73177,United States,MO,Missouri,Platte,KANSAS CITY,64154
+73202,United States,MO,Missouri,Dunklin,KENNETT,63857
+73227,United States,MO,Missouri,Adair,KIRKSVILLE,63501
+73252,United States,MO,Missouri,St. Louis,KIRKWOOD,63122
+73277,United States,MO,Missouri,St. Charles,LAKE SAINT LOUIS,63367
+73302,United States,MO,Missouri,Barton,LAMAR,64759
+73327,United States,MO,Missouri,Schuyler,LANCASTER,63548
+73352,United States,MO,Missouri,Jackson,LEES SUMMIT,64064
+73377,United States,MO,Missouri,Jackson,LEES SUMMIT,64081
+73402,United States,MO,Missouri,Jackson,LEES SUMMIT,64086
+73427,United States,MO,Missouri,Clay,LIBERTY,64068
+73452,United States,MO,Missouri,Dunklin,MALDEN,63863
+73477,United States,MO,Missouri,Saline,MARSHALL,65340
+73502,United States,MO,Missouri,Nodaway,MARYVILLE,64468
+73527,United States,MO,Missouri,Scotland,MEMPHIS,63555
+73552,United States,MO,Missouri,Audrain,MEXICO,65265
+73577,United States,MO,Missouri,Randolph,MOBERLY,65270
+73602,United States,MO,Missouri,Montgomery,MONTGOMERY CITY,63361
+73627,United States,MO,Missouri,Lewis,MONTICELLO,63457
+73652,United States,MO,Missouri,Vernon,NEVADA,64772
+73677,United States,MO,Missouri,Ralls,NEW LONDON,63459
+73702,United States,MO,Missouri,Clay,NORTH KANSAS CITY,64116
+73727,United States,MO,Missouri,,O FALLON,63368
+73752,United States,MO,Missouri,Camden,OSAGE BEACH,65065
+73777,United States,MO,Missouri,Christian,OZARK,65721
+73802,United States,MO,Missouri,Monroe,PARIS,65275
+73827,United States,MO,Missouri,Perry,PERRYVILLE,63775
+73852,United States,MO,Missouri,Iron,PILOT KNOB,63663
+73877,United States,MO,Missouri,Butler,POPLAR BLUFF,63901
+73902,United States,MO,Missouri,Jackson,RAYTOWN,64133
+73927,United States,MO,Missouri,Ray,RICHMOND,64085
+73952,United States,MO,Missouri,Phelps,ROLLA,65401
+73977,United States,MO,Missouri,St. Louis,SAINT ANN,63074
+74002,United States,MO,Missouri,St. Charles,SAINT CHARLES,63303
+74027,United States,MO,Missouri,St. Louis,SAINT JOHN,63114
+74052,United States,MO,Missouri,Buchanan,SAINT JOSEPH,64503
+74077,United States,MO,Missouri,Andrew,SAINT JOSEPH,64506
+74102,United States,MO,Missouri,St. Louis (city),SAINT LOUIS,63110
+74127,United States,MO,Missouri,St. Louis (city),SAINT LOUIS,63112
+74152,United States,MO,Missouri,St. Louis,SAINT LOUIS,63114
+74177,United States,MO,Missouri,St. Louis (city),SAINT LOUIS,63115
+74202,United States,MO,Missouri,St. Louis,SAINT LOUIS,63123
+74227,United States,MO,Missouri,St. Louis,SAINT LOUIS,63126
+74252,United States,MO,Missouri,St. Louis,SAINT LOUIS,63127
+74277,United States,MO,Missouri,St. Louis,SAINT LOUIS,63128
+74302,United States,MO,Missouri,St. Louis,SAINT LOUIS,63130
+74327,United States,MO,Missouri,St. Louis,SAINT LOUIS,63131
+74352,United States,MO,Missouri,St. Louis,SAINT LOUIS,63132
+74377,United States,MO,Missouri,St. Louis,SAINT LOUIS,63135
+74402,United States,MO,Missouri,St. Louis,SAINT LOUIS,63137
+74427,United States,MO,Missouri,St. Louis,SAINT LOUIS,63141
+74452,United States,MO,Missouri,St. Louis,SAINT LOUIS,63144
+74477,United States,MO,Missouri,St. Louis,SAINT LOUIS,63146
+74502,United States,MO,Missouri,St. Charles,SAINT PETERS,63376
+74527,United States,MO,Missouri,Ste. Genevieve,SAINTE GENEVIEVE,63670
+74552,United States,MO,Missouri,Dent,SALEM,65560
+74577,United States,MO,Missouri,Scott,SIKESTON,63801
+74602,United States,MO,Missouri,Greene,SPRINGFIELD,65803
+74627,United States,MO,Missouri,Greene,SPRINGFIELD,65804
+74652,United States,MO,Missouri,Greene,SPRINGFIELD,65807
+74677,United States,MO,Missouri,Greene,SPRINGFIELD,65808
+74702,United States,MO,Missouri,Greene,SPRINGFIELD,65810
+74727,United States,MO,Missouri,St. Charles,ST PETERS,63376
+74752,United States,MO,Missouri,St. Louis,ST. LOUIS,63122
+74777,United States,MO,Missouri,Pemiscot,STEELE,63877
+74802,United States,MO,Missouri,Grundy,TRENTON,64683
+74827,United States,MO,Missouri,Carter,VAN BUREN,63965
+74852,United States,MO,Missouri,Johnson,WARRENSBURG,64093
+74877,United States,MO,Missouri,Benton,WARSAW,65355
+74902,United States,MO,Missouri,Franklin,WASHINGTON,63090
+74927,United States,MO,Missouri,Howell,WEST PLAINS,65775
+74952,United States,MO,Missouri,Howell,WILLOW SPRINGS,65793
+80202,United States,NE,Nebraska,Brown,AINSWORTH,69210
+80227,United States,NE,Nebraska,Boone,ALBION,68620
+80252,United States,NE,Nebraska,Nemaha,AUBURN,68305
+80277,United States,NE,Nebraska,Gage,BEATRICE,68310
+80302,United States,NE,Nebraska,Sarpy,BELLEVUE,68005
+80327,United States,NE,Nebraska,Washington,BLAIR,68008
+80352,United States,NE,Nebraska,Morrill,BRIDGEPORT,69336
+80377,United States,NE,Nebraska,Dawes,CHADRON,69337
+80402,United States,NE,Nebraska,Platte,COLUMBUS,68601
+80427,United States,NE,Nebraska,Dawson,COZAD,69130
+80452,United States,NE,Nebraska,Knox,CREIGHTON,68729
+80477,United States,NE,Nebraska,Jefferson,FAIRBURY,68352
+80502,United States,NE,Nebraska,Richardson,FALLS CITY,68355
+80527,United States,NE,Nebraska,Dodge,FREMONT,68025
+80552,United States,NE,Nebraska,Hall,GRAND ISLAND,68803
+80577,United States,NE,Nebraska,Perkins,GRANT,69140
+80602,United States,NE,Nebraska,Adams,HASTINGS,68901
+80627,United States,NE,Nebraska,Thayer,HEBRON,68370
+80652,United States,NE,Nebraska,Phelps,HOLDREGE,68949
+80677,United States,NE,Nebraska,Buffalo,KEARNEY,68847
+80702,United States,NE,Nebraska,Sarpy,LA VISTA,68128
+80727,United States,NE,Nebraska,Dawson,LEXINGTON,68850
+80752,United States,NE,Nebraska,Lancaster,LINCOLN,68506
+80777,United States,NE,Nebraska,Lancaster,LINCOLN,68510
+80802,United States,NE,Nebraska,Lancaster,LINCOLN,68516
+80827,United States,NE,Nebraska,Lancaster,LINCOLN,68528
+80852,United States,NE,Nebraska,Red Willow,MCCOOK,69001
+80877,United States,NE,Nebraska,Antelope,NELIGH,68756
+80902,United States,NE,Nebraska,Madison,NORFOLK,68701
+80927,United States,NE,Nebraska,Lincoln,NORTH PLATTE,69101
+80952,United States,NE,Nebraska,Holt,O' NEILL,68763
+80977,United States,NE,Nebraska,Douglas,OMAHA,68114
+81002,United States,NE,Nebraska,Douglas,OMAHA,68117
+81027,United States,NE,Nebraska,Douglas,OMAHA,68124
+81052,United States,NE,Nebraska,Douglas,OMAHA,68127
+81077,United States,NE,Nebraska,Douglas,OMAHA,68134
+81102,United States,NE,Nebraska,Douglas,OMAHA,68137
+81127,United States,NE,Nebraska,Douglas,OMAHA,68144
+81152,United States,NE,Nebraska,Douglas,OMAHA,68154
+81177,United States,NE,Nebraska,Douglas,OMAHA,68164
+81202,United States,NE,Nebraska,Valley,ORD,68862
+81227,United States,NE,Nebraska,Sarpy,PAPILLION,68046
+81252,United States,NE,Nebraska,Pierce,PLAINVIEW,68769
+81277,United States,NE,Nebraska,Scotts Bluff,SCOTTSBLUFF,69361
+81302,United States,NE,Nebraska,Cheyenne,SIDNEY,69162
+81327,United States,NE,Nebraska,Otoe,SYRACUSE,68446
+81352,United States,NE,Nebraska,Johnson,TECUMSEH,68450
+81377,United States,NE,Nebraska,Cherry,VALENTINE,69201
+81402,United States,NE,Nebraska,Saunders,WAHOO,68066
+81427,United States,NE,Nebraska,Wayne,WAYNE,68787
+81452,United States,NE,Nebraska,Cuming,WEST POINT,68788
+81477,United States,NE,Nebraska,York,YORK,68467

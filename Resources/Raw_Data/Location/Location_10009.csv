@@ -1,0 +1,586 @@
+LocationNO,Country,State_Abbv,State,County,City,ZipCode
+1002,United States,AK,Alaska,Anchorage Municipality,ANCHORAGE,99501
+1027,United States,AK,Alaska,Anchorage Municipality,ANCHORAGE,99503
+1052,United States,AK,Alaska,Anchorage Municipality,ANCHORAGE,99508
+1077,United States,AK,Alaska,Anchorage Municipality,ANCHORAGE,99511
+1102,United States,AK,Alaska,Anchorage Municipality,ANCHORAGE,99515
+1127,United States,AK,Alaska,Fairbanks North Star,FAIRBANKS,99701
+1152,United States,AK,Alaska,Kenai Peninsula,HOMER,99603
+1177,United States,AK,Alaska,Juneau City and Boroug,JUNEAU,99801
+1202,United States,AK,Alaska,Ketchikan Gateway,KETCHIKAN,99901
+1227,United States,AK,Alaska,Wrangell-Petersburg (C,PETERSBURG,99833
+1252,United States,AK,Alaska,Sitka City and Borough,SITKA,99835
+1277,United States,AK,Alaska,Kenai Peninsula,SOLDOTNA,99669
+1302,United States,AK,Alaska,Matanuska-Susitna,WASILLA,99654
+8677,United States,CA,California,Los Angeles,ACTON,93510
+8702,United States,CA,California,Alameda,ALAMEDA,94502
+8727,United States,CA,California,Alameda,ALBANY,94706
+8752,United States,CA,California,Los Angeles,ALHAMBRA,91801
+8777,United States,CA,California,Los Angeles,ALHAMBRA,91803
+8802,United States,CA,California,Los Angeles,ALTADENA,91001
+8827,United States,CA,California,Napa,AMERICAN CANYON,94503
+8852,United States,CA,California,Orange,ANAHEIM,92801
+8877,United States,CA,California,Orange,ANAHEIM,92805
+8902,United States,CA,California,San Bernardino,APPLE VALLEY,92307
+8927,United States,CA,California,San Bernardino,APPLE VALLEY,92308
+8952,United States,CA,California,Los Angeles,ARCADIA,91006
+8977,United States,CA,California,Los Angeles,ARCADIA,91007
+9002,United States,CA,California,Humboldt,ARCATA,95521
+9027,United States,CA,California,Los Angeles,ARTESIA,90701
+9052,United States,CA,California,Placer,AUBURN,95602
+9077,United States,CA,California,Placer,AUBURN,95603
+9102,United States,CA,California,Los Angeles,AZUSA,91702
+9127,United States,CA,California,Kern,BAKERSFIELD,93301
+9152,United States,CA,California,Kern,BAKERSFIELD,93304
+9177,United States,CA,California,Kern,BAKERSFIELD,93308
+9202,United States,CA,California,Kern,BAKERSFIELD,93309
+9227,United States,CA,California,Los Angeles,BELLFLOWER,90706
+9252,United States,CA,California,Los Angeles,BEVERLY HILLS,90211
+9277,United States,CA,California,San Bernardino,BIG RIVER,92242
+9302,United States,CA,California,Inyo,BISHOP,93514
+9327,United States,CA,California,Imperial,BRAWLEY,92227
+9352,United States,CA,California,Orange,BREA,92821
+9377,United States,CA,California,Contra Costa,BRENTWOOD,94513
+9402,United States,CA,California,Orange,BUENA PARK,90620
+9427,United States,CA,California,Orange,BUENA PARK,90621
+9452,United States,CA,California,Los Angeles,BURBANK,91502
+9477,United States,CA,California,Los Angeles,BURBANK,91504
+9502,United States,CA,California,Los Angeles,BURBANK,91505
+9527,United States,CA,California,Los Angeles,BURBANK,91506
+9552,United States,CA,California,San Mateo,BURLINGAME,94010
+9577,United States,CA,California,Los Angeles,CALABASAS,91301
+9602,United States,CA,California,Los Angeles,CALABASAS,91302
+9627,United States,CA,California,Ventura,CAMARILLO,93010
+9652,United States,CA,California,Ventura,CAMARILLO,93011
+9677,United States,CA,California,Ventura,CAMARILLO,93012
+9702,United States,CA,California,San Luis Obispo,CAMBRIA,93428
+9727,United States,CA,California,Santa Clara,CAMPBELL,95008
+9752,United States,CA,California,Los Angeles,CANOGA PARK,91303
+9777,United States,CA,California,San Diego,CARLSBAD,92008
+9802,United States,CA,California,Los Angeles,CARSON,90745
+9827,United States,CA,California,Los Angeles,CARSON,90746
+9852,United States,CA,California,Los Angeles,CERRITOS,90703
+9877,United States,CA,California,Los Angeles,CHATSWORTH,91311
+9902,United States,CA,California,Butte,CHICO,95926
+9927,United States,CA,California,Butte,CHICO,95973
+9952,United States,CA,California,San Bernardino,CHINO,91709
+9977,United States,CA,California,San Bernardino,CHINO,91710
+10002,United States,CA,California,San Bernardino,CHINO HILLS,91709
+10027,United States,CA,California,San Diego,CHULA VISTA,91910
+10052,United States,CA,California,Los Angeles,CITY OF INDUSTRY,91746
+10077,United States,CA,California,Los Angeles,CITY OF INDUSTRY,91748
+10102,United States,CA,California,Los Angeles,CLAREMONT,91711
+10127,United States,CA,California,Fresno,CLOVIS,93611
+10152,United States,CA,California,Fresno,CLOVIS,93612
+10177,United States,CA,California,San Bernardino,COLTON,92324
+10202,United States,CA,California,Contra Costa,CONCORD,94520
+10227,United States,CA,California,Tehama,CORNING,96021
+10252,United States,CA,California,Riverside,CORONA,92879
+10277,United States,CA,California,Riverside,CORONA,92882
+10302,United States,CA,California,Orange,COSTA MESA,92626
+10327,United States,CA,California,Los Angeles,COVINA,91722
+10352,United States,CA,California,Los Angeles,COVINA,91723
+10377,United States,CA,California,Los Angeles,COVINA,91724
+10402,United States,CA,California,Del Norte,CRESCENT CITY,95531
+10427,United States,CA,California,San Bernardino,CRESTLINE,92325
+10452,United States,CA,California,San Bernardino,CUCAMONGA,91730
+10477,United States,CA,California,Los Angeles,CULVER CITY,90230
+10502,United States,CA,California,Orange,CYPRESS,90630
+10527,United States,CA,California,San Mateo,DALY CITY,94015
+10552,United States,CA,California,Los Angeles,DIAMOND BAR,91765
+10577,United States,CA,California,Los Angeles,DOWNEY,90240
+10602,United States,CA,California,Los Angeles,DOWNEY,90241
+10627,United States,CA,California,Los Angeles,DOWNEY,90242
+10652,United States,CA,California,Los Angeles,DUARTE,91010
+10677,United States,CA,California,Alameda,DUBLIN,94568
+10702,United States,CA,California,San Diego,EL CAJON,92020
+10727,United States,CA,California,San Diego,EL CAJON,92021
+10752,United States,CA,California,Imperial,EL CENTRO,92243
+10777,United States,CA,California,El Dorado,EL DORADO HILLS,95762
+10802,United States,CA,California,Los Angeles,EL MONTE,91731
+10827,United States,CA,California,Los Angeles,EL MONTE,91733
+10852,United States,CA,California,Los Angeles,EL SEGUNDO,90245
+10877,United States,CA,California,Sacramento,ELK GROVE,95624
+10902,United States,CA,California,Sacramento,ELK GROVE,95758
+10927,United States,CA,California,Alameda,EMERYVILLE,94608
+10952,United States,CA,California,San Diego,ENCINITAS,92024
+10977,United States,CA,California,Los Angeles,ENCINO,91316
+11002,United States,CA,California,Los Angeles,ENCINO,91436
+11027,United States,CA,California,San Diego,ESCONDIDO,92025
+11052,United States,CA,California,Humboldt,EUREKA,95501
+11077,United States,CA,California,Sacramento,FAIR OAKS,95628
+11102,United States,CA,California,Solano,FAIRFIELD,94533
+11127,United States,CA,California,Solano,FAIRFIELD,94534
+11152,United States,CA,California,Sacramento,FOLSOM,95630
+11177,United States,CA,California,San Bernardino,FONTANA,92335
+11202,United States,CA,California,San Bernardino,FONTANA,92336
+11227,United States,CA,California,Mendocino,FORT BRAGG,95437
+11252,United States,CA,California,Orange,FOUNTAIN VALLEY,92708
+11277,United States,CA,California,Alameda,FREMONT,94536
+11302,United States,CA,California,Alameda,FREMONT,94538
+11327,United States,CA,California,Alameda,FREMONT,94539
+11352,United States,CA,California,Fresno,FRESNO,93710
+11377,United States,CA,California,Fresno,FRESNO,93711
+11402,United States,CA,California,Fresno,FRESNO,93720
+11427,United States,CA,California,Fresno,FRESNO,93721
+11452,United States,CA,California,Fresno,FRESNO,93726
+11477,United States,CA,California,Orange,FULLERTON,92831
+11502,United States,CA,California,Orange,FULLERTON,92832
+11527,United States,CA,California,Orange,GARDEN GROVE,92840
+11552,United States,CA,California,Orange,GARDEN GROVE,92843
+11577,United States,CA,California,Los Angeles,GARDENA,90247
+11602,United States,CA,California,Los Angeles,GARDENA,90248
+11627,United States,CA,California,Los Angeles,GARDENA,90249
+11652,United States,CA,California,Santa Clara,GILROY,95020
+11677,United States,CA,California,Los Angeles,GLENDALE,91201
+11702,United States,CA,California,Los Angeles,GLENDALE,91202
+11727,United States,CA,California,Los Angeles,GLENDALE,91203
+11752,United States,CA,California,Los Angeles,GLENDALE,91204
+11777,United States,CA,California,Los Angeles,GLENDALE,91205
+11802,United States,CA,California,Los Angeles,GLENDALE,91206
+11827,United States,CA,California,Los Angeles,GLENDALE,91207
+11852,United States,CA,California,Los Angeles,GLENDALE,91208
+11877,United States,CA,California,Los Angeles,GLENDALE,91210
+11902,United States,CA,California,Los Angeles,GLENDORA,91740
+11927,United States,CA,California,Los Angeles,GRANADA HILLS,91344
+11952,United States,CA,California,San Bernardino,GRAND TERRACE,92313
+11977,United States,CA,California,Nevada,GRASS VALLEY,95945
+12002,United States,CA,California,Los Angeles,HACIENDA HEIGHTS,91745
+12027,United States,CA,California,Kings,HANFORD,93230
+12052,United States,CA,California,Los Angeles,HARBOR CITY,90710
+12077,United States,CA,California,Los Angeles,HAWTHORNE,90250
+12102,United States,CA,California,Alameda,HAYWARD,94545
+12127,United States,CA,California,Riverside,HEMET,92543
+12152,United States,CA,California,San Benito,HOLLISTER,95023
+12177,United States,CA,California,Orange,HUNTINGTON BEACH,92647
+12202,United States,CA,California,Orange,HUNTINGTON BEACH,92649
+12227,United States,CA,California,Los Angeles,INGLEWOOD,90301
+12252,United States,CA,California,Los Angeles,INGLEWOOD,90302
+12277,United States,CA,California,Los Angeles,INGLEWOOD,90303
+12302,United States,CA,California,Los Angeles,INGLEWOOD,90305
+12327,United States,CA,California,Orange,IRVINE,92602
+12352,United States,CA,California,Orange,IRVINE,92612
+12377,United States,CA,California,Orange,IRVINE,92614
+12402,United States,CA,California,Orange,IRVINE,92618
+12427,United States,CA,California,Los Angeles,IRWINDALE,91706
+12452,United States,CA,California,Amador,JACKSON,95642
+12477,United States,CA,California,San Bernardino,JOSHUA TREE,92252
+12502,United States,CA,California,Los Angeles,LA CANADA,91011
+12527,United States,CA,California,Los Angeles,LA CRESCENTA,91214
+12552,United States,CA,California,Orange,LA HABRA,90631
+12577,United States,CA,California,San Diego,LA MESA,91941
+12602,United States,CA,California,San Diego,LA MESA,91942
+12627,United States,CA,California,Los Angeles,LA MIRADA,90638
+12652,United States,CA,California,Orange,LA PALMA,90623
+12677,United States,CA,California,Los Angeles,LA PUENTE,91744
+12702,United States,CA,California,Riverside,LA QUINTA,92253
+12727,United States,CA,California,Los Angeles,LA VERNE,91750
+12752,United States,CA,California,Orange,LAGUNA HILLS,92653
+12777,United States,CA,California,Orange,LAGUNA NIGUEL,92677
+12802,United States,CA,California,Lake,LAKEPORT,95453
+12827,United States,CA,California,Los Angeles,LAKEWOOD,90712
+12852,United States,CA,California,Los Angeles,LANCASTER,93534
+12877,United States,CA,California,Los Angeles,LANCASTER,93535
+12902,United States,CA,California,San Diego,LEMON GROVE,91945
+12927,United States,CA,California,San Joaquin,LODI,95242
+12952,United States,CA,California,San Bernardino,LOMA LINDA,92354
+12977,United States,CA,California,Los Angeles,LOMITA,90717
+13002,United States,CA,California,Los Angeles,LONG BEACH,90802
+13027,United States,CA,California,Los Angeles,LONG BEACH,90803
+13052,United States,CA,California,Los Angeles,LONG BEACH,90805
+13077,United States,CA,California,Los Angeles,LONG BEACH,90807
+13102,United States,CA,California,Los Angeles,LONG BEACH,90808
+13127,United States,CA,California,Los Angeles,LONG BEACH,90815
+13152,United States,CA,California,Orange,LOS ALAMITOS,90720
+13177,United States,CA,California,Los Angeles,LOS ANGELES,90004
+13202,United States,CA,California,Los Angeles,LOS ANGELES,90005
+13227,United States,CA,California,Los Angeles,LOS ANGELES,90006
+13252,United States,CA,California,Los Angeles,LOS ANGELES,90008
+13277,United States,CA,California,Los Angeles,LOS ANGELES,90010
+13302,United States,CA,California,Los Angeles,LOS ANGELES,90012
+13327,United States,CA,California,Los Angeles,LOS ANGELES,90017
+13352,United States,CA,California,Los Angeles,LOS ANGELES,90019
+13377,United States,CA,California,Los Angeles,LOS ANGELES,90020
+13402,United States,CA,California,Los Angeles,LOS ANGELES,90025
+13427,United States,CA,California,Los Angeles,LOS ANGELES,90026
+13452,United States,CA,California,Los Angeles,LOS ANGELES,90028
+13477,United States,CA,California,Los Angeles,LOS ANGELES,90029
+13502,United States,CA,California,Los Angeles,LOS ANGELES,90033
+13527,United States,CA,California,Los Angeles,LOS ANGELES,90034
+13552,United States,CA,California,Los Angeles,LOS ANGELES,90036
+13577,United States,CA,California,Los Angeles,LOS ANGELES,90038
+13602,United States,CA,California,Los Angeles,LOS ANGELES,90039
+13627,United States,CA,California,Los Angeles,LOS ANGELES,90041
+13652,United States,CA,California,Los Angeles,LOS ANGELES,90042
+13677,United States,CA,California,Los Angeles,LOS ANGELES,90043
+13702,United States,CA,California,Los Angeles,LOS ANGELES,90045
+13727,United States,CA,California,Los Angeles,LOS ANGELES,90046
+13752,United States,CA,California,Los Angeles,LOS ANGELES,90047
+13777,United States,CA,California,Los Angeles,LOS ANGELES,90048
+13802,United States,CA,California,Los Angeles,LOS ANGELES,90057
+13827,United States,CA,California,Los Angeles,LOS ANGELES,90064
+13852,United States,CA,California,Los Angeles,LOS ANGELES,90065
+13877,United States,CA,California,Los Angeles,LOS ANGELES,90066
+13902,United States,CA,California,Lake,LOWER LAKE,95457
+13927,United States,CA,California,Madera,MADERA,93637
+13952,United States,CA,California,Los Angeles,MANHATTAN BEACH,90266
+13977,United States,CA,California,Los Angeles,MARINA DEL REY,90292
+14002,United States,CA,California,Mariposa,MARIPOSA,95338
+14027,United States,CA,California,Contra Costa,MARTINEZ,94553
+14052,United States,CA,California,Yuba,MARYSVILLE,95901
+14077,United States,CA,California,Merced,MERCED,95340
+14102,United States,CA,California,San Mateo,MILLBRAE,94030
+14127,United States,CA,California,Santa Clara,MILPITAS,95035
+14152,United States,CA,California,Los Angeles,MISSION HILLS,91345
+14177,United States,CA,California,Stanislaus,MODESTO,95350
+14202,United States,CA,California,Stanislaus,MODESTO,95351
+14227,United States,CA,California,Stanislaus,MODESTO,95354
+14252,United States,CA,California,Stanislaus,MODESTO,95355
+14277,United States,CA,California,Kern,MOJAVE,93501
+14302,United States,CA,California,Los Angeles,MONROVIA,91016
+14327,United States,CA,California,San Bernardino,MONTCLAIR,91763
+14352,United States,CA,California,Los Angeles,MONTEBELLO,90640
+14377,United States,CA,California,Monterey,MONTEREY,93940
+14402,United States,CA,California,Monterey,MONTEREY,93942
+14427,United States,CA,California,Los Angeles,MONTEREY PARK,91754
+14452,United States,CA,California,Los Angeles,MONTEREY PARK,91755
+14477,United States,CA,California,Los Angeles,MONTROSE,91020
+14502,United States,CA,California,Riverside,MORENO VALLEY,92553
+14527,United States,CA,California,Riverside,MORENO VALLEY,92557
+14552,United States,CA,California,Santa Clara,MORGAN HILL,95037
+14577,United States,CA,California,Santa Clara,MOUNTAIN VIEW,94043
+14602,United States,CA,California,Riverside,MURRIETA,92562
+14627,United States,CA,California,Los Angeles,N HOLLYWOOD,91601
+14652,United States,CA,California,Los Angeles,N HOLLYWOOD,91602
+14677,United States,CA,California,Los Angeles,N HOLLYWOOD,91605
+14702,United States,CA,California,Los Angeles,N HOLLYWOOD,91606
+14727,United States,CA,California,Napa,NAPA,94558
+14752,United States,CA,California,San Diego,NATIONAL CITY,91950
+14777,United States,CA,California,Alameda,NEWARK,94560
+14802,United States,CA,California,Orange,NEWPORT BEACH,92660
+14827,United States,CA,California,Riverside,NORCO,92860
+14852,United States,CA,California,Los Angeles,NORTH HILLS,91343
+14877,United States,CA,California,Los Angeles,NORTH HOLLYWOOD,91601
+14902,United States,CA,California,Los Angeles,NORTH HOLLYWOOD,91602
+14927,United States,CA,California,Los Angeles,NORTH HOLLYWOOD,91606
+14952,United States,CA,California,Los Angeles,NORTHRIDGE,91324
+14977,United States,CA,California,Los Angeles,NORTHRIDGE,91325
+15002,United States,CA,California,Los Angeles,NORTHRIDGE,91343
+15027,United States,CA,California,Los Angeles,NORWALK,90650
+15052,United States,CA,California,Marin,NOVATO,94945
+15077,United States,CA,California,Alameda,OAKLAND,94607
+15102,United States,CA,California,Alameda,OAKLAND,94610
+15127,United States,CA,California,Alameda,OAKLAND,94619
+15152,United States,CA,California,Alameda,OAKLAND,94621
+15177,United States,CA,California,San Bernardino,ONTARIO,91761
+15202,United States,CA,California,San Bernardino,ONTARIO,91762
+15227,United States,CA,California,San Bernardino,ONTARIO,91764
+15252,United States,CA,California,Orange,ORANGE,92868
+15277,United States,CA,California,Sacramento,ORANGEVALE,95662
+15302,United States,CA,California,Contra Costa,ORINDA,94563
+15327,United States,CA,California,Butte,OROVILLE,95965
+15352,United States,CA,California,Ventura,OXNARD,93030
+15377,United States,CA,California,Ventura,OXNARD,93033
+15402,United States,CA,California,Ventura,OXNARD,93036
+15427,United States,CA,California,Los Angeles,PACIFIC PALISADES,90272
+15452,United States,CA,California,Riverside,PALM DESERT,92211
+15477,United States,CA,California,Riverside,PALM DESERT,92260
+15502,United States,CA,California,Riverside,PALM SPRINGS,92262
+15527,United States,CA,California,Riverside,PALM SPRINGS,92264
+15552,United States,CA,California,Los Angeles,PALMDALE,93551
+15577,United States,CA,California,Santa Clara,PALO ALTO,94306
+15602,United States,CA,California,Los Angeles,PANORAMA CITY,91402
+15627,United States,CA,California,Butte,PARADISE,95969
+15652,United States,CA,California,Los Angeles,PARAMOUNT,90723
+15677,United States,CA,California,Los Angeles,PASADENA,91101
+15702,United States,CA,California,Los Angeles,PASADENA,91105
+15727,United States,CA,California,Los Angeles,PASADENA,91106
+15752,United States,CA,California,Los Angeles,PASADENA,91107
+15777,United States,CA,California,Los Angeles,PICO RIVERA,90660
+15802,United States,CA,California,Orange,PLACENTIA,92870
+15827,United States,CA,California,El Dorado,PLACERVILLE,95667
+15852,United States,CA,California,Contra Costa,PLEASANT HILL,94523
+15877,United States,CA,California,Alameda,PLEASANTON,94566
+15902,United States,CA,California,Alameda,PLEASANTON,94588
+15927,United States,CA,California,Los Angeles,POMONA,91767
+15952,United States,CA,California,Los Angeles,POMONA,91768
+15977,United States,CA,California,Los Angeles,PORTER RANCH,91326
+16002,United States,CA,California,Plumas,QUINCY,95971
+16027,United States,CA,California,Sacramento,RANCHO CORDOVA,95742
+16052,United States,CA,California,San Bernardino,RANCHO CUCAMONGA,91701
+16077,United States,CA,California,San Bernardino,RANCHO CUCAMONGA,91730
+16102,United States,CA,California,Tehama,RED BLUFF,96080
+16127,United States,CA,California,Shasta,REDDING,96001
+16152,United States,CA,California,Shasta,REDDING,96002
+16177,United States,CA,California,San Bernardino,REDLANDS,92373
+16202,United States,CA,California,San Bernardino,REDLANDS,92374
+16227,United States,CA,California,Los Angeles,RESEDA,91335
+16252,United States,CA,California,Kern,RIDGECREST,93555
+16277,United States,CA,California,Riverside,RIVERSIDE,92501
+16302,United States,CA,California,Riverside,RIVERSIDE,92503
+16327,United States,CA,California,Riverside,RIVERSIDE,92504
+16352,United States,CA,California,Riverside,RIVERSIDE,92505
+16377,United States,CA,California,Riverside,RIVERSIDE,92506
+16402,United States,CA,California,Riverside,RIVERSIDE,92507
+16427,United States,CA,California,Los Angeles,ROSEMEAD,91770
+16452,United States,CA,California,Placer,ROSEVILLE,95661
+16477,United States,CA,California,Sacramento,SACRAMENTO,95815
+16502,United States,CA,California,Sacramento,SACRAMENTO,95817
+16527,United States,CA,California,Sacramento,SACRAMENTO,95820
+16552,United States,CA,California,Sacramento,SACRAMENTO,95821
+16577,United States,CA,California,Sacramento,SACRAMENTO,95825
+16602,United States,CA,California,Sacramento,SACRAMENTO,95826
+16627,United States,CA,California,Sacramento,SACRAMENTO,95827
+16652,United States,CA,California,Sacramento,SACRAMENTO,95828
+16677,United States,CA,California,Sacramento,SACRAMENTO,95833
+16702,United States,CA,California,Sacramento,SACRAMENTO,95834
+16727,United States,CA,California,Sacramento,SACRAMENTO,95841
+16752,United States,CA,California,Napa,SAINT HELENA,94574
+16777,United States,CA,California,Monterey,SALINAS,93908
+16802,United States,CA,California,San Bernardino,SAN BERNARDINO,92401
+16827,United States,CA,California,San Bernardino,SAN BERNARDINO,92404
+16852,United States,CA,California,San Bernardino,SAN BERNARDINO,92405
+16877,United States,CA,California,San Bernardino,SAN BERNARDINO,92408
+16902,United States,CA,California,San Mateo,SAN BRUNO,94066
+16927,United States,CA,California,San Diego,SAN DIEGO,92103
+16952,United States,CA,California,San Diego,SAN DIEGO,92108
+16977,United States,CA,California,San Diego,SAN DIEGO,92110
+17002,United States,CA,California,San Diego,SAN DIEGO,92111
+17027,United States,CA,California,San Diego,SAN DIEGO,92121
+17052,United States,CA,California,San Diego,SAN DIEGO,92122
+17077,United States,CA,California,San Diego,SAN DIEGO,92123
+17102,United States,CA,California,San Diego,SAN DIEGO,92126
+17127,United States,CA,California,San Diego,SAN DIEGO,92131
+17152,United States,CA,California,Los Angeles,SAN DIMAS,91773
+17177,United States,CA,California,Los Angeles,SAN FERNANDO,91340
+17202,United States,CA,California,San Francisco,SAN FRANCISCO,94103
+17227,United States,CA,California,San Francisco,SAN FRANCISCO,94111
+17252,United States,CA,California,San Francisco,SAN FRANCISCO,94115
+17277,United States,CA,California,San Francisco,SAN FRANCISCO,94116
+17302,United States,CA,California,San Francisco,SAN FRANCISCO,94118
+17327,United States,CA,California,San Francisco,SAN FRANCISCO,94133
+17352,United States,CA,California,Los Angeles,SAN GABRIEL,91776
+17377,United States,CA,California,Santa Clara,SAN JOSE,95110
+17402,United States,CA,California,Santa Clara,SAN JOSE,95112
+17427,United States,CA,California,Santa Clara,SAN JOSE,95116
+17452,United States,CA,California,Santa Clara,SAN JOSE,95117
+17477,United States,CA,California,Santa Clara,SAN JOSE,95118
+17502,United States,CA,California,Santa Clara,SAN JOSE,95125
+17527,United States,CA,California,Santa Clara,SAN JOSE,95126
+17552,United States,CA,California,Santa Clara,SAN JOSE,95128
+17577,United States,CA,California,Santa Clara,SAN JOSE,95129
+17602,United States,CA,California,Santa Clara,SAN JOSE,95131
+17627,United States,CA,California,Santa Clara,SAN JOSE,95134
+17652,United States,CA,California,Orange,SAN JUAN CAPISTRANO,92675
+17677,United States,CA,California,Alameda,SAN LEANDRO,94577
+17702,United States,CA,California,San Luis Obispo,SAN LUIS OBISPO,93401
+17727,United States,CA,California,San Diego,SAN MARCOS,92078
+17752,United States,CA,California,Los Angeles,SAN MARINO,91108
+17777,United States,CA,California,San Mateo,SAN MATEO,94402
+17802,United States,CA,California,Marin,SAN RAFAEL,94903
+17827,United States,CA,California,Contra Costa,SAN RAMON,94583
+17852,United States,CA,California,Orange,SANTA ANA,92703
+17877,United States,CA,California,Orange,SANTA ANA,92705
+17902,United States,CA,California,Santa Barbara,SANTA BARBARA,93101
+17927,United States,CA,California,Santa Barbara,SANTA BARBARA,93103
+17952,United States,CA,California,Santa Clara,SANTA CLARA,95054
+17977,United States,CA,California,Los Angeles,SANTA CLARITA,91321
+18002,United States,CA,California,Santa Cruz,SANTA CRUZ,95062
+18027,United States,CA,California,Los Angeles,SANTA FE SPRINGS,90670
+18052,United States,CA,California,Santa Barbara,SANTA MARIA,93454
+18077,United States,CA,California,Los Angeles,SANTA MONICA,90403
+18102,United States,CA,California,Sonoma,SANTA ROSA,95401
+18127,United States,CA,California,Sonoma,SANTA ROSA,95403
+18152,United States,CA,California,Sonoma,SANTA ROSA,95405
+18177,United States,CA,California,Los Angeles,SHERMAN OAKS,91403
+18202,United States,CA,California,Los Angeles,SHERMAN OAKS,91423
+18227,United States,CA,California,Los Angeles,SIERRA MADRE,91024
+18252,United States,CA,California,Los Angeles,SIGNAL HILL,90755
+18277,United States,CA,California,Ventura,SIMI VALLEY,93063
+18302,United States,CA,California,Ventura,SIMI VALLEY,93065
+18327,United States,CA,California,Sonoma,SONOMA,95476
+18352,United States,CA,California,Tuolumne,SONORA,95370
+18377,United States,CA,California,El Dorado,SOUTH LAKE TAHOE,96150
+18402,United States,CA,California,Los Angeles,SOUTH PASADENA,91030
+18427,United States,CA,California,San Mateo,SOUTH SAN FRANCISCO,94080
+18452,United States,CA,California,Orange,STANTON,90680
+18477,United States,CA,California,Los Angeles,STEVENSON RANCH,91381
+18502,United States,CA,California,San Joaquin,STOCKTON,95202
+18527,United States,CA,California,San Joaquin,STOCKTON,95203
+18552,United States,CA,California,San Joaquin,STOCKTON,95204
+18577,United States,CA,California,San Joaquin,STOCKTON,95207
+18602,United States,CA,California,San Joaquin,STOCKTON,95210
+18627,United States,CA,California,San Joaquin,STOCKTON,95219
+18652,United States,CA,California,Los Angeles,STUDIO CITY,91604
+18677,United States,CA,California,Los Angeles,STUDIO CITY,91607
+18702,United States,CA,California,Riverside,SUN CITY,92586
+18727,United States,CA,California,Los Angeles,SUN VALLEY,91352
+18752,United States,CA,California,Los Angeles,SUNLAND,91040
+18777,United States,CA,California,Santa Clara,SUNNYVALE,94085
+18802,United States,CA,California,Los Angeles,TARZANA,91356
+18827,United States,CA,California,Riverside,TEMECULA,92590
+18852,United States,CA,California,Los Angeles,TEMPLE CITY,91780
+18877,United States,CA,California,Ventura,THOUSAND OAKS,91360
+18902,United States,CA,California,Ventura,THOUSAND OAKS,91362
+18927,United States,CA,California,Los Angeles,TOLUCA LAKE,91602
+18952,United States,CA,California,Los Angeles,TORRANCE,90501
+18977,United States,CA,California,Los Angeles,TORRANCE,90502
+19002,United States,CA,California,Los Angeles,TORRANCE,90503
+19027,United States,CA,California,Los Angeles,TORRANCE,90504
+19052,United States,CA,California,Los Angeles,TORRANCE,90505
+19077,United States,CA,California,San Joaquin,TRACY,95376
+19102,United States,CA,California,Nevada,TRUCKEE,96161
+19127,United States,CA,California,Los Angeles,TUJUNGA,91042
+19152,United States,CA,California,Tulare,TULARE,93274
+19177,United States,CA,California,Stanislaus,TURLOCK,95380
+19202,United States,CA,California,Orange,TUSTIN,92780
+19227,United States,CA,California,Alameda,UNION CITY,94587
+19252,United States,CA,California,San Bernardino,UPLAND,91786
+19277,United States,CA,California,Solano,VALLEJO,94589
+19302,United States,CA,California,Solano,VALLEJO,94590
+19327,United States,CA,California,Solano,VALLEJO,94591
+19352,United States,CA,California,Los Angeles,VALLEY VILLAGE,91607
+19377,United States,CA,California,Los Angeles,VAN NUYS,91401
+19402,United States,CA,California,Los Angeles,VAN NUYS,91403
+19427,United States,CA,California,Los Angeles,VAN NUYS,91405
+19452,United States,CA,California,Los Angeles,VAN NUYS,91406
+19477,United States,CA,California,Los Angeles,VAN NUYS,91411
+19502,United States,CA,California,Ventura,VENTURA,93003
+19527,United States,CA,California,San Bernardino,VICTORVILLE,92394
+19552,United States,CA,California,San Bernardino,VICTORVILLE,92395
+19577,United States,CA,California,Tulare,VISALIA,93291
+19602,United States,CA,California,San Diego,VISTA,92083
+19627,United States,CA,California,Los Angeles,WALNUT,91789
+19652,United States,CA,California,Contra Costa,WALNUT CREEK,94596
+19677,United States,CA,California,Contra Costa,WALNUT CREEK,94598
+19702,United States,CA,California,Trinity,WEAVERVILLE,96093
+19727,United States,CA,California,Los Angeles,WEST COVINA,91790
+19752,United States,CA,California,Los Angeles,WEST COVINA,91791
+19777,United States,CA,California,Los Angeles,WEST COVINA,91792
+19802,United States,CA,California,Los Angeles,WEST HILLS,91307
+19827,United States,CA,California,Los Angeles,WESTCHESTER,90045
+19852,United States,CA,California,Ventura,WESTLAKE VILLAGE,91361
+19877,United States,CA,California,Ventura,WESTLAKE VILLAGE,91362
+19902,United States,CA,California,Orange,WESTMINSTER,92683
+19927,United States,CA,California,Los Angeles,WHITTIER,90606
+19952,United States,CA,California,Mendocino,WILLITS,95490
+19977,United States,CA,California,Yolo,WOODLAND,95695
+20002,United States,CA,California,Los Angeles,WOODLAND HILLS,91364
+20027,United States,CA,California,Los Angeles,WOODLAND HILLS,91367
+20052,United States,CA,California,Orange,YORBA LINDA,92886
+20077,United States,CA,California,Siskiyou,YREKA,96097
+20102,United States,CA,California,Sutter,YUBA CITY,95991
+37452,United States,HI,Hawaii,Hawaii,HILO,96720
+37477,United States,HI,Hawaii,Honolulu,HONOLULU,96814
+37502,United States,HI,Hawaii,Honolulu,HONOLULU,96817
+37527,United States,HI,Hawaii,Honolulu,HONOLULU,96819
+37552,United States,HI,Hawaii,Honolulu,HONOLULU,96826
+37577,United States,HI,Hawaii,Kauai,KALAHEO,96741
+37602,United States,HI,Hawaii,Hawaii,KAMUELA,96743
+37627,United States,HI,Hawaii,Honolulu,KANEOHE,96744
+37652,United States,HI,Hawaii,Hawaii,KEALAKEKUA,96750
+37677,United States,HI,Hawaii,Kauai,LIHUE,96766
+37702,United States,HI,Hawaii,Maui,WAILUKU,96793
+98727,United States,OR,Oregon,Clatsop,ASTORIA,97103
+98752,United States,OR,Oregon,Baker,BAKER CITY,97814
+98777,United States,OR,Oregon,Deschutes,BEND,97701
+98802,United States,OR,Oregon,Harney,BURNS,97720
+98827,United States,OR,Oregon,Jackson,CENTRAL POINT,97502
+98852,United States,OR,Oregon,Clackamas,CLACKAMAS,97015
+98877,United States,OR,Oregon,Coos,COOS BAY,97420
+98902,United States,OR,Oregon,Coos,COQUILLE,97423
+98927,United States,OR,Oregon,Benton,CORVALLIS,97330
+98952,United States,OR,Oregon,Wallowa,ENTERPRISE,97828
+98977,United States,OR,Oregon,Lane,EUGENE,97401
+99002,United States,OR,Oregon,Lane,EUGENE,97404
+99027,United States,OR,Oregon,Lane,EUGENE,97405
+99052,United States,OR,Oregon,Lane,EUGENE,97408
+99077,United States,OR,Oregon,Lane,FLORENCE,97439
+99102,United States,OR,Oregon,Washington,FOREST GROVE,97116
+99127,United States,OR,Oregon,Wheeler,FOSSIL,97830
+99152,United States,OR,Oregon,Curry,GOLD BEACH,97444
+99177,United States,OR,Oregon,Josephine,GRANTS PASS,97526
+99202,United States,OR,Oregon,Morrow,HEPPNER,97836
+99227,United States,OR,Oregon,Umatilla,HERMISTON,97838
+99252,United States,OR,Oregon,Washington,HILLSBORO,97123
+99277,United States,OR,Oregon,Grant,JOHN DAY,97845
+99302,United States,OR,Oregon,Klamath,KLAMATH FALLS,97603
+99327,United States,OR,Oregon,Union,LA GRANDE,97850
+99352,United States,OR,Oregon,Lake,LAKEVIEW,97630
+99377,United States,OR,Oregon,Lincoln,LINCOLN CITY,97367
+99402,United States,OR,Oregon,Yamhill,MCMINNVILLE,97128
+99427,United States,OR,Oregon,Jackson,MEDFORD,97501
+99452,United States,OR,Oregon,Jackson,MEDFORD,97504
+99477,United States,OR,Oregon,Clackamas,MILWAUKIE,97222
+99502,United States,OR,Oregon,Marion,MOUNT ANGEL,97362
+99527,United States,OR,Oregon,Lincoln,NEWPORT,97365
+99552,United States,OR,Oregon,Coos,NORTH BEND,97459
+99577,United States,OR,Oregon,Umatilla,PENDLETON,97801
+99602,United States,OR,Oregon,Multnomah,PORTLAND,97210
+99627,United States,OR,Oregon,Multnomah,PORTLAND,97213
+99652,United States,OR,Oregon,Multnomah,PORTLAND,97220
+99677,United States,OR,Oregon,Washington,PORTLAND,97224
+99702,United States,OR,Oregon,Washington,PORTLAND,97225
+99727,United States,OR,Oregon,Multnomah,PORTLAND,97230
+99752,United States,OR,Oregon,Multnomah,PORTLAND,97239
+99777,United States,OR,Oregon,Douglas,ROSEBURG,97470
+99802,United States,OR,Oregon,Douglas,ROSEBURG,97471
+99827,United States,OR,Oregon,Marion,SALEM,97301
+99852,United States,OR,Oregon,Marion,SALEM,97302
+99877,United States,OR,Oregon,Jackson,TALENT,97540
+99902,United States,OR,Oregon,Wasco,THE DALLES,97058
+99927,United States,OR,Oregon,Washington,TIGARD,97224
+99952,United States,OR,Oregon,Tillamook,TILLAMOOK,97141
+99977,United States,OR,Oregon,Clackamas,WILSONVILLE,97070
+132352,United States,WA,Washington,Skagit,ANACORTES,98221
+132377,United States,WA,Washington,King,AUBURN,98002
+132402,United States,WA,Washington,King,BELLEVUE,98005
+132427,United States,WA,Washington,King,BELLEVUE,98007
+132452,United States,WA,Washington,Whatcom,BELLINGHAM,98226
+132477,United States,WA,Washington,Kitsap,BREMERTON,98310
+132502,United States,WA,Washington,Kitsap,BREMERTON,98312
+132527,United States,WA,Washington,King,BURIEN,98166
+132552,United States,WA,Washington,Lewis,CENTRALIA,98531
+132577,United States,WA,Washington,Asotin,CLARKSTON,99403
+132602,United States,WA,Washington,Island,COUPEVILLE,98239
+132627,United States,WA,Washington,King,DES MOINES,98198
+132652,United States,WA,Washington,Kittitas,ELLENSBURG,98926
+132677,United States,WA,Washington,Snohomish,EVERETT,98201
+132702,United States,WA,Washington,Snohomish,EVERETT,98204
+132727,United States,WA,Washington,Snohomish,EVERETT,98208
+132752,United States,WA,Washington,King,FEDERAL WAY,98003
+132777,United States,WA,Washington,Klickitat,GOLDENDALE,98620
+132802,United States,WA,Washington,Grays Harbor,HOQUIAM,98550
+132827,United States,WA,Washington,Benton,KENNEWICK,99336
+132852,United States,WA,Washington,King,KENT,98032
+132877,United States,WA,Washington,King,KIRKLAND,98033
+132902,United States,WA,Washington,King,KIRKLAND,98034
+132927,United States,WA,Washington,Spokane,LIBERTY LAKE,99019
+132952,United States,WA,Washington,Cowlitz,LONGVIEW,98632
+132977,United States,WA,Washington,Grant,MOSES LAKE,98837
+133002,United States,WA,Washington,Thurston,OLYMPIA,98506
+133027,United States,WA,Washington,Okanogan,OMAK,98841
+133052,United States,WA,Washington,Clallam,PORT ANGELES,98362
+133077,United States,WA,Washington,Jefferson,PORT TOWNSEND,98368
+133102,United States,WA,Washington,Benton,PROSSER,99350
+133127,United States,WA,Washington,King,SEATTLE,98108
+133152,United States,WA,Washington,King,SEATTLE,98112
+133177,United States,WA,Washington,King,SEATTLE,98118
+133202,United States,WA,Washington,King,SEATTLE,98125
+133227,United States,WA,Washington,King,SEATTLE,98166
+133252,United States,WA,Washington,Spokane,SPOKANE,99201
+133277,United States,WA,Washington,Spokane,SPOKANE,99202
+133302,United States,WA,Washington,Spokane,SPOKANE,99203
+133327,United States,WA,Washington,Spokane,SPOKANE,99206
+133352,United States,WA,Washington,Spokane,SPOKANE,99208
+133377,United States,WA,Washington,Spokane,SPOKANE,99218
+133402,United States,WA,Washington,Pierce,TACOMA,98409
+133427,United States,WA,Washington,King,TUKWILA,98168
+133452,United States,WA,Washington,Pierce,UNIVERSITY PLACE,98466
+133477,United States,WA,Washington,Clark,VANCOUVER,98661
+133502,United States,WA,Washington,Clark,VANCOUVER,98683
+133527,United States,WA,Washington,Clark,VANCOUVER,98684
+133552,United States,WA,Washington,Walla Walla,WALLA WALLA,99362
+133577,United States,WA,Washington,Chelan,WENATCHEE,98801
+133602,United States,WA,Washington,Yakima,YAKIMA,98901
+133627,United States,WA,Washington,Yakima,YAKIMA,98902

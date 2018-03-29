@@ -1,0 +1,434 @@
+LocationNO,Country,State_Abbv,State,County,City,ZipCode
+37727,United States,IA,Iowa,Dallas,ADEL,50003
+37752,United States,IA,Iowa,Monroe,ALBIA,52531
+37777,United States,IA,Iowa,Kossuth,ALGONA,50511
+37802,United States,IA,Iowa,Butler,ALLISON,50602
+37827,United States,IA,Iowa,Story,AMES,50010
+37852,United States,IA,Iowa,Polk,ANKENY,50021
+37877,United States,IA,Iowa,Cass,ATLANTIC,50022
+37902,United States,IA,Iowa,Audubon,AUDUBON,50025
+37927,United States,IA,Iowa,Taylor,BEDFORD,50833
+37952,United States,IA,Iowa,Scott,BETTENDORF,52722
+37977,United States,IA,Iowa,Boone,BOONE,50036
+38002,United States,IA,Iowa,Des Moines,BURLINGTON,52601
+38027,United States,IA,Iowa,Carroll,CARROLL,51401
+38052,United States,IA,Iowa,Linn,CEDAR RAPIDS,52402
+38077,United States,IA,Iowa,Linn,CEDAR RAPIDS,52403
+38102,United States,IA,Iowa,Appanoose,CENTERVILLE,52544
+38127,United States,IA,Iowa,Lucas,CHARITON,50049
+38152,United States,IA,Iowa,Floyd,CHARLES CITY,50616
+38177,United States,IA,Iowa,Cherokee,CHEROKEE,51012
+38202,United States,IA,Iowa,Wright,CLARION,50525
+38227,United States,IA,Iowa,Clinton,CLINTON,52732
+38252,United States,IA,Iowa,Polk,CLIVE,50325
+38277,United States,IA,Iowa,Adams,CORNING,50841
+38302,United States,IA,Iowa,Wayne,CORYDON,50060
+38327,United States,IA,Iowa,Pottawattamie,COUNCIL BLUFFS,51501
+38352,United States,IA,Iowa,Pottawattamie,COUNCIL BLUFFS,51503
+38377,United States,IA,Iowa,Howard,CRESCO,52136
+38402,United States,IA,Iowa,Scott,DAVENPORT,52802
+38427,United States,IA,Iowa,Scott,DAVENPORT,52804
+38452,United States,IA,Iowa,Winneshiek,DECORAH,52101
+38477,United States,IA,Iowa,Crawford,DENISON,51442
+38502,United States,IA,Iowa,Polk,DES MOINES,50309
+38527,United States,IA,Iowa,Lee,DONNELLSON,52625
+38552,United States,IA,Iowa,Dubuque,DUBUQUE,52001
+38577,United States,IA,Iowa,Dubuque,DUBUQUE,52003
+38602,United States,IA,Iowa,Hardin,ELDORA,50627
+38627,United States,IA,Iowa,Clayton,ELKADER,52043
+38652,United States,IA,Iowa,Palo Alto,EMMETSBURG,50536
+38677,United States,IA,Iowa,Emmet,ESTHERVILLE,51334
+38702,United States,IA,Iowa,Jefferson,FAIRFIELD,52556
+38727,United States,IA,Iowa,Winnebago,FOREST CITY,50436
+38752,United States,IA,Iowa,Webster,FORT DODGE,50501
+38777,United States,IA,Iowa,Lee,FORT MADISON,52627
+38802,United States,IA,Iowa,Hancock,GARNER,50438
+38827,United States,IA,Iowa,Mills,GLENWOOD,51534
+38852,United States,IA,Iowa,Adair,GREENFIELD,50849
+38877,United States,IA,Iowa,Poweshiek,GRINNELL,50112
+38902,United States,IA,Iowa,Guthrie,GUTHRIE CENTER,50115
+38927,United States,IA,Iowa,Franklin,HAMPTON,50441
+38952,United States,IA,Iowa,Shelby,HARLAN,51537
+38977,United States,IA,Iowa,Linn,HIAWATHA,52233
+39002,United States,IA,Iowa,Ida,IDA GROVE,51445
+39027,United States,IA,Iowa,Warren,INDIANOLA,50125
+39052,United States,IA,Iowa,Johnson,IOWA CITY,52240
+39077,United States,IA,Iowa,Polk,JOHNSTON,50131
+39102,United States,IA,Iowa,Lee,KEOKUK,52632
+39127,United States,IA,Iowa,Van Buren,KEOSAUQUA,52565
+39152,United States,IA,Iowa,Benton,KEYSTONE,52249
+39177,United States,IA,Iowa,Marion,KNOXVILLE,50138
+39202,United States,IA,Iowa,Calhoun,LAKE CITY,51449
+39227,United States,IA,Iowa,Plymouth,LE MARS,51031
+39252,United States,IA,Iowa,Decatur,LEON,50144
+39277,United States,IA,Iowa,Harrison,LOGAN,51546
+39302,United States,IA,Iowa,Delaware,MANCHESTER,52057
+39327,United States,IA,Iowa,Monona,MAPLETON,51034
+39352,United States,IA,Iowa,Iowa,MARENGO,52301
+39377,United States,IA,Iowa,Marshall,MARSHALLTOWN,50158
+39402,United States,IA,Iowa,Cerro Gordo,MASON CITY,50401
+39427,United States,IA,Iowa,Jones,MONTICELLO,52310
+39452,United States,IA,Iowa,Ringgold,MOUNT AYR,50854
+39477,United States,IA,Iowa,Henry,MOUNT PLEASANT,52641
+39502,United States,IA,Iowa,Muscatine,MUSCATINE,52761
+39527,United States,IA,Iowa,Chickasaw,NEW HAMPTON,50659
+39552,United States,IA,Iowa,Jasper,NEWTON,50208
+39577,United States,IA,Iowa,Johnson,NORTH LIBERTY,52317
+39602,United States,IA,Iowa,Worth,NORTHWOOD,50459
+39627,United States,IA,Iowa,Monona,ONAWA,51040
+39652,United States,IA,Iowa,Sioux,ORANGE CITY,51041
+39677,United States,IA,Iowa,Mitchell,OSAGE,50461
+39702,United States,IA,Iowa,Mahaska,OSKALOOSA,52577
+39727,United States,IA,Iowa,Wapello,OTTUMWA,52501
+39752,United States,IA,Iowa,Marion,PELLA,50219
+39777,United States,IA,Iowa,Polk,PLEASANT HILL,50327
+39802,United States,IA,Iowa,Pocahontas,POCAHONTAS,50574
+39827,United States,IA,Iowa,Montgomery,RED OAK,51566
+39852,United States,IA,Iowa,Sioux,ROCK VALLEY,51247
+39877,United States,IA,Iowa,Sac,SAC CITY,50583
+39902,United States,IA,Iowa,Woodbury,SERGEANT BLUFF,51054
+39927,United States,IA,Iowa,O'Brien,SHELDON,51201
+39952,United States,IA,Iowa,Page,SHENANDOAH,51601
+39977,United States,IA,Iowa,Osceola,SIBLEY,51249
+40002,United States,IA,Iowa,Fremont,SIDNEY,51652
+40027,United States,IA,Iowa,Keokuk,SIGOURNEY,52591
+40052,United States,IA,Iowa,Sioux,SIOUX CENTER,51250
+40077,United States,IA,Iowa,Woodbury,SIOUX CITY,51101
+40102,United States,IA,Iowa,Woodbury,SIOUX CITY,51104
+40127,United States,IA,Iowa,Clay,SPENCER,51301
+40152,United States,IA,Iowa,Dickinson,SPIRIT LAKE,51360
+40177,United States,IA,Iowa,Buena Vista,STORM LAKE,50588
+40202,United States,IA,Iowa,Cedar,TIPTON,52772
+40227,United States,IA,Iowa,Tama,TOLEDO,52342
+40252,United States,IA,Iowa,Polk,URBANDALE,50322
+40277,United States,IA,Iowa,Polk,URBANDALE,50323
+40302,United States,IA,Iowa,Benton,VINTON,52349
+40327,United States,IA,Iowa,Louisa,WAPELLO,52653
+40352,United States,IA,Iowa,Washington,WASHINGTON,52353
+40377,United States,IA,Iowa,Black Hawk,WATERLOO,50701
+40402,United States,IA,Iowa,Black Hawk,WATERLOO,50702
+40427,United States,IA,Iowa,Black Hawk,WATERLOO,50703
+40452,United States,IA,Iowa,Allamakee,WAUKON,52172
+40477,United States,IA,Iowa,Bremer,WAVERLY,50677
+40502,United States,IA,Iowa,Hamilton,WEBSTER CITY,50595
+40527,United States,IA,Iowa,Des Moines,WEST BURLINGTON,52655
+40552,United States,IA,Iowa,Polk,WEST DES MOINES,50265
+40577,United States,IA,Iowa,Polk,WEST DES MOINES,50266
+40602,United States,IA,Iowa,Fayette,WEST UNION,52175
+68202,United States,MN,Minnesota,Stearns,ALBANY,56307
+68227,United States,MN,Minnesota,Freeborn,ALBERT LEA,56007
+68252,United States,MN,Minnesota,Douglas,ALEXANDRIA,56308
+68277,United States,MN,Minnesota,Swift,APPLETON,56208
+68302,United States,MN,Minnesota,Mower,AUSTIN,55912
+68327,United States,MN,Minnesota,Clearwater,BAGLEY,56621
+68352,United States,MN,Minnesota,Crow Wing,BAXTER,56425
+68377,United States,MN,Minnesota,Beltrami,BEMIDJI,56601
+68402,United States,MN,Minnesota,Swift,BENSON,56215
+68427,United States,MN,Minnesota,Itasca,BIGFORK,56628
+68452,United States,MN,Minnesota,Anoka,BLAINE,55434
+68477,United States,MN,Minnesota,Hennepin,BLOOMINGTON,55420
+68502,United States,MN,Minnesota,Hennepin,BLOOMINGTON,55425
+68527,United States,MN,Minnesota,Hennepin,BLOOMINGTON,55431
+68552,United States,MN,Minnesota,Faribault,BLUE EARTH,56013
+68577,United States,MN,Minnesota,Crow Wing,BRAINERD,56401
+68602,United States,MN,Minnesota,Wilkin,BRECKENRIDGE,56520
+68627,United States,MN,Minnesota,Hennepin,BROOKLYN CENTER,55429
+68652,United States,MN,Minnesota,Hennepin,BROOKLYN PARK,55443
+68677,United States,MN,Minnesota,Wright,BUFFALO,55313
+68702,United States,MN,Minnesota,Houston,CALEDONIA,55921
+68727,United States,MN,Minnesota,Yellow Medicine,CANBY,56220
+68752,United States,MN,Minnesota,Carver,CHANHASSEN,55317
+68777,United States,MN,Minnesota,Carver,CHASKA,55318
+68802,United States,MN,Minnesota,Chisago,CHISAGO CITY,55013
+68827,United States,MN,Minnesota,Yellow Medicine,CLARKFIELD,56223
+68852,United States,MN,Minnesota,Wright,COKATO,55321
+68877,United States,MN,Minnesota,Stearns,COLD SPRING,56320
+68902,United States,MN,Minnesota,Anoka,COLUMBIA HEIGHTS,55421
+68927,United States,MN,Minnesota,Anoka,COON RAPIDS,55433
+68952,United States,MN,Minnesota,Anoka,COON RAPIDS,55448
+68977,United States,MN,Minnesota,Polk,CROOKSTON,56716
+69002,United States,MN,Minnesota,Crow Wing,CROSBY,56441
+69027,United States,MN,Minnesota,Lac qui Parle,DAWSON,56232
+69052,United States,MN,Minnesota,Itasca,DEER RIVER,56636
+69077,United States,MN,Minnesota,Becker,DETROIT LAKES,56501
+69102,United States,MN,Minnesota,St. Louis,DULUTH,55802
+69127,United States,MN,Minnesota,St. Louis,DULUTH,55804
+69152,United States,MN,Minnesota,St. Louis,DULUTH,55805
+69177,United States,MN,Minnesota,St. Louis,DULUTH,55806
+69202,United States,MN,Minnesota,St. Louis,DULUTH,55807
+69227,United States,MN,Minnesota,Dakota,EAGAN,55122
+69252,United States,MN,Minnesota,Hennepin,EDINA,55435
+69277,United States,MN,Minnesota,Hennepin,EDINA,55439
+69302,United States,MN,Minnesota,Sherburne,ELK RIVER,55330
+69327,United States,MN,Minnesota,St. Louis,ELY,55731
+69352,United States,MN,Minnesota,Rice,FARIBAULT,55021
+69377,United States,MN,Minnesota,Dakota,FARMINGTON,55024
+69402,United States,MN,Minnesota,Otter Tail,FERGUS FALLS,56537
+69427,United States,MN,Minnesota,Otter Tail,FERGUS FALLS,56538
+69452,United States,MN,Minnesota,Benton,FOLEY,56329
+69477,United States,MN,Minnesota,Polk,FOSSTON,56542
+69502,United States,MN,Minnesota,Pope,GLENWOOD,56334
+69527,United States,MN,Minnesota,Hennepin,GOLDEN VALLEY,55422
+69552,United States,MN,Minnesota,Big Stone,GRACEVILLE,56240
+69577,United States,MN,Minnesota,Cook,GRAND MARAIS,55604
+69602,United States,MN,Minnesota,Itasca,GRAND RAPIDS,55744
+69627,United States,MN,Minnesota,Yellow Medicine,GRANITE FALLS,56241
+69652,United States,MN,Minnesota,Kittson,HALLOCK,56728
+69677,United States,MN,Minnesota,Lincoln,HENDRICKS,56136
+69702,United States,MN,Minnesota,St. Louis,HIBBING,55746
+69727,United States,MN,Minnesota,Koochiching,INTERNATIONAL FALLS,56649
+69752,United States,MN,Minnesota,Dakota,INVER GROVE HEIGHTS,55076
+69777,United States,MN,Minnesota,Jackson,JACKSON,56143
+69802,United States,MN,Minnesota,Dakota,LAKEVILLE,55044
+69827,United States,MN,Minnesota,Le Sueur,LE CENTER,56057
+69852,United States,MN,Minnesota,Meeker,LITCHFIELD,55355
+69877,United States,MN,Minnesota,Morrison,LITTLE FALLS,56345
+69902,United States,MN,Minnesota,Todd,LONG PRAIRIE,56347
+69927,United States,MN,Minnesota,Watonwan,MADELIA,56062
+69952,United States,MN,Minnesota,Lac qui Parle,MADISON,56256
+69977,United States,MN,Minnesota,Blue Earth,MANKATO,56001
+70002,United States,MN,Minnesota,Lyon,MARSHALL,56258
+70027,United States,MN,Minnesota,Hennepin,MINNEAPOLIS,55404
+70052,United States,MN,Minnesota,Hennepin,MINNEAPOLIS,55405
+70077,United States,MN,Minnesota,Hennepin,MINNEAPOLIS,55406
+70102,United States,MN,Minnesota,Hennepin,MINNEAPOLIS,55408
+70127,United States,MN,Minnesota,Hennepin,MINNEAPOLIS,55413
+70152,United States,MN,Minnesota,Hennepin,MINNEAPOLIS,55414
+70177,United States,MN,Minnesota,Hennepin,MINNEAPOLIS,55415
+70202,United States,MN,Minnesota,Hennepin,MINNEAPOLIS,55418
+70227,United States,MN,Minnesota,Lyon,MINNEOTA,56264
+70252,United States,MN,Minnesota,Hennepin,MINNETONKA,55305
+70277,United States,MN,Minnesota,Hennepin,MINNETONKA,55343
+70302,United States,MN,Minnesota,Chippewa,MONTEVIDEO,56265
+70327,United States,MN,Minnesota,Carlton,MOOSE LAKE,55767
+70352,United States,MN,Minnesota,Kanabec,MORA,55051
+70377,United States,MN,Minnesota,Kandiyohi,NEW LONDON,56273
+70402,United States,MN,Minnesota,Brown,NEW ULM,56073
+70427,United States,MN,Minnesota,Crow Wing,NISSWA,56468
+70452,United States,MN,Minnesota,Ramsey,NORTH SAINT PAUL,55109
+70477,United States,MN,Minnesota,Rice,NORTHFIELD,55057
+70502,United States,MN,Minnesota,Renville,OLIVIA,56277
+70527,United States,MN,Minnesota,Mille Lacs,ONAMIA,56359
+70552,United States,MN,Minnesota,Big Stone,ORTONVILLE,56278
+70577,United States,MN,Minnesota,Sherburne,OTSEGO,55330
+70602,United States,MN,Minnesota,Steele,OWATONNA,55060
+70627,United States,MN,Minnesota,Otter Tail,PERHAM,56573
+70652,United States,MN,Minnesota,Morrison,PIERZ,56364
+70677,United States,MN,Minnesota,Pipestone,PIPESTONE,56164
+70702,United States,MN,Minnesota,Hennepin,PLYMOUTH,55441
+70727,United States,MN,Minnesota,Hennepin,PLYMOUTH,55446
+70752,United States,MN,Minnesota,Fillmore,PRESTON,55965
+70777,United States,MN,Minnesota,Scott,PRIOR LAKE,55372
+70802,United States,MN,Minnesota,Goodhue,RED WING,55066
+70827,United States,MN,Minnesota,Redwood,REDWOOD FALLS,56283
+70852,United States,MN,Minnesota,Olmsted,ROCHESTER,55901
+70877,United States,MN,Minnesota,Olmsted,ROCHESTER,55902
+70902,United States,MN,Minnesota,Olmsted,ROCHESTER,55906
+70927,United States,MN,Minnesota,Roseau,ROSEAU,56751
+70952,United States,MN,Minnesota,Ramsey,ROSEVILLE,55112
+70977,United States,MN,Minnesota,Ramsey,ROSEVILLE,55113
+71002,United States,MN,Minnesota,Hennepin,SAINT ANTHONY,55418
+71027,United States,MN,Minnesota,Stearns,SAINT CLOUD,56301
+71052,United States,MN,Minnesota,Stearns,SAINT CLOUD,56303
+71077,United States,MN,Minnesota,Hennepin,SAINT LOUIS PARK,55426
+71102,United States,MN,Minnesota,Ramsey,SAINT PAUL,55102
+71127,United States,MN,Minnesota,Ramsey,SAINT PAUL,55104
+71152,United States,MN,Minnesota,Ramsey,SAINT PAUL,55106
+71177,United States,MN,Minnesota,Ramsey,SAINT PAUL,55114
+71202,United States,MN,Minnesota,Ramsey,SAINT PAUL,55117
+71227,United States,MN,Minnesota,Dakota,SAINT PAUL,55120
+71252,United States,MN,Minnesota,Nicollet,SAINT PETER,56082
+71277,United States,MN,Minnesota,Stearns,SARTELL,56377
+71302,United States,MN,Minnesota,Stearns,SAUK CENTRE,56378
+71327,United States,MN,Minnesota,Benton,SAUK RAPIDS,56379
+71352,United States,MN,Minnesota,Wadena,SEBEKA,56477
+71377,United States,MN,Minnesota,Ramsey,SHOREVIEW,55126
+71402,United States,MN,Minnesota,Fillmore,SPRING VALLEY,55975
+71427,United States,MN,Minnesota,Hennepin,ST ANTHONY,55418
+71452,United States,MN,Minnesota,Anoka,ST ANTHONY,55421
+71477,United States,MN,Minnesota,Todd,STAPLES,56479
+71502,United States,MN,Minnesota,Pope,STARBUCK,56381
+71527,United States,MN,Minnesota,Washington,STILLWATER,55082
+71552,United States,MN,Minnesota,Pennington,THIEF RIVER FALLS,56701
+71577,United States,MN,Minnesota,Lyon,TRACY,56175
+71602,United States,MN,Minnesota,Lincoln,TYLER,56178
+71627,United States,MN,Minnesota,Wabasha,WABASHA,55981
+71652,United States,MN,Minnesota,Carver,WACONIA,55387
+71677,United States,MN,Minnesota,Wadena,WADENA,56482
+71702,United States,MN,Minnesota,Stearns,WAITE PARK,56387
+71727,United States,MN,Minnesota,Cass,WALKER,56484
+71752,United States,MN,Minnesota,Ramsey,WHITE BEAR LAKE,55110
+71777,United States,MN,Minnesota,Becker,WHITE EARTH,56591
+71802,United States,MN,Minnesota,Kandiyohi,WILLMAR,56201
+71827,United States,MN,Minnesota,Cottonwood,WINDOM,56101
+71852,United States,MN,Minnesota,Nobles,WORTHINGTON,56187
+75927,United States,MT,Montana,Deer Lodge,ANACONDA,59711
+75952,United States,MT,Montana,Yellowstone,BILLINGS,59101
+75977,United States,MT,Montana,Yellowstone,BILLINGS,59102
+76002,United States,MT,Montana,Gallatin,BOZEMAN,59715
+76027,United States,MT,Montana,Silver Bow,BUTTE,59701
+76052,United States,MT,Montana,Stillwater,COLUMBUS,59019
+76077,United States,MT,Montana,Pondera,CONRAD,59425
+76102,United States,MT,Montana,Beaverhead,DILLON,59725
+76127,United States,MT,Montana,Dawson,GLENDIVE,59330
+76152,United States,MT,Montana,Cascade,GREAT FALLS,59401
+76177,United States,MT,Montana,Cascade,GREAT FALLS,59405
+76202,United States,MT,Montana,Ravalli,HAMILTON,59840
+76227,United States,MT,Montana,Lewis and Clark,HELENA,59601
+76252,United States,MT,Montana,Flathead,KALISPELL,59901
+76277,United States,MT,Montana,Fergus,LEWISTOWN,59457
+76302,United States,MT,Montana,Park,LIVINGSTON,59047
+76327,United States,MT,Montana,Phillips,MALTA,59538
+76352,United States,MT,Montana,Custer,MILES CITY,59301
+76377,United States,MT,Montana,Missoula,MISSOULA,59801
+76402,United States,MT,Montana,Missoula,MISSOULA,59808
+76427,United States,MT,Montana,Sanders,PLAINS,59859
+76452,United States,MT,Montana,Carbon,RED LODGE,59068
+76477,United States,MT,Montana,Lake,RONAN,59864
+79852,United States,ND,North Dakota,Burleigh,BISMARCK,58501
+79877,United States,ND,North Dakota,Ramsey,DEVILS LAKE,58301
+79902,United States,ND,North Dakota,Stark,DICKINSON,58601
+79927,United States,ND,North Dakota,Cass,FARGO,58103
+79952,United States,ND,North Dakota,Cass,FARGO,58104
+79977,United States,ND,North Dakota,Grand Forks,GRAND FORKS,58201
+80002,United States,ND,North Dakota,Mercer,HAZEN,58545
+80027,United States,ND,North Dakota,Stutsman,JAMESTOWN,58401
+80052,United States,ND,North Dakota,Morton,MANDAN,58554
+80077,United States,ND,North Dakota,Ward,MINOT,58701
+80102,United States,ND,North Dakota,Rolette,ROLLA,58367
+80127,United States,ND,North Dakota,Barnes,VALLEY CITY,58072
+80152,United States,ND,North Dakota,Richland,WAHPETON,58075
+80177,United States,ND,North Dakota,Williams,WILLISTON,58801
+108377,United States,SD,South Dakota,Brown,ABERDEEN,57402
+108402,United States,SD,South Dakota,Butte,BELLE FOURCHE,57717
+108427,United States,SD,South Dakota,Marshall,BRITTON,57430
+108452,United States,SD,South Dakota,Brookings,BROOKINGS,57006
+108477,United States,SD,South Dakota,Deuel,CLEAR LAKE,57226
+108502,United States,SD,South Dakota,Union,ELK POINT,57025
+108527,United States,SD,South Dakota,McPherson,EUREKA,57437
+108552,United States,SD,South Dakota,Moody,FLANDREAU,57028
+108577,United States,SD,South Dakota,Beadle,HURON,57350
+108602,United States,SD,South Dakota,Lake,MADISON,57042
+108627,United States,SD,South Dakota,Bennett,MARTIN,57551
+108652,United States,SD,South Dakota,Grant,MILBANK,57252
+108677,United States,SD,South Dakota,Hand,MILLER,57362
+108702,United States,SD,South Dakota,Davison,MITCHELL,57301
+108727,United States,SD,South Dakota,Hughes,PIERRE,57501
+108752,United States,SD,South Dakota,Pennington,RAPID CITY,57701
+108777,United States,SD,South Dakota,Pennington,RAPID CITY,57702
+108802,United States,SD,South Dakota,Spink,REDFIELD,57469
+108827,United States,SD,South Dakota,Minnehaha,SIOUX FALLS,57103
+108852,United States,SD,South Dakota,Minnehaha,SIOUX FALLS,57104
+108877,United States,SD,South Dakota,Minnehaha,SIOUX FALLS,57105
+108902,United States,SD,South Dakota,Minnehaha,SIOUX FALLS,57108
+108927,United States,SD,South Dakota,Roberts,SISSETON,57262
+108952,United States,SD,South Dakota,Lawrence,SPEARFISH,57783
+108977,United States,SD,South Dakota,Dewey,TIMBER LAKE,57656
+109002,United States,SD,South Dakota,Codington,WATERTOWN,57201
+109027,United States,SD,South Dakota,Tripp,WINNER,57580
+109052,United States,SD,South Dakota,Yankton,YANKTON,57078
+132077,United States,VT,Vermont,Washington,BARRE,5641
+132102,United States,VT,Vermont,Chittenden,COLCHESTER,5446
+132127,United States,VT,Vermont,Chittenden,ESSEX JUNCTION,5452
+132152,United States,VT,Vermont,Bennington,MANCHESTER CENTER,5255
+132177,United States,VT,Vermont,Addison,MIDDLEBURY,5753
+132202,United States,VT,Vermont,Lamoille,MORRISVILLE,5661
+132227,United States,VT,Vermont,Orleans,NEWPORT,5855
+132252,United States,VT,Vermont,Rutland,RUTLAND,5701
+132277,United States,VT,Vermont,Caledonia,SAINT JOHNSBURY,5819
+132302,United States,VT,Vermont,Franklin,ST ALBANS,5478
+132327,United States,VT,Vermont,Windsor,WHITE RIVER JUNCTION,5001
+133652,United States,WI,Wisconsin,Outagamie,APPLETON,54915
+133677,United States,WI,Wisconsin,Ashland,ASHLAND,54806
+133702,United States,WI,Wisconsin,Eau Claire,AUGUSTA,54722
+133727,United States,WI,Wisconsin,St. Croix,BALDWIN,54002
+133752,United States,WI,Wisconsin,Dodge,BEAVER DAM,53916
+133777,United States,WI,Wisconsin,Rock,BELOIT,53511
+133802,United States,WI,Wisconsin,Green Lake,BERLIN,54923
+133827,United States,WI,Wisconsin,Jackson,BLACK RIVER FALLS,54615
+133852,United States,WI,Wisconsin,Waukesha,BROOKFIELD,53005
+133877,United States,WI,Wisconsin,Waukesha,BROOKFIELD,53045
+133902,United States,WI,Wisconsin,Calumet,CHILTON,53014
+133927,United States,WI,Wisconsin,Chippewa,CHIPPEWA FALLS,54729
+133952,United States,WI,Wisconsin,Lafayette,DARLINGTON,53530
+133977,United States,WI,Wisconsin,Brown,DE PERE,54115
+134002,United States,WI,Wisconsin,Iowa,DODGEVILLE,53533
+134027,United States,WI,Wisconsin,Eau Claire,EAU CLAIRE,54703
+134052,United States,WI,Wisconsin,Pierce,ELLSWORTH,54011
+134077,United States,WI,Wisconsin,Fond du Lac,FOND DU LAC,54935
+134102,United States,WI,Wisconsin,Fond du Lac,FOND DU LAC,54936
+134127,United States,WI,Wisconsin,Washington,GERMANTOWN,53022
+134152,United States,WI,Wisconsin,Brown,GREEN BAY,54301
+134177,United States,WI,Wisconsin,Brown,GREEN BAY,54304
+134202,United States,WI,Wisconsin,Brown,GREEN BAY,54311
+134227,United States,WI,Wisconsin,Milwaukee,HALES CORNERS,53130
+134252,United States,WI,Wisconsin,Washington,HARTFORD,53027
+134277,United States,WI,Wisconsin,Waukesha,HARTLAND,53029
+134302,United States,WI,Wisconsin,St. Croix,HUDSON,54016
+134327,United States,WI,Wisconsin,Rock,JANESVILLE,53548
+134352,United States,WI,Wisconsin,Kenosha,KENOSHA,53140
+134377,United States,WI,Wisconsin,La Crosse,LA CROSSE,54601
+134402,United States,WI,Wisconsin,Rusk,LADYSMITH,54848
+134427,United States,WI,Wisconsin,Walworth,LAKE GENEVA,53147
+134452,United States,WI,Wisconsin,Grant,LANCASTER,53813
+134477,United States,WI,Wisconsin,Dane,MADISON,53705
+134502,United States,WI,Wisconsin,Dane,MADISON,53711
+134527,United States,WI,Wisconsin,Dane,MADISON,53713
+134552,United States,WI,Wisconsin,Dane,MADISON,53718
+134577,United States,WI,Wisconsin,Dane,MADISON,53719
+134602,United States,WI,Wisconsin,Manitowoc,MANITOWOC,54220
+134627,United States,WI,Wisconsin,Manitowoc,MANITOWOC,54221
+134652,United States,WI,Wisconsin,Marinette,MARINETTE,54143
+134677,United States,WI,Wisconsin,Wood,MARSHFIELD,54449
+134702,United States,WI,Wisconsin,Juneau,MAUSTON,53948
+134727,United States,WI,Wisconsin,Winnebago,MENASHA,54952
+134752,United States,WI,Wisconsin,Dunn,MENOMONIE,54751
+134777,United States,WI,Wisconsin,Dane,MIDDLETON,53562
+134802,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53208
+134827,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53210
+134852,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53213
+134877,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53216
+134902,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53218
+134927,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53222
+134952,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53223
+134977,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53224
+135002,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53225
+135027,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53226
+135052,United States,WI,Wisconsin,Milwaukee,MILWAUKEE,53227
+135077,United States,WI,Wisconsin,Green,MONROE,53566
+135102,United States,WI,Wisconsin,Waukesha,MUKWONAGO,53149
+135127,United States,WI,Wisconsin,Winnebago,NEENAH,54956
+135152,United States,WI,Wisconsin,Waukesha,NEW BERLIN,53151
+135177,United States,WI,Wisconsin,Winnebago,OSHKOSH,54902
+135202,United States,WI,Wisconsin,Winnebago,OSHKOSH,54904
+135227,United States,WI,Wisconsin,Price,PARK FALLS,54552
+135252,United States,WI,Wisconsin,Price,PHILLIPS,54555
+135277,United States,WI,Wisconsin,Columbia,PORTAGE,53901
+135302,United States,WI,Wisconsin,Crawford,PRAIRIE DU CHIEN,53821
+135327,United States,WI,Wisconsin,Racine,RACINE,53403
+135352,United States,WI,Wisconsin,Racine,RACINE,53406
+135377,United States,WI,Wisconsin,Sauk,REEDSBURG,53959
+135402,United States,WI,Wisconsin,Oneida,RHINELANDER,54501
+135427,United States,WI,Wisconsin,Barron,RICE LAKE,54868
+135452,United States,WI,Wisconsin,Sheboygan,SHEBOYGAN,53081
+135477,United States,WI,Wisconsin,Washburn,SHELL LAKE,54871
+135502,United States,WI,Wisconsin,Milwaukee,SOUTH MILWAUKEE,53172
+135527,United States,WI,Wisconsin,Washburn,SPOONER,54801
+135552,United States,WI,Wisconsin,Polk,ST CROIX FALLS,54024
+135577,United States,WI,Wisconsin,Dane,STOUGHTON,53589
+135602,United States,WI,Wisconsin,Door,STURGEON BAY,54235
+135627,United States,WI,Wisconsin,Douglas,SUPERIOR,54880
+135652,United States,WI,Wisconsin,Oconto,SURING,54174
+135677,United States,WI,Wisconsin,Vernon,VIROQUA,54665
+135702,United States,WI,Wisconsin,Bayfield,WASHBURN,54891
+135727,United States,WI,Wisconsin,Dodge,WATERTOWN,53098
+135752,United States,WI,Wisconsin,Waukesha,WAUKESHA,53188
+135777,United States,WI,Wisconsin,Waupaca,WAUPACA,54981
+135802,United States,WI,Wisconsin,Marathon,WAUSAU,54401
+135827,United States,WI,Wisconsin,Marathon,WAUSAU,54403
+135852,United States,WI,Wisconsin,Milwaukee,WAUWATOSA,53213
+135877,United States,WI,Wisconsin,Milwaukee,WAUWATOSA,53226
+135902,United States,WI,Wisconsin,Milwaukee,WEST ALLIS,53214
+135927,United States,WI,Wisconsin,Milwaukee,WEST ALLIS,53227
+135952,United States,WI,Wisconsin,Washington,WEST BEND,53095
+135977,United States,WI,Wisconsin,Marquette,WESTFIELD,53964
