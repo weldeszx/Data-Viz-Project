@@ -1,1 +1,1 @@
-Web: html care_provider_Dashboard —log-file 
+web: gunicorn -b 0.0.0.0:$PORT app:app
