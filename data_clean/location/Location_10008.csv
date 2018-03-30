@@ -1,0 +1,369 @@
+LocationNO,Country,State_Abbv,State,County,City,ZipCode
+6627,United States,AZ,Arizona,Cochise,BISBEE,85603
+6652,United States,AZ,Arizona,Mohave,BULLHEAD CITY,86442
+6677,United States,AZ,Arizona,Pinal,CASA GRANDE,85122
+6702,United States,AZ,Arizona,Maricopa,CHANDLER,85225
+6727,United States,AZ,Arizona,,CHANDLER,85286
+6752,United States,AZ,Arizona,Yavapai,COTTONWOOD,86326
+6777,United States,AZ,Arizona,Coconino,FLAGSTAFF,86001
+6802,United States,AZ,Arizona,Mohave,FORT MOHAVE,86426
+6827,United States,AZ,Arizona,Maricopa,GILBERT,85297
+6852,United States,AZ,Arizona,Maricopa,GLENDALE,85304
+6877,United States,AZ,Arizona,Maricopa,GLENDALE,85308
+6902,United States,AZ,Arizona,Maricopa,GOODYEAR,85338
+6927,United States,AZ,Arizona,,GOODYEAR,85395
+6952,United States,AZ,Arizona,Pima,GREEN VALLEY,85614
+6977,United States,AZ,Arizona,Mohave,KINGMAN,86401
+7002,United States,AZ,Arizona,,KINGMAN,86409
+7027,United States,AZ,Arizona,Mohave,LAKE HAVASU CITY,86403
+7052,United States,AZ,Arizona,Maricopa,MESA,85201
+7077,United States,AZ,Arizona,Maricopa,MESA,85202
+7102,United States,AZ,Arizona,Maricopa,MESA,85203
+7127,United States,AZ,Arizona,Maricopa,MESA,85204
+7152,United States,AZ,Arizona,Maricopa,MESA,85205
+7177,United States,AZ,Arizona,Maricopa,MESA,85210
+7202,United States,AZ,Arizona,Maricopa,MESA,85213
+7227,United States,AZ,Arizona,Gila,MIAMI,85539
+7252,United States,AZ,Arizona,Santa Cruz,NOGALES,85621
+7277,United States,AZ,Arizona,Coconino,PAGE,86040
+7302,United States,AZ,Arizona,La Paz,PARKER,85344
+7327,United States,AZ,Arizona,Gila,PAYSON,85541
+7352,United States,AZ,Arizona,Maricopa,PEORIA,85381
+7377,United States,AZ,Arizona,Maricopa,PHOENIX,85004
+7402,United States,AZ,Arizona,Maricopa,PHOENIX,85007
+7427,United States,AZ,Arizona,Maricopa,PHOENIX,85012
+7452,United States,AZ,Arizona,Maricopa,PHOENIX,85013
+7477,United States,AZ,Arizona,Maricopa,PHOENIX,85014
+7502,United States,AZ,Arizona,Maricopa,PHOENIX,85015
+7527,United States,AZ,Arizona,Maricopa,PHOENIX,85016
+7552,United States,AZ,Arizona,Maricopa,PHOENIX,85018
+7577,United States,AZ,Arizona,Maricopa,PHOENIX,85020
+7602,United States,AZ,Arizona,Maricopa,PHOENIX,85021
+7627,United States,AZ,Arizona,Maricopa,PHOENIX,85022
+7652,United States,AZ,Arizona,Maricopa,PHOENIX,85023
+7677,United States,AZ,Arizona,Maricopa,PHOENIX,85024
+7702,United States,AZ,Arizona,Maricopa,PHOENIX,85027
+7727,United States,AZ,Arizona,Maricopa,PHOENIX,85028
+7752,United States,AZ,Arizona,Maricopa,PHOENIX,85029
+7777,United States,AZ,Arizona,Maricopa,PHOENIX,85032
+7802,United States,AZ,Arizona,Maricopa,PHOENIX,85034
+7827,United States,AZ,Arizona,Maricopa,PHOENIX,85037
+7852,United States,AZ,Arizona,Maricopa,PHOENIX,85040
+7877,United States,AZ,Arizona,Maricopa,PHOENIX,85050
+7902,United States,AZ,Arizona,Maricopa,PHOENIX,85051
+7927,United States,AZ,Arizona,Maricopa,PHOENIX,85053
+7952,United States,AZ,Arizona,Yavapai,PRESCOTT,86301
+7977,United States,AZ,Arizona,Yavapai,PRESCOTT,86305
+8002,United States,AZ,Arizona,Yavapai,PRESCOTT VALLEY,86314
+8027,United States,AZ,Arizona,Graham,SAFFORD,85546
+8052,United States,AZ,Arizona,Maricopa,SCOTTSDALE,85250
+8077,United States,AZ,Arizona,Maricopa,SCOTTSDALE,85251
+8102,United States,AZ,Arizona,Maricopa,SCOTTSDALE,85253
+8127,United States,AZ,Arizona,Maricopa,SCOTTSDALE,85255
+8152,United States,AZ,Arizona,Maricopa,SCOTTSDALE,85258
+8177,United States,AZ,Arizona,Maricopa,SCOTTSDALE,85260
+8202,United States,AZ,Arizona,Navajo,SHOW LOW,85901
+8227,United States,AZ,Arizona,Cochise,SIERRA VISTA,85635
+8252,United States,AZ,Arizona,Maricopa,SUN CITY,85373
+8277,United States,AZ,Arizona,Maricopa,SURPRISE,85374
+8302,United States,AZ,Arizona,Maricopa,SURPRISE,85378
+8327,United States,AZ,Arizona,Maricopa,TEMPE,85281
+8352,United States,AZ,Arizona,Maricopa,TEMPE,85282
+8377,United States,AZ,Arizona,Maricopa,TEMPE,85283
+8402,United States,AZ,Arizona,Pima,TUCSON,85704
+8427,United States,AZ,Arizona,Pima,TUCSON,85705
+8452,United States,AZ,Arizona,Pima,TUCSON,85711
+8477,United States,AZ,Arizona,Pima,TUCSON,85712
+8502,United States,AZ,Arizona,Pima,TUCSON,85715
+8527,United States,AZ,Arizona,Pima,TUCSON,85718
+8552,United States,AZ,Arizona,Pima,TUCSON,85719
+8577,United States,AZ,Arizona,Pima,TUCSON,85741
+8602,United States,AZ,Arizona,Maricopa,YOUNGTOWN,85363
+8627,United States,AZ,Arizona,Yuma,YUMA,85364
+8652,United States,AZ,Arizona,Yuma,YUMA,85365
+20127,United States,CO,Colorado,Alamosa,ALAMOSA,81101
+20152,United States,CO,Colorado,Adams,AURORA,80011
+20177,United States,CO,Colorado,Arapahoe,AURORA,80012
+20202,United States,CO,Colorado,Arapahoe,AURORA,80014
+20227,United States,CO,Colorado,Boulder,BOULDER,80301
+20252,United States,CO,Colorado,Boulder,BOULDER,80304
+20277,United States,CO,Colorado,Boulder,BROOMFIELD,80020
+20302,United States,CO,Colorado,Jefferson,BROOMFIELD,80021
+20327,United States,CO,Colorado,Chaffee,BUENA VISTA,81211
+20352,United States,CO,Colorado,Kit Carson,BURLINGTON,80807
+20377,United States,CO,Colorado,Douglas,CASTLE ROCK,80104
+20402,United States,CO,Colorado,Arapahoe,CENTENNIAL,80112
+20427,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80903
+20452,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80904
+20477,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80905
+20502,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80906
+20527,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80907
+20552,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80908
+20577,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80909
+20602,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80918
+20627,United States,CO,Colorado,El Paso,COLORADO SPRINGS,80919
+20652,United States,CO,Colorado,Montezuma,CORTEZ,81321
+20677,United States,CO,Colorado,Moffat,CRAIG,81625
+20702,United States,CO,Colorado,Delta,DELTA,81416
+20727,United States,CO,Colorado,Denver,DENVER,80203
+20752,United States,CO,Colorado,Denver,DENVER,80206
+20777,United States,CO,Colorado,Denver,DENVER,80207
+20802,United States,CO,Colorado,Denver,DENVER,80211
+20827,United States,CO,Colorado,Adams,DENVER,80221
+20852,United States,CO,Colorado,Denver,DENVER,80222
+20877,United States,CO,Colorado,Denver,DENVER,80224
+20902,United States,CO,Colorado,Denver,DENVER,80230
+20927,United States,CO,Colorado,Denver,DENVER,80231
+20952,United States,CO,Colorado,Denver,DENVER,80237
+20977,United States,CO,Colorado,Denver,DENVER,80246
+21002,United States,CO,Colorado,La Plata,DURANGO,81301
+21027,United States,CO,Colorado,Arapahoe,ENGLEWOOD,80110
+21052,United States,CO,Colorado,Arapahoe,ENGLEWOOD,80112
+21077,United States,CO,Colorado,Larimer,ESTES PARK,80517
+21102,United States,CO,Colorado,Jefferson,EVERGREEN,80439
+21127,United States,CO,Colorado,Larimer,FORT COLLINS,80521
+21152,United States,CO,Colorado,Larimer,FORT COLLINS,80524
+21177,United States,CO,Colorado,Larimer,FORT COLLINS,80525
+21202,United States,CO,Colorado,Larimer,FORT COLLINS,80526
+21227,United States,CO,Colorado,Morgan,FORT MORGAN,80701
+21252,United States,CO,Colorado,Summit,FRISCO,80443
+21277,United States,CO,Colorado,Larimer,FT COLLINS,80525
+21302,United States,CO,Colorado,Denver,GLENDALE,80246
+21327,United States,CO,Colorado,Garfield,GLENWOOD SPRINGS,81601
+21352,United States,CO,Colorado,Garfield,GLENWOOD SPRINGS,81602
+21377,United States,CO,Colorado,Jefferson,GOLDEN,80401
+21402,United States,CO,Colorado,Mesa,GRAND JUNCTION,81501
+21427,United States,CO,Colorado,Mesa,GRAND JUNCTION,81502
+21452,United States,CO,Colorado,Mesa,GRAND JUNCTION,81505
+21477,United States,CO,Colorado,Mesa,GRAND JUNCTION,81506
+21502,United States,CO,Colorado,Weld,GREELEY,80631
+21527,United States,CO,Colorado,Weld,GREELEY,80634
+21552,United States,CO,Colorado,Arapahoe,GREENWOOD VILLAGE,80111
+21577,United States,CO,Colorado,Gunnison,GUNNISON,81230
+21602,United States,CO,Colorado,Lincoln,HUGO,80821
+21627,United States,CO,Colorado,Otero,LA JUNTA,81050
+21652,United States,CO,Colorado,Boulder,LAFAYETTE,80026
+21677,United States,CO,Colorado,Jefferson,LAKEWOOD,80215
+21702,United States,CO,Colorado,Jefferson,LAKEWOOD,80226
+21727,United States,CO,Colorado,Denver,LAKEWOOD,80227
+21752,United States,CO,Colorado,Prowers,LAMAR,81052
+21777,United States,CO,Colorado,Bent,LAS ANIMAS,81054
+21802,United States,CO,Colorado,Lake,LEADVILLE,80461
+21827,United States,CO,Colorado,Montezuma,LEWIS,81327
+21852,United States,CO,Colorado,Boulder,LONGMONT,80503
+21877,United States,CO,Colorado,Larimer,LOVELAND,80537
+21902,United States,CO,Colorado,Larimer,LOVELAND,80538
+21927,United States,CO,Colorado,Rio Blanco,MEEKER,81641
+21952,United States,CO,Colorado,Montrose,MONTROSE,81401
+21977,United States,CO,Colorado,Douglas,PARKER,80134
+22002,United States,CO,Colorado,Pueblo,PUEBLO,81003
+22027,United States,CO,Colorado,Pueblo,PUEBLO,81008
+22052,United States,CO,Colorado,Rio Blanco,RANGELY,81648
+22077,United States,CO,Colorado,Otero,ROCKY FORD,81067
+22102,United States,CO,Colorado,Chaffee,SALIDA,81201
+22127,United States,CO,Colorado,Baca,SPRINGFIELD,81073
+22152,United States,CO,Colorado,Routt,STEAMBOAT SPRINGS,80487
+22177,United States,CO,Colorado,Logan,STERLING,80751
+22202,United States,CO,Colorado,Adams,THORNTON,80241
+22227,United States,CO,Colorado,Adams,THORNTON,80260
+22252,United States,CO,Colorado,Huerfano,WALSENBURG,81089
+22277,United States,CO,Colorado,Adams,WESTMINSTER,80031
+22302,United States,CO,Colorado,Adams,WESTMINSTER,80234
+22327,United States,CO,Colorado,Jefferson,WHEAT RIDGE,80033
+22352,United States,CO,Colorado,Larimer,WINDSOR,80528
+22377,United States,CO,Colorado,Teller,WOODLAND PARK,80863
+22402,United States,CO,Colorado,Yuma,YUMA,80759
+40627,United States,ID,Idaho,Bonneville,AMMON,83406
+40652,United States,ID,Idaho,Ada,BOISE,83702
+40677,United States,ID,Idaho,Ada,BOISE,83705
+40702,United States,ID,Idaho,Ada,BOISE,83709
+40727,United States,ID,Idaho,Cassia,BURLEY,83318
+40752,United States,ID,Idaho,Bannock,CHUBBUCK,83202
+40777,United States,ID,Idaho,Kootenai,COEUR D ALENE,83815
+40802,United States,ID,Idaho,Kootenai,COEUR D'ALENE,83814
+40827,United States,ID,Idaho,Ada,EAGLE,83616
+40852,United States,ID,Idaho,Payette,FRUITLAND,83619
+40877,United States,ID,Idaho,Kootenai,HAYDEN,83835
+40902,United States,ID,Idaho,Bonneville,IDAHO FALLS,83401
+40927,United States,ID,Idaho,Bonneville,IDAHO FALLS,83404
+40952,United States,ID,Idaho,Oneida,MALAD,83252
+40977,United States,ID,Idaho,Ada,MERIDIAN,83642
+41002,United States,ID,Idaho,,MERIDIAN,83646
+41027,United States,ID,Idaho,Bear Lake,MONTPELIER,83254
+41052,United States,ID,Idaho,Canyon,NAMPA,83687
+41077,United States,ID,Idaho,Bannock,POCATELLO,83201
+41102,United States,ID,Idaho,Bannock,POCATELLO,83202
+41127,United States,ID,Idaho,Kootenai,POST FALLS,83854
+41152,United States,ID,Idaho,Franklin,PRESTON,83263
+41177,United States,ID,Idaho,Madison,REXBURG,83440
+41202,United States,ID,Idaho,Minidoka,RUPERT,83350
+41227,United States,ID,Idaho,Bonner,SANDPOINT,83864
+41252,United States,ID,Idaho,Shoshone,SILVERTON,83867
+41277,United States,ID,Idaho,Twin Falls,TWIN FALLS,83301
+82277,United States,NJ,New Jersey,Burlington,BORDENTOWN,8505
+82302,United States,NJ,New Jersey,Ocean,BRICK,8724
+82327,United States,NJ,New Jersey,Cape May,CAPE MAY COURT HOUSE,8210
+82352,United States,NJ,New Jersey,Camden,CHERRY HILL,8034
+82427,United States,NJ,New Jersey,Atlantic,EGG HARBOR TOWNSHIP,8234
+82502,United States,NJ,New Jersey,Hunterdon,FLEMINGTON,8822
+82602,United States,NJ,New Jersey,Cumberland,MILLVILLE,8332
+82627,United States,NJ,New Jersey,Burlington,MOORESTOWN,8057
+82702,United States,NJ,New Jersey,Burlington,MOUNT LAUREL,8054
+82752,United States,NJ,New Jersey,Middlesex,NORTH BRUNSWICK,8902
+82852,United States,NJ,New Jersey,Camden,RUNNEMEDE,8078
+82877,United States,NJ,New Jersey,Salem,SALEM,8079
+82902,United States,NJ,New Jersey,Somerset,SOMERVILLE,8876
+83052,United States,NJ,New Jersey,Ocean,TOMS RIVER,8755
+83102,United States,NJ,New Jersey,Mercer,TRENTON,8611
+83152,United States,NJ,New Jersey,Cumberland,VINELAND,8360
+83177,United States,NJ,New Jersey,Camden,VOORHEES,8043
+83252,United States,NJ,New Jersey,Mercer,WEST WINDSOR,8550
+83277,United States,NJ,New Jersey,Ocean,WHITING,8759
+83302,United States,NM,New Mexico,Otero,ALAMOGORDO,88310
+83327,United States,NM,New Mexico,Bernalillo,ALBUQUERQUE,87107
+83352,United States,NM,New Mexico,Bernalillo,ALBUQUERQUE,87108
+83377,United States,NM,New Mexico,Bernalillo,ALBUQUERQUE,87109
+83402,United States,NM,New Mexico,Bernalillo,ALBUQUERQUE,87110
+83427,United States,NM,New Mexico,Bernalillo,ALBUQUERQUE,87112
+83452,United States,NM,New Mexico,Bernalillo,ALBUQUERQUE,87114
+83477,United States,NM,New Mexico,Doña Ana,ANTHONY,88021
+83502,United States,NM,New Mexico,Eddy,ARTESIA,88210
+83527,United States,NM,New Mexico,Valencia,BELEN,87002
+83552,United States,NM,New Mexico,Mora,BUENA VISTA,87712
+83577,United States,NM,New Mexico,Eddy,CARLSBAD,88220
+83602,United States,NM,New Mexico,Union,CLAYTON,88415
+83627,United States,NM,New Mexico,Curry,CLOVIS,88101
+83652,United States,NM,New Mexico,Luna,DEMING,88031
+83677,United States,NM,New Mexico,Rio Arriba,ESPANOLA,87532
+83702,United States,NM,New Mexico,San Juan,FARMINGTON,87401
+83727,United States,NM,New Mexico,San Juan,FARMINGTON,87402
+83752,United States,NM,New Mexico,McKinley,GALLUP,87301
+83777,United States,NM,New Mexico,Lea,HOBBS,88240
+83802,United States,NM,New Mexico,Doña Ana,LAS CRUCES,88001
+83827,United States,NM,New Mexico,Doña Ana,LAS CRUCES,88005
+83852,United States,NM,New Mexico,Doña Ana,LAS CRUCES,88011
+83877,United States,NM,New Mexico,San Miguel,LAS VEGAS,87701
+83902,United States,NM,New Mexico,Los Alamos,LOS ALAMOS,87544
+83927,United States,NM,New Mexico,Mora,MORA,87732
+83952,United States,NM,New Mexico,Roosevelt,PORTALES,88130
+83977,United States,NM,New Mexico,Chaves,ROSWELL,88201
+84002,United States,NM,New Mexico,Lincoln,RUIDOSO,88345
+84027,United States,NM,New Mexico,Santa Fe,SANTA FE,87505
+84052,United States,NM,New Mexico,Doña Ana,SANTA TERESA,88008
+84077,United States,NM,New Mexico,Grant,SILVER CITY,88061
+84102,United States,NM,New Mexico,Socorro,SOCORRO,87801
+84127,United States,NM,New Mexico,Taos,TAOS,87571
+84152,United States,NM,New Mexico,Sierra,TRUTH OR CONSEQUENCE,87901
+84177,United States,NM,New Mexico,Quay,TUCUMCARI,88401
+84202,United States,NM,New Mexico,McKinley,ZUNI,87327
+84227,United States,NV,Nevada,Clark,BOULDER CITY,89005
+84252,United States,NV,Nevada,Carson City (city),CARSON CITY,89706
+84277,United States,NV,Nevada,Elko,ELKO,89801
+84302,United States,NV,Nevada,White Pine,ELY,89301
+84327,United States,NV,Nevada,Clark,HENDERSON,89015
+84352,United States,NV,Nevada,Clark,HENDERSON,89052
+84377,United States,NV,Nevada,Clark,LAS VEGAS,89101
+84402,United States,NV,Nevada,Clark,LAS VEGAS,89102
+84427,United States,NV,Nevada,Clark,LAS VEGAS,89103
+84452,United States,NV,Nevada,Clark,LAS VEGAS,89104
+84477,United States,NV,Nevada,Clark,LAS VEGAS,89106
+84502,United States,NV,Nevada,Clark,LAS VEGAS,89107
+84527,United States,NV,Nevada,Clark,LAS VEGAS,89109
+84552,United States,NV,Nevada,Clark,LAS VEGAS,89115
+84577,United States,NV,Nevada,Clark,LAS VEGAS,89117
+84602,United States,NV,Nevada,Clark,LAS VEGAS,89118
+84627,United States,NV,Nevada,Clark,LAS VEGAS,89119
+84652,United States,NV,Nevada,Clark,LAS VEGAS,89120
+84677,United States,NV,Nevada,Clark,LAS VEGAS,89121
+84702,United States,NV,Nevada,Clark,LAS VEGAS,89123
+84727,United States,NV,Nevada,Clark,LAS VEGAS,89129
+84752,United States,NV,Nevada,Clark,LAS VEGAS,89130
+84777,United States,NV,Nevada,Clark,LAS VEGAS,89134
+84802,United States,NV,Nevada,Clark,LAS VEGAS,89146
+84827,United States,NV,Nevada,Clark,LAS VEGAS,89147
+84852,United States,NV,Nevada,Clark,LAS VEGAS,89148
+84877,United States,NV,Nevada,,LAS VEGAS,89183
+84902,United States,NV,Nevada,Clark,MESQUITE,89027
+84927,United States,NV,Nevada,Clark,NORTH LAS VEGAS,89030
+84952,United States,NV,Nevada,Clark,NORTH LAS VEGAS,89031
+84977,United States,NV,Nevada,Washoe,RENO,89502
+85002,United States,NV,Nevada,Washoe,RENO,89511
+85027,United States,NV,Nevada,Washoe,RENO,89521
+85052,United States,NV,Nevada,Washoe,SPARKS,89431
+85077,United States,NV,Nevada,Humboldt,WINNEMUCCA,89445
+127427,United States,UT,Utah,Utah,AMERICAN FORK,84003
+127452,United States,UT,Utah,Beaver,BEAVER,84713
+127477,United States,UT,Utah,San Juan,BLUFF,84512
+127502,United States,UT,Utah,Davis,BOUNTIFUL,84010
+127527,United States,UT,Utah,Box Elder,BRIGHAM CITY,84302
+127552,United States,UT,Utah,Iron,CEDAR CITY,84720
+127577,United States,UT,Utah,Davis,CLEARFIELD,84015
+127602,United States,UT,Utah,Salt Lake,DRAPER,84020
+127627,United States,UT,Utah,Sanpete,GUNNISON,84634
+127652,United States,UT,Utah,Salt Lake,HOLLADAY,84117
+127677,United States,UT,Utah,Weber,HUNTSVILLE,84317
+127702,United States,UT,Utah,Davis,LAYTON,84041
+127727,United States,UT,Utah,Cache,LOGAN,84321
+127752,United States,UT,Utah,Cache,LOGAN,84341
+127777,United States,UT,Utah,Salt Lake,MIDVALE,84047
+127802,United States,UT,Utah,Sanpete,MT PLEASANT,84647
+127827,United States,UT,Utah,Salt Lake,MURRAY,84107
+127852,United States,UT,Utah,Salt Lake,MURRAY,84121
+127877,United States,UT,Utah,Salt Lake,MURRAY,84123
+127902,United States,UT,Utah,Juab,NEPHI,84648
+127927,United States,UT,Utah,Weber,OGDEN,84401
+127952,United States,UT,Utah,Weber,OGDEN,84403
+127977,United States,UT,Utah,Weber,OGDEN,84405
+128002,United States,UT,Utah,Utah,OREM,84057
+128027,United States,UT,Utah,Utah,OREM,84058
+128052,United States,UT,Utah,Utah,OREM,84097
+128077,United States,UT,Utah,Utah,PAYSON,84651
+128102,United States,UT,Utah,Box Elder,PERRY,84302
+128127,United States,UT,Utah,Cache,PROVIDENCE,84332
+128152,United States,UT,Utah,Utah,PROVO,84604
+128177,United States,UT,Utah,Duchesne,ROOSEVELT,84066
+128202,United States,UT,Utah,Sevier,SALINA,84654
+128227,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84102
+128252,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84104
+128277,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84106
+128302,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84107
+128327,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84109
+128352,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84111
+128377,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84115
+128402,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84117
+128427,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84121
+128452,United States,UT,Utah,Salt Lake,SALT LAKE CITY,84124
+128477,United States,UT,Utah,Salt Lake,SANDY,84070
+128502,United States,UT,Utah,Salt Lake,SANDY,84094
+128527,United States,UT,Utah,Salt Lake,SOUTH JORDAN,84095
+128552,United States,UT,Utah,Utah,SPANISH FORK,84660
+128577,United States,UT,Utah,Utah,SPRINGVILLE,84663
+128602,United States,UT,Utah,Washington,ST GEORGE,84770
+128627,United States,UT,Utah,Washington,ST GEORGE,84790
+128652,United States,UT,Utah,Salt Lake,TAYLORSVILLE,84123
+128677,United States,UT,Utah,Uintah,VERNAL,84078
+128702,United States,UT,Utah,Salt Lake,WEST JORDAN,84084
+128727,United States,UT,Utah,Salt Lake,WEST VALLEY CITY,84119
+137227,United States,WY,Wyoming,Lincoln,AFTON,83110
+137252,United States,WY,Wyoming,Johnson,BUFFALO,82834
+137277,United States,WY,Wyoming,Natrona,CASPER,82601
+137302,United States,WY,Wyoming,Natrona,CASPER,82604
+137327,United States,WY,Wyoming,Laramie,CHEYENNE,82001
+137352,United States,WY,Wyoming,Laramie,CHEYENNE,82009
+137377,United States,WY,Wyoming,Park,CODY,82414
+137402,United States,WY,Wyoming,Uinta,EVANSTON,82930
+137427,United States,WY,Wyoming,Uinta,EVANSTON,82931
+137452,United States,WY,Wyoming,Campbell,GILLETTE,82716
+137477,United States,WY,Wyoming,Sweetwater,GREEN RIVER,82935
+137502,United States,WY,Wyoming,Teton,JACKSON,83001
+137527,United States,WY,Wyoming,Fremont,LANDER,82520
+137552,United States,WY,Wyoming,Albany,LARAMIE,82070
+137577,United States,WY,Wyoming,Albany,LARAMIE,82072
+137602,United States,WY,Wyoming,Uinta,LYMAN,82937
+137627,United States,WY,Wyoming,Crook,MOORCROFT,82721
+137652,United States,WY,Wyoming,Weston,NEWCASTLE,82701
+137677,United States,WY,Wyoming,Carbon,RAWLINS,82301
+137702,United States,WY,Wyoming,Sweetwater,ROCK SPRINGS,82901
+137727,United States,WY,Wyoming,Sheridan,SHERIDAN,82801
+137752,United States,WY,Wyoming,Lincoln,THAYNE,83127
+137777,United States,WY,Wyoming,Hot Springs,THERMOPOLIS,82443

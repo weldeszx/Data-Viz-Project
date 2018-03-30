@@ -1,0 +1,28 @@
+state,LocationNO,Certification_NO,Address,LicenseRenewalDate,Offers Nursing Care Services,Offers Physical Therapy Services,Offers Speech Pathology Services,Offers Home Health Aide Services,Date Certified,Service Quality,ServiceQualityRating,Type of Ownership
+Rhode Island,106852,417023,14 WOODRUFF AVE. SUITE # 7,1998-01-01,YES,YES,YES,YES,1968-01-01,Same As Expected,3.0 - 4.0,Non - Profit Private
+Rhode Island,107052,417006,51 HEALTH LANE,2001-04-01,YES,YES,YES,YES,1971-04-01,Same As Expected,3.0 - 4.0,Non - Profit Private
+Rhode Island,107052,417001,475 KILVERT STREET 4TH FLOOR,2002-01-01,YES,YES,YES,YES,1972-01-01,Better Than Expected,4.5 - 5.0,Non - Profit Other
+Rhode Island,107002,417029,50 MAUDE ST.,2007-10-05,YES,YES,YES,YES,1987-10-05,Worse Than Expected,1.0 - 2.5,Proprietary
+Rhode Island,107052,417035,2809 POST ROAD,2008-10-07,YES,YES,YES,YES,1993-10-07,Worse Than Expected,1.0 - 2.5,Proprietary
+Rhode Island,107052,417036,300 CENTERVILLE ROAD SUITE 202,2009-08-31,YES,YES,YES,YES,1994-08-31,Better Than Expected,4.5 - 5.0,Proprietary
+Rhode Island,106927,417038,249 WICKENDEN ST.,2010-01-01,YES,YES,YES,YES,1995-01-01,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106802,417040,49 B NORTH ROAD,2010-10-20,YES,YES,YES,YES,1995-10-20,Not Available,,Proprietary
+Rhode Island,106977,417045,400 RESERVOIR AVE.,2011-08-28,YES,YES,YES,YES,1996-08-28,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106727,417049,30 ROLFE SQUARE,2012-08-14,YES,YES,YES,YES,1997-08-14,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106727,417051,165 BURNSIDE ST.,2013-05-21,YES,YES,YES,YES,1998-05-21,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106702,417054,1738 BROAD STREET,2013-11-25,YES,YES,YES,YES,1998-11-25,Not Available,,Non - Profit Private
+Rhode Island,106877,417055,334 EAST AVE,2014-02-08,YES,YES,YES,YES,1999-02-08,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106927,417057,260 WEST EXCHANGE STREET,2003-10-04,YES,YES,YES,YES,2001-10-04,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106752,417058,63 SOCKANOSSET CROSSROAD SUITE 1-C,2005-01-08,YES,YES,NO,YES,2003-01-08,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106827,417059,1525 OLD LOUISQUISSET PIKE,2006-05-25,YES,YES,YES,YES,2004-05-25,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106977,417061,433 ELMWOOD AVENUE,2011-09-14,YES,YES,YES,YES,2009-09-14,Not Available,,Proprietary
+Rhode Island,106952,417062,725 BRANCH AVE,2011-10-17,YES,YES,YES,YES,2009-10-17,Same As Expected,3.0 - 4.0,Non - Profit Private
+Rhode Island,106777,417063,125 SCITUATE AVENUE,2012-11-18,YES,YES,YES,YES,2010-11-18,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,107027,417064,2 HEMINGWAY DRVIE,2012-12-06,YES,YES,YES,YES,2010-12-06,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,107077,417065,1171 MAIN STREET,2013-01-25,YES,YES,NO,YES,2011-01-25,Not Available,,Proprietary
+Rhode Island,106927,417067,1 CEDAR STREET SUITE 101,2013-07-25,YES,NO,NO,YES,2011-07-25,Not Available,,Proprietary
+Rhode Island,107052,417066,57 KILVERT STREET SUITE 105,2014-03-06,YES,YES,YES,YES,2012-03-06,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106727,417068,478 RESERVOIR AVENUE,2014-10-29,YES,YES,YES,YES,2012-10-29,Same As Expected,3.0 - 4.0,Proprietary
+Rhode Island,106877,417069,235 LONSDALE AVENUE,2015-01-14,YES,YES,NO,YES,2013-01-14,Not Available,,Proprietary
+Rhode Island,106902,417000,1184 EAST MAIN ROAD,1996-07-01,YES,YES,YES,YES,1966-07-01,Better Than Expected,4.5 - 5.0,Non - Profit Private
+Rhode Island,106827,417003,6 BLACKSTONE VALLEY PLACE,1996-07-01,YES,YES,YES,YES,1966-07-01,Same As Expected,3.0 - 4.0,Non - Profit Other

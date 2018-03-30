@@ -1,0 +1,778 @@
+LocationNO,Country,State_Abbv,State,County,City,ZipCode
+1327,United States,AL,Alabama,Shelby,ALABASTER,35007
+1352,United States,AL,Alabama,Covington,ANDALUSIA,36420
+1377,United States,AL,Alabama,Calhoun,ANNISTON,36205
+1402,United States,AL,Alabama,Calhoun,ANNISTON,36207
+1427,United States,AL,Alabama,Clay,ASHLAND,36251
+1452,United States,AL,Alabama,Limestone,ATHENS,35611
+1477,United States,AL,Alabama,Escambia,ATMORE,36502
+1502,United States,AL,Alabama,Lee,AUBURN,36830
+1527,United States,AL,Alabama,Jefferson,BESSEMER,35020
+1552,United States,AL,Alabama,Jefferson,BIRMINGHAM,35216
+1577,United States,AL,Alabama,Jefferson,BIRMINGHAM,35226
+1602,United States,AL,Alabama,Jefferson,BIRMINGHAM,35235
+1627,United States,AL,Alabama,Shelby,BIRMINGHAM,35242
+1652,United States,AL,Alabama,Jefferson,BIRMINGHAM,35244
+1677,United States,AL,Alabama,Blount,BLOUNTSVILLE,35031
+1702,United States,AL,Alabama,Escambia,BREWTON,36426
+1727,United States,AL,Alabama,Wilcox,CAMDEN,36726
+1752,United States,AL,Alabama,Pickens,CARROLLTON,35447
+1777,United States,AL,Alabama,Cherokee,CENTRE,35960
+1802,United States,AL,Alabama,Bibb,CENTREVILLE,35042
+1827,United States,AL,Alabama,Washington,CHATOM,36518
+1852,United States,AL,Alabama,Mobile,CITRONELLE,36522
+1877,United States,AL,Alabama,Chilton,CLANTON,35045
+1902,United States,AL,Alabama,Barbour,CLAYTON,36016
+1927,United States,AL,Alabama,Cullman,CULLMAN,35055
+1952,United States,AL,Alabama,Cullman,CULLMAN,35058
+1977,United States,AL,Alabama,Tallapoosa,DADEVILLE,36853
+2002,United States,AL,Alabama,Baldwin,DAPHNE,36526
+2027,United States,AL,Alabama,Morgan,DECATUR,35601
+2052,United States,AL,Alabama,Morgan,DECATUR,35603
+2077,United States,AL,Alabama,Marengo,DEMOPOLIS,36732
+2102,United States,AL,Alabama,Houston,DOTHAN,36301
+2127,United States,AL,Alabama,Houston,DOTHAN,36302
+2152,United States,AL,Alabama,Houston,DOTHAN,36303
+2177,United States,AL,Alabama,Houston,DOTHAN,36305
+2202,United States,AL,Alabama,Winston,DOUBLE SPRINGS,35553
+2227,United States,AL,Alabama,Coffee,ENTERPRISE,36330
+2252,United States,AL,Alabama,Greene,EUTAW,35462
+2277,United States,AL,Alabama,Conecuh,EVERGREEN,36401
+2302,United States,AL,Alabama,Baldwin,FAIRHOPE,36532
+2327,United States,AL,Alabama,Fayette,FAYETTE,35555
+2352,United States,AL,Alabama,Lauderdale,FLORENCE,35630
+2377,United States,AL,Alabama,Baldwin,FOLEY,36535
+2402,United States,AL,Alabama,DeKalb,FORT PAYNE,35967
+2427,United States,AL,Alabama,DeKalb,FORT PAYNE,35968
+2452,United States,AL,Alabama,Jefferson,FULTONDALE,35068
+2477,United States,AL,Alabama,Etowah,GADSDEN,35901
+2502,United States,AL,Alabama,Etowah,GADSDEN,35903
+2527,United States,AL,Alabama,Geneva,GENEVA,36340
+2552,United States,AL,Alabama,Butler,GEORGIANA,36033
+2577,United States,AL,Alabama,Choctaw,GILBERTOWN,36908
+2602,United States,AL,Alabama,Hale,GREENSBORO,36744
+2627,United States,AL,Alabama,Butler,GREENVILLE,36037
+2652,United States,AL,Alabama,Marshall,GUNTERSVILLE,35976
+2677,United States,AL,Alabama,Winston,HALEYVILLE,35565
+2702,United States,AL,Alabama,Marion,HAMILTON,35570
+2727,United States,AL,Alabama,Geneva,HARTFORD,36344
+2752,United States,AL,Alabama,Jefferson,HOMEWOOD,35209
+2777,United States,AL,Alabama,Madison,HUNTSVILLE,35801
+2802,United States,AL,Alabama,Madison,HUNTSVILLE,35802
+2827,United States,AL,Alabama,Madison,HUNTSVILLE,35816
+2852,United States,AL,Alabama,Clarke,JACKSON,36545
+2877,United States,AL,Alabama,Walker,JASPER,35501
+2902,United States,AL,Alabama,Marengo,LINDEN,36748
+2927,United States,AL,Alabama,Crenshaw,LUVERNE,36049
+2952,United States,AL,Alabama,Madison,MADISON,35757
+2977,United States,AL,Alabama,Mobile,MOBILE,36607
+3002,United States,AL,Alabama,Mobile,MOBILE,36609
+3027,United States,AL,Alabama,Monroe,MONROEVILLE,36460
+3052,United States,AL,Alabama,Monroe,MONROEVILLE,36461
+3077,United States,AL,Alabama,Montgomery,MONTGOMERY,36104
+3102,United States,AL,Alabama,Montgomery,MONTGOMERY,36106
+3127,United States,AL,Alabama,Montgomery,MONTGOMERY,36109
+3152,United States,AL,Alabama,Lawrence,MOULTON,35650
+3177,United States,AL,Alabama,Blount,ONEONTA,35121
+3202,United States,AL,Alabama,Lee,OPELIKA,36801
+3227,United States,AL,Alabama,Covington,OPP,36467
+3252,United States,AL,Alabama,Dale,OZARK,36360
+3277,United States,AL,Alabama,St. Clair,PELL CITY,35125
+3302,United States,AL,Alabama,St. Clair,PELL CITY,35128
+3327,United States,AL,Alabama,Russell,PHENIX CITY,36867
+3352,United States,AL,Alabama,Montgomery,PIKE ROAD,36064
+3377,United States,AL,Alabama,Autauga,PRATTVILLE,36066
+3402,United States,AL,Alabama,Autauga,PRATTVILLE,36067
+3427,United States,AL,Alabama,Etowah,RAINBOW CITY,35906
+3452,United States,AL,Alabama,Franklin,RED BAY,35582
+3477,United States,AL,Alabama,Pickens,REFORM,35481
+3502,United States,AL,Alabama,Randolph,ROANOKE,36274
+3527,United States,AL,Alabama,Franklin,RUSSELLVILLE,35653
+3552,United States,AL,Alabama,Jackson,SCOTTSBORO,35768
+3577,United States,AL,Alabama,Jackson,SCOTTSBORO,35769
+3602,United States,AL,Alabama,Dallas,SELMA,36701
+3627,United States,AL,Alabama,Colbert,SHEFFIELD,35660
+3652,United States,AL,Alabama,Talladega,SYLACAUGA,35150
+3677,United States,AL,Alabama,Talladega,TALLADEGA,35160
+3702,United States,AL,Alabama,Elmore,TALLASSEE,36078
+3727,United States,AL,Alabama,Pike,TROY,36081
+3752,United States,AL,Alabama,Jefferson,TRUSSVILLE,35173
+3777,United States,AL,Alabama,Tuscaloosa,TUSCALOOSA,35401
+3802,United States,AL,Alabama,Tuscaloosa,TUSCALOOSA,35405
+3827,United States,AL,Alabama,Tuscaloosa,TUSCALOOSA,35406
+3852,United States,AL,Alabama,Bullock,UNION SPRINGS,36089
+3877,United States,AL,Alabama,Chambers,VALLEY,36854
+3902,United States,AL,Alabama,Tuscaloosa,VANCE,35490
+3927,United States,AL,Alabama,Lamar,VERNON,35592
+3952,United States,AL,Alabama,Jefferson,VESTAVIA HILLS,35216
+3977,United States,AL,Alabama,Elmore,WETUMPKA,36092
+4002,United States,AL,Alabama,Sumter,YORK,36925
+24877,United States,FL,Florida,Seminole,ALTAMONTE,32701
+24902,United States,FL,Florida,Seminole,ALTAMONTE SPRINGS,32701
+24927,United States,FL,Florida,Seminole,ALTAMONTE SPRINGS,32714
+24952,United States,FL,Florida,Lake,ALTOONA,32702
+24977,United States,FL,Florida,Hillsborough,APOLLO BEACH,33572
+25002,United States,FL,Florida,Orange,APOPKA,32703
+25027,United States,FL,Florida,DeSoto,ARCADIA,34266
+25052,United States,FL,Florida,Duval,ATLANTIC BEACH,32233
+25077,United States,FL,Florida,Palm Beach,ATLANTIS,33462
+25102,United States,FL,Florida,Miami-Dade,AVENTURA,33180
+25127,United States,FL,Florida,Miami-Dade,BAL HARBOUR,33154
+25152,United States,FL,Florida,Miami-Dade,BAY HARBOR ISLANDS,33154
+25177,United States,FL,Florida,Marion,BELLEVIEW,34420
+25202,United States,FL,Florida,Citrus,BEVERLY HILLS,34465
+25227,United States,FL,Florida,Calhoun,BLOUNTSTOWN,32424
+25252,United States,FL,Florida,Palm Beach,BOCA RATON,33428
+25277,United States,FL,Florida,Palm Beach,BOCA RATON,33431
+25302,United States,FL,Florida,Palm Beach,BOCA RATON,33432
+25327,United States,FL,Florida,Palm Beach,BOCA RATON,33433
+25352,United States,FL,Florida,Palm Beach,BOCA RATON,33486
+25377,United States,FL,Florida,Palm Beach,BOCA RATON,33487
+25402,United States,FL,Florida,Lee,BONITA SPRINGS,34134
+25427,United States,FL,Florida,Palm Beach,BOYNTON BEACH,33426
+25452,United States,FL,Florida,Palm Beach,BOYNTON BEACH,33435
+25477,United States,FL,Florida,Palm Beach,BOYNTON BEACH,33436
+25502,United States,FL,Florida,Palm Beach,BOYNTON BEACH,33437
+25527,United States,FL,Florida,Manatee,BRADENTON,34203
+25552,United States,FL,Florida,Manatee,BRADENTON,34205
+25577,United States,FL,Florida,Manatee,BRADENTON,34208
+25602,United States,FL,Florida,Manatee,BRADENTON,34209
+25627,United States,FL,Florida,Hillsborough,BRANDON,33511
+25652,United States,FL,Florida,Hernando,BROOKSVILLE,34601
+25677,United States,FL,Florida,Hernando,BROOKSVILLE,34613
+25702,United States,FL,Florida,Flagler,BUNNELL,32110
+25727,United States,FL,Florida,Sumter,BUSHNELL,33513
+25752,United States,FL,Florida,Lee,CAPE CORAL,33904
+25777,United States,FL,Florida,Lee,CAPE CORAL,33990
+25802,United States,FL,Florida,Lee,CAPE CORAL,33991
+25827,United States,FL,Florida,Seminole,CASSELBERRY,32707
+25852,United States,FL,Florida,Levy,CHIEFLAND,32626
+25877,United States,FL,Florida,Washington,CHIPLEY,32428
+25902,United States,FL,Florida,Pinellas,CLEARWATER,33759
+25927,United States,FL,Florida,Pinellas,CLEARWATER,33760
+25952,United States,FL,Florida,Pinellas,CLEARWATER,33761
+25977,United States,FL,Florida,Pinellas,CLEARWATER,33762
+26002,United States,FL,Florida,Pinellas,CLEARWATER,33763
+26027,United States,FL,Florida,Pinellas,CLEARWATER,33765
+26052,United States,FL,Florida,Lake,CLERMONT,34711
+26077,United States,FL,Florida,Broward,COOPER CITY,33026
+26102,United States,FL,Florida,Miami-Dade,CORAL GABLES,33134
+26127,United States,FL,Florida,Miami-Dade,CORAL GABLES,33135
+26152,United States,FL,Florida,Broward,CORAL SPRINGS,33065
+26177,United States,FL,Florida,Broward,CORAL SPRINGS,33067
+26202,United States,FL,Florida,Broward,CORAL SPRINGS,33071
+26227,United States,FL,Florida,Broward,CORAL SPRINGS,33076
+26252,United States,FL,Florida,Wakulla,CRAWFORDVILLE,32327
+26277,United States,FL,Florida,Okaloosa,CRESTVIEW,32539
+26302,United States,FL,Florida,Citrus,CRYSTAL RIVER,34429
+26327,United States,FL,Florida,Broward,DANIA,33004
+26352,United States,FL,Florida,Broward,DANIA BEACH,33312
+26377,United States,FL,Florida,Polk,DAVENPORT,33837
+26402,United States,FL,Florida,Broward,DAVIE,33314
+26427,United States,FL,Florida,Broward,DAVIE,33324
+26452,United States,FL,Florida,Broward,DAVIE,33328
+26477,United States,FL,Florida,Broward,DAVIE,33330
+26502,United States,FL,Florida,Volusia,DAYTONA BEACH,32114
+26527,United States,FL,Florida,Volusia,DAYTONA BEACH,32117
+26552,United States,FL,Florida,Volusia,DE BARY,32713
+26577,United States,FL,Florida,Volusia,DE LAND,32724
+26602,United States,FL,Florida,Volusia,DEBARY,32713
+26627,United States,FL,Florida,Broward,DEERFIELD BEACH,33441
+26652,United States,FL,Florida,Broward,DEERFIELD BEACH,33442
+26677,United States,FL,Florida,Walton,DEFUNIAK SPRINGS,32435
+26702,United States,FL,Florida,Palm Beach,DELRAY BEACH,33445
+26727,United States,FL,Florida,Palm Beach,DELRAY BEACH,33446
+26752,United States,FL,Florida,Palm Beach,DELRAY BEACH,33483
+26777,United States,FL,Florida,Palm Beach,DELRAY BEACH,33484
+26802,United States,FL,Florida,Miami-Dade,DORAL,33122
+26827,United States,FL,Florida,Miami-Dade,DORAL,33126
+26852,United States,FL,Florida,Miami-Dade,DORAL,33166
+26877,United States,FL,Florida,Miami-Dade,DORAL,33172
+26902,United States,FL,Florida,Miami-Dade,DORAL,33178
+26927,United States,FL,Florida,Pinellas,DUNEDIN,34698
+26952,United States,FL,Florida,Manatee,ELLENTON,34222
+26977,United States,FL,Florida,Lake,EUSTIS,32726
+27002,United States,FL,Florida,Nassau,FERNANDINA BEACH,32034
+27027,United States,FL,Florida,Broward,FORT LAUDERDALE,33301
+27052,United States,FL,Florida,Broward,FORT LAUDERDALE,33304
+27077,United States,FL,Florida,Broward,FORT LAUDERDALE,33306
+27102,United States,FL,Florida,Broward,FORT LAUDERDALE,33308
+27127,United States,FL,Florida,Broward,FORT LAUDERDALE,33309
+27152,United States,FL,Florida,Broward,FORT LAUDERDALE,33312
+27177,United States,FL,Florida,Broward,FORT LAUDERDALE,33313
+27202,United States,FL,Florida,Broward,FORT LAUDERDALE,33316
+27227,United States,FL,Florida,Broward,FORT LAUDERDALE,33334
+27252,United States,FL,Florida,Lee,FORT MYERS,33901
+27277,United States,FL,Florida,Lee,FORT MYERS,33907
+27302,United States,FL,Florida,Lee,FORT MYERS,33908
+27327,United States,FL,Florida,Lee,FORT MYERS,33912
+27352,United States,FL,Florida,Lee,FORT MYERS,33913
+27377,United States,FL,Florida,Lee,FORT MYERS,33919
+27402,United States,FL,Florida,St. Lucie,FORT PIERCE,34950
+27427,United States,FL,Florida,Okaloosa,FORT WALTON BEACH,32547
+27452,United States,FL,Florida,Okaloosa,FORT WALTON BEACH,32548
+27477,United States,FL,Florida,Lake,FRUITLAND PARK,34731
+27502,United States,FL,Florida,Alachua,GAINESVILLE,32601
+27527,United States,FL,Florida,Alachua,GAINESVILLE,32606
+27552,United States,FL,Florida,Alachua,GAINESVILLE,32607
+27577,United States,FL,Florida,Alachua,GAINESVILLE,32653
+27602,United States,FL,Florida,Palm Beach,GREENACRES,33463
+27627,United States,FL,Florida,Palm Beach,GREENACRES,33467
+27652,United States,FL,Florida,Broward,HALLANDALE,33009
+27677,United States,FL,Florida,Broward,HALLANDALE BEACH,33009
+27702,United States,FL,Florida,Miami-Dade,HIALEAH,33010
+27727,United States,FL,Florida,Miami-Dade,HIALEAH,33012
+27752,United States,FL,Florida,Miami-Dade,HIALEAH,33013
+27777,United States,FL,Florida,Miami-Dade,HIALEAH,33014
+27802,United States,FL,Florida,Miami-Dade,HIALEAH,33015
+27827,United States,FL,Florida,Miami-Dade,HIALEAH,33016
+27852,United States,FL,Florida,Miami-Dade,HIALEAH,33018
+27877,United States,FL,Florida,Miami-Dade,HIALEAH GARDENS,33016
+27902,United States,FL,Florida,Miami-Dade,HIALEAH GARDENS,33018
+27927,United States,FL,Florida,Broward,HOLLYWOOD,33020
+27952,United States,FL,Florida,Broward,HOLLYWOOD,33021
+27977,United States,FL,Florida,Broward,HOLLYWOOD,33023
+28002,United States,FL,Florida,Broward,HOLLYWOOD,33024
+28027,United States,FL,Florida,Miami-Dade,HOMESTEAD,33030
+28052,United States,FL,Florida,Miami-Dade,HOMESTEAD,33032
+28077,United States,FL,Florida,Miami-Dade,HOMESTEAD,33033
+28102,United States,FL,Florida,Citrus,HOMOSASSA,34446
+28127,United States,FL,Florida,Pasco,HUDSON,34667
+28152,United States,FL,Florida,Duval,JACKSONVILLE,32202
+28177,United States,FL,Florida,Duval,JACKSONVILLE,32204
+28202,United States,FL,Florida,Duval,JACKSONVILLE,32205
+28227,United States,FL,Florida,Duval,JACKSONVILLE,32207
+28252,United States,FL,Florida,Duval,JACKSONVILLE,32208
+28277,United States,FL,Florida,Duval,JACKSONVILLE,32209
+28302,United States,FL,Florida,Duval,JACKSONVILLE,32210
+28327,United States,FL,Florida,Duval,JACKSONVILLE,32216
+28352,United States,FL,Florida,Duval,JACKSONVILLE,32217
+28377,United States,FL,Florida,Duval,JACKSONVILLE,32218
+28402,United States,FL,Florida,Duval,JACKSONVILLE,32221
+28427,United States,FL,Florida,Duval,JACKSONVILLE,32225
+28452,United States,FL,Florida,Duval,JACKSONVILLE,32250
+28477,United States,FL,Florida,Duval,JACKSONVILLE,32256
+28502,United States,FL,Florida,Duval,JACKSONVILLE,32257
+28527,United States,FL,Florida,Duval,JACKSONVILLE,32258
+28552,United States,FL,Florida,Palm Beach,JUPITER,33458
+28577,United States,FL,Florida,Monroe,KEY WEST,33040
+28602,United States,FL,Florida,Osceola,KISSIMMEE,34741
+28627,United States,FL,Florida,Osceola,KISSIMMEE,34743
+28652,United States,FL,Florida,Osceola,KISSIMMEE,34744
+28677,United States,FL,Florida,Osceola,KISSIMMEE,34746
+28702,United States,FL,Florida,Lake,LADY LAKE,32159
+28727,United States,FL,Florida,Sumter,LADY LAKE,32162
+28752,United States,FL,Florida,Columbia,LAKE CITY,32025
+28777,United States,FL,Florida,Columbia,LAKE CITY,32055
+28802,United States,FL,Florida,Palm Beach,LAKE CLARKE SHORES,33406
+28827,United States,FL,Florida,Palm Beach,LAKE PARK,33403
+28852,United States,FL,Florida,Polk,LAKE WALES,33859
+28877,United States,FL,Florida,Palm Beach,LAKE WORTH,33461
+28902,United States,FL,Florida,Palm Beach,LAKE WORTH,33467
+28927,United States,FL,Florida,Polk,LAKELAND,33801
+28952,United States,FL,Florida,Polk,LAKELAND,33803
+28977,United States,FL,Florida,Polk,LAKELAND,33805
+29002,United States,FL,Florida,,LAKELAND,33812
+29027,United States,FL,Florida,Polk,LAKELAND,33813
+29052,United States,FL,Florida,Polk,LAKELAND,33815
+29077,United States,FL,Florida,Pasco,LAND O LAKES,34638
+29102,United States,FL,Florida,Palm Beach,LANTANA,33462
+29127,United States,FL,Florida,Pinellas,LARGO,33770
+29152,United States,FL,Florida,Pinellas,LARGO,33771
+29177,United States,FL,Florida,Pinellas,LARGO,33773
+29202,United States,FL,Florida,Pinellas,LARGO,33774
+29227,United States,FL,Florida,Pinellas,LARGO,33778
+29252,United States,FL,Florida,Broward,LAUDERDALE LAKES,33311
+29277,United States,FL,Florida,Broward,LAUDERDALE LAKES,33319
+29302,United States,FL,Florida,Broward,LAUDERHILL,33319
+29327,United States,FL,Florida,Broward,LAUDERHILL,33351
+29352,United States,FL,Florida,Citrus,LECANTO,34461
+29377,United States,FL,Florida,Lake,LEESBURG,34748
+29402,United States,FL,Florida,Lake,LEESBURG,34788
+29427,United States,FL,Florida,Lee,LEHIGH,33936
+29452,United States,FL,Florida,Lee,LEHIGH ACRES,33971
+29477,United States,FL,Florida,Broward,LIGHTHOUSE POINT,33064
+29502,United States,FL,Florida,Suwannee,LIVE OAK,32060
+29527,United States,FL,Florida,Suwannee,LIVE OAK,32064
+29552,United States,FL,Florida,Seminole,LONGWOOD,32750
+29577,United States,FL,Florida,Seminole,LONGWOOD,32779
+29602,United States,FL,Florida,Bay,LYNN HAVEN,32444
+29627,United States,FL,Florida,Orange,MAITLAND,32751
+29652,United States,FL,Florida,Broward,MARGATE,33063
+29677,United States,FL,Florida,Broward,MARGATE,33068
+29702,United States,FL,Florida,Jackson,MARIANNA,32448
+29727,United States,FL,Florida,Miami-Dade,MEDLEY,33166
+29752,United States,FL,Florida,Brevard,MELBOURNE,32901
+29777,United States,FL,Florida,Brevard,MELBOURNE,32904
+29802,United States,FL,Florida,Brevard,MELBOURNE,32934
+29827,United States,FL,Florida,Brevard,MELBOURNE,32935
+29852,United States,FL,Florida,Brevard,MELBOURNE,32940
+29877,United States,FL,Florida,Brevard,MERRITT ISLAND,32953
+29902,United States,FL,Florida,Miami-Dade,MIAMI,33014
+29927,United States,FL,Florida,Miami-Dade,MIAMI,33015
+29952,United States,FL,Florida,Miami-Dade,MIAMI,33122
+29977,United States,FL,Florida,Miami-Dade,MIAMI,33125
+30002,United States,FL,Florida,Miami-Dade,MIAMI,33126
+30027,United States,FL,Florida,Miami-Dade,MIAMI,33129
+30052,United States,FL,Florida,Miami-Dade,MIAMI,33130
+30077,United States,FL,Florida,Miami-Dade,MIAMI,33134
+30102,United States,FL,Florida,Miami-Dade,MIAMI,33135
+30127,United States,FL,Florida,Miami-Dade,MIAMI,33141
+30152,United States,FL,Florida,Miami-Dade,MIAMI,33143
+30177,United States,FL,Florida,Miami-Dade,MIAMI,33144
+30202,United States,FL,Florida,Miami-Dade,MIAMI,33145
+30227,United States,FL,Florida,Miami-Dade,MIAMI,33155
+30252,United States,FL,Florida,Miami-Dade,MIAMI,33157
+30277,United States,FL,Florida,Miami-Dade,MIAMI,33161
+30302,United States,FL,Florida,Miami-Dade,MIAMI,33162
+30327,United States,FL,Florida,Miami-Dade,MIAMI,33165
+30352,United States,FL,Florida,Miami-Dade,MIAMI,33166
+30377,United States,FL,Florida,Miami-Dade,MIAMI,33169
+30402,United States,FL,Florida,Miami-Dade,MIAMI,33172
+30427,United States,FL,Florida,Miami-Dade,MIAMI,33173
+30452,United States,FL,Florida,Miami-Dade,MIAMI,33174
+30477,United States,FL,Florida,Miami-Dade,MIAMI,33175
+30502,United States,FL,Florida,Miami-Dade,MIAMI,33176
+30527,United States,FL,Florida,Miami-Dade,MIAMI,33179
+30552,United States,FL,Florida,Miami-Dade,MIAMI,33180
+30577,United States,FL,Florida,Miami-Dade,MIAMI,33181
+30602,United States,FL,Florida,Miami-Dade,MIAMI,33183
+30627,United States,FL,Florida,Miami-Dade,MIAMI,33184
+30652,United States,FL,Florida,Miami-Dade,MIAMI,33185
+30677,United States,FL,Florida,Miami-Dade,MIAMI,33186
+30702,United States,FL,Florida,Miami-Dade,MIAMI,33196
+30727,United States,FL,Florida,Miami-Dade,MIAMI BEACH,33141
+30752,United States,FL,Florida,Miami-Dade,MIAMI GARDENS,33015
+30777,United States,FL,Florida,Miami-Dade,MIAMI GARDENS,33169
+30802,United States,FL,Florida,Miami-Dade,MIAMI LAKES,33014
+30827,United States,FL,Florida,Miami-Dade,MIAMI LAKES,33016
+30852,United States,FL,Florida,Miami-Dade,MIAMI SPRINGS,33166
+30877,United States,FL,Florida,Broward,MIRAMAR,33023
+30902,United States,FL,Florida,Broward,MIRAMAR,33025
+30927,United States,FL,Florida,Lake,MOUNT DORA,32757
+30952,United States,FL,Florida,Collier,NAPLES,34102
+30977,United States,FL,Florida,Collier,NAPLES,34103
+31002,United States,FL,Florida,Collier,NAPLES,34105
+31027,United States,FL,Florida,Collier,NAPLES,34109
+31052,United States,FL,Florida,Collier,NAPLES,34110
+31077,United States,FL,Florida,Collier,NAPLES,34112
+31102,United States,FL,Florida,Santa Rosa,NAVARRE,32566
+31127,United States,FL,Florida,Duval,NEPTUNE BEACH,32266
+31152,United States,FL,Florida,Pasco,NEW PORT RICHEY,34652
+31177,United States,FL,Florida,Pasco,NEW PORT RICHEY,34653
+31202,United States,FL,Florida,Pasco,NEW PORT RICHEY,34654
+31227,United States,FL,Florida,Miami-Dade,NORTH MIAMI,33161
+31252,United States,FL,Florida,Miami-Dade,NORTH MIAMI BEACH,33160
+31277,United States,FL,Florida,Miami-Dade,NORTH MIAMI BEACH,33162
+31302,United States,FL,Florida,Miami-Dade,NORTH MIAMI BEACH,33169
+31327,United States,FL,Florida,Miami-Dade,NORTH MIAMI BEACH,33179
+31352,United States,FL,Florida,Miami-Dade,NORTH MIAMI BEACH,33180
+31377,United States,FL,Florida,Miami-Dade,NORTH MIAMI BEACH,33181
+31402,United States,FL,Florida,Palm Beach,NORTH PALM BEACH,33408
+31427,United States,FL,Florida,Broward,OAKLAND PARK,33311
+31452,United States,FL,Florida,Broward,OAKLAND PARK,33334
+31477,United States,FL,Florida,Marion,OCALA,34470
+31502,United States,FL,Florida,Marion,OCALA,34471
+31527,United States,FL,Florida,Marion,OCALA,34474
+31552,United States,FL,Florida,Marion,OCALA,34476
+31577,United States,FL,Florida,Marion,OCALA,34478
+31602,United States,FL,Florida,Orange,OCOEE,34761
+31627,United States,FL,Florida,Okeechobee,OKEECHOBEE,34972
+31652,United States,FL,Florida,Okeechobee,OKEECHOBEE,34974
+31677,United States,FL,Florida,Pinellas,OLDSMAR,34677
+31702,United States,FL,Florida,Volusia,ORANGE CITY,32763
+31727,United States,FL,Florida,Clay,ORANGE PARK,32073
+31752,United States,FL,Florida,Orange,ORLANDO,32801
+31777,United States,FL,Florida,Orange,ORLANDO,32803
+31802,United States,FL,Florida,Orange,ORLANDO,32804
+31827,United States,FL,Florida,Orange,ORLANDO,32806
+31852,United States,FL,Florida,Orange,ORLANDO,32807
+31877,United States,FL,Florida,Orange,ORLANDO,32809
+31902,United States,FL,Florida,Orange,ORLANDO,32810
+31927,United States,FL,Florida,Orange,ORLANDO,32811
+31952,United States,FL,Florida,Orange,ORLANDO,32812
+31977,United States,FL,Florida,Orange,ORLANDO,32814
+32002,United States,FL,Florida,Orange,ORLANDO,32817
+32027,United States,FL,Florida,Orange,ORLANDO,32819
+32052,United States,FL,Florida,Orange,ORLANDO,32822
+32077,United States,FL,Florida,Orange,ORLANDO,32827
+32102,United States,FL,Florida,Orange,ORLANDO,32837
+32127,United States,FL,Florida,Volusia,ORMOND BEACH,32174
+32152,United States,FL,Florida,Sarasota,OSPREY,34229
+32177,United States,FL,Florida,Seminole,OVIEDO,32765
+32202,United States,FL,Florida,Palm Beach,PAHOKEE,33476
+32227,United States,FL,Florida,Putnam,PALATKA,32177
+32252,United States,FL,Florida,Palm Beach,PALM BEACH GARDENS,33403
+32277,United States,FL,Florida,Palm Beach,PALM BEACH GARDENS,33414
+32302,United States,FL,Florida,Martin,PALM CITY,34990
+32327,United States,FL,Florida,Flagler,PALM COAST,32137
+32352,United States,FL,Florida,Pinellas,PALM HARBOR,34683
+32377,United States,FL,Florida,Pinellas,PALM HARBOR,34684
+32402,United States,FL,Florida,Palm Beach,PALM SPRINGS,33461
+32427,United States,FL,Florida,Miami-Dade,PALMETTO BAY,33157
+32452,United States,FL,Florida,Bay,PANAMA CITY,32401
+32477,United States,FL,Florida,Bay,PANAMA CITY,32405
+32502,United States,FL,Florida,Bay,PANAMA CITY,32413
+32527,United States,FL,Florida,Broward,PEMBROKE LAKES,33026
+32552,United States,FL,Florida,Broward,PEMBROKE PARK,33023
+32577,United States,FL,Florida,Broward,PEMBROKE PINES,33024
+32602,United States,FL,Florida,Broward,PEMBROKE PINES,33026
+32627,United States,FL,Florida,Broward,PEMBROKE PINES,33028
+32652,United States,FL,Florida,Broward,PEMBROKE PINES,33029
+32677,United States,FL,Florida,Escambia,PENSACOLA,32501
+32702,United States,FL,Florida,Escambia,PENSACOLA,32502
+32727,United States,FL,Florida,Escambia,PENSACOLA,32503
+32752,United States,FL,Florida,Escambia,PENSACOLA,32504
+32777,United States,FL,Florida,Escambia,PENSACOLA,32514
+32802,United States,FL,Florida,Taylor,PERRY,32347
+32827,United States,FL,Florida,Pinellas,PINELLAS PARK,33781
+32852,United States,FL,Florida,Hillsborough,PLANT CITY,33566
+32877,United States,FL,Florida,Broward,PLANTATION,33317
+32902,United States,FL,Florida,Broward,PLANTATION,33324
+32927,United States,FL,Florida,Broward,POMPANO BEACH,33060
+32952,United States,FL,Florida,Broward,POMPANO BEACH,33064
+32977,United States,FL,Florida,Broward,POMPANO BEACH,33066
+33002,United States,FL,Florida,Broward,POMPANO BEACH,33069
+33027,United States,FL,Florida,Charlotte,PORT CHARLOTTE,33948
+33052,United States,FL,Florida,Charlotte,PORT CHARLOTTE,33952
+33077,United States,FL,Florida,Charlotte,PORT CHARLOTTE,33954
+33102,United States,FL,Florida,Volusia,PORT ORANGE,32127
+33127,United States,FL,Florida,Volusia,PORT ORANGE,32129
+33152,United States,FL,Florida,Gulf,PORT SAINT JOE,32456
+33177,United States,FL,Florida,St. Lucie,PORT SAINT LUCIE,34952
+33202,United States,FL,Florida,St. Lucie,PORT SAINT LUCIE,34984
+33227,United States,FL,Florida,St. Lucie,PORT SAINT LUCIE,34986
+33252,United States,FL,Florida,Hillsborough,RIVERVIEW,33569
+33277,United States,FL,Florida,,RIVERVIEW,33578
+33302,United States,FL,Florida,Brevard,ROCKLEDGE,32955
+33327,United States,FL,Florida,Palm Beach,ROYAL PALM BEACH,33411
+33352,United States,FL,Florida,Pinellas,SAFETY HARBOR,34695
+33377,United States,FL,Florida,St. Johns,SAINT AUGUSTINE,32084
+33402,United States,FL,Florida,St. Johns,SAINT AUGUSTINE,32086
+33427,United States,FL,Florida,Pinellas,SAINT PETERSBURG,33701
+33452,United States,FL,Florida,Pinellas,SAINT PETERSBURG,33707
+33477,United States,FL,Florida,Pinellas,SAINT PETERSBURG,33709
+33502,United States,FL,Florida,Pinellas,SAINT PETERSBURG,33710
+33527,United States,FL,Florida,Pinellas,SAINT PETERSBURG,33711
+33552,United States,FL,Florida,Pinellas,SAINT PETERSBURG,33716
+33577,United States,FL,Florida,Sarasota,SARASOTA,34223
+33602,United States,FL,Florida,Sarasota,SARASOTA,34232
+33627,United States,FL,Florida,Sarasota,SARASOTA,34233
+33652,United States,FL,Florida,Sarasota,SARASOTA,34238
+33677,United States,FL,Florida,Sarasota,SARASOTA,34240
+33702,United States,FL,Florida,Manatee,SARASOTA,34243
+33727,United States,FL,Florida,Indian River,SEBASTIAN,32958
+33752,United States,FL,Florida,Highlands,SEBRING,33870
+33777,United States,FL,Florida,Highlands,SEBRING,33872
+33802,United States,FL,Florida,Volusia,SOUTH DAYTONA,32119
+33827,United States,FL,Florida,Miami-Dade,SOUTH MIAMI,33143
+33852,United States,FL,Florida,Hernando,SPRING HILL,34606
+33877,United States,FL,Florida,Hernando,SPRING HILL,34608
+33902,United States,FL,Florida,Citrus,SPRING HILL,34609
+33927,United States,FL,Florida,Martin,STUART,34994
+33952,United States,FL,Florida,Martin,STUART,34996
+33977,United States,FL,Florida,Martin,STUART,34997
+34002,United States,FL,Florida,Marion,SUMMERFIELD,34491
+34027,United States,FL,Florida,Hillsborough,SUN CITY CENTER,33573
+34052,United States,FL,Florida,Broward,SUNRISE,33313
+34077,United States,FL,Florida,Broward,SUNRISE,33326
+34102,United States,FL,Florida,Broward,SUNRISE,33351
+34127,United States,FL,Florida,Leon,TALLAHASSEE,32301
+34152,United States,FL,Florida,Leon,TALLAHASSEE,32308
+34177,United States,FL,Florida,Leon,TALLAHASSEE,32312
+34202,United States,FL,Florida,Broward,TAMARAC,33319
+34227,United States,FL,Florida,Broward,TAMARAC,33321
+34252,United States,FL,Florida,Hillsborough,TAMPA,33602
+34277,United States,FL,Florida,Hillsborough,TAMPA,33603
+34302,United States,FL,Florida,Hillsborough,TAMPA,33604
+34327,United States,FL,Florida,Hillsborough,TAMPA,33605
+34352,United States,FL,Florida,Hillsborough,TAMPA,33607
+34377,United States,FL,Florida,Hillsborough,TAMPA,33609
+34402,United States,FL,Florida,Hillsborough,TAMPA,33610
+34427,United States,FL,Florida,Hillsborough,TAMPA,33612
+34452,United States,FL,Florida,Hillsborough,TAMPA,33613
+34477,United States,FL,Florida,Hillsborough,TAMPA,33614
+34502,United States,FL,Florida,Hillsborough,TAMPA,33615
+34527,United States,FL,Florida,Hillsborough,TAMPA,33617
+34552,United States,FL,Florida,Hillsborough,TAMPA,33618
+34577,United States,FL,Florida,Hillsborough,TAMPA,33619
+34602,United States,FL,Florida,Hillsborough,TAMPA,33624
+34627,United States,FL,Florida,Hillsborough,TAMPA,33626
+34652,United States,FL,Florida,Hillsborough,TAMPA,33634
+34677,United States,FL,Florida,Hillsborough,TAMPA,33635
+34702,United States,FL,Florida,Hillsborough,TAMPA,33637
+34727,United States,FL,Florida,Pinellas,TARPON SPRINGS,34689
+34752,United States,FL,Florida,Lake,TAVARES,32778
+34777,United States,FL,Florida,Hillsborough,TEMPLE TERRACE,33617
+34802,United States,FL,Florida,Hillsborough,TEMPLE TERRACE,33637
+34827,United States,FL,Florida,Lake,THE VILLAGES,32159
+34852,United States,FL,Florida,Sumter,THE VILLAGES,32162
+34877,United States,FL,Florida,Brevard,TITUSVILLE,32796
+34902,United States,FL,Florida,Pasco,TRINITY,34655
+34927,United States,FL,Florida,Sarasota,VENICE,34285
+34952,United States,FL,Florida,Indian River,VERO BEACH,32960
+34977,United States,FL,Florida,Brevard,VIERA,32940
+35002,United States,FL,Florida,Miami-Dade,VIRGINIA GARDENS,33166
+35027,United States,FL,Florida,Hernando,WEEKI WACHEE,34613
+35052,United States,FL,Florida,Palm Beach,WELLINGTON,33414
+35077,United States,FL,Florida,Pasco,WESLEY CHAPEL,33544
+35102,United States,FL,Florida,Brevard,WEST MELBOURNE,32904
+35127,United States,FL,Florida,Miami-Dade,WEST MIAMI,33144
+35152,United States,FL,Florida,Palm Beach,WEST PALM BEACH,33401
+35177,United States,FL,Florida,Palm Beach,WEST PALM BEACH,33406
+35202,United States,FL,Florida,Palm Beach,WEST PALM BEACH,33407
+35227,United States,FL,Florida,Palm Beach,WEST PALM BEACH,33409
+35252,United States,FL,Florida,Palm Beach,WEST PALM BEACH,33411
+35277,United States,FL,Florida,Palm Beach,WEST PALM BEACH,33417
+35302,United States,FL,Florida,Broward,WESTON,33326
+35327,United States,FL,Florida,Broward,WESTON,33331
+35352,United States,FL,Florida,Gulf,WEWAHITCHKA,32465
+35377,United States,FL,Florida,Orange,WINTER GARDEN,34787
+35402,United States,FL,Florida,Polk,WINTER HAVEN,33880
+35427,United States,FL,Florida,Polk,WINTER HAVEN,33881
+35452,United States,FL,Florida,Orange,WINTER PARK,32789
+35477,United States,FL,Florida,Orange,WINTER PARK,32792
+35502,United States,FL,Florida,Seminole,WINTER SPRINGS,32708
+35527,United States,FL,Florida,Pasco,ZEPHYRHILLS,33541
+35552,United States,FL,Florida,,ZEPHYRHILLS,33542
+35577,United States,GA,Georgia,Cook,ADEL,31620
+35602,United States,GA,Georgia,Dougherty,ALBANY,31701
+35627,United States,GA,Georgia,Clarke,ATHENS,30606
+35652,United States,GA,Georgia,Fulton,ATLANTA,30328
+35677,United States,GA,Georgia,DeKalb,ATLANTA,30345
+35702,United States,GA,Georgia,DeKalb,ATLANTA,30350
+35727,United States,GA,Georgia,Richmond,AUGUSTA,30904
+35752,United States,GA,Georgia,Richmond,AUGUSTA,30909
+35777,United States,GA,Georgia,Decatur,BAINBRIDGE,39817
+35802,United States,GA,Georgia,Decatur,BAINBRIDGE,39819
+35827,United States,GA,Georgia,Appling,BAXLEY,31513
+35852,United States,GA,Georgia,Union,BLAIRSVILLE,30512
+35877,United States,GA,Georgia,Glynn,BRUNSWICK,31520
+35902,United States,GA,Georgia,Gordon,CALHOUN,30701
+35927,United States,GA,Georgia,Carroll,CARROLLTON,30117
+35952,United States,GA,Georgia,Muscogee,COLUMBUS,31901
+35977,United States,GA,Georgia,Muscogee,COLUMBUS,31904
+36002,United States,GA,Georgia,Muscogee,COLUMBUS,31909
+36027,United States,GA,Georgia,Rockdale,CONYERS,30094
+36052,United States,GA,Georgia,Crisp,CORDELE,31015
+36077,United States,GA,Georgia,Newton,COVINGTON,30014
+36102,United States,GA,Georgia,Forsyth,CUMMING,30040
+36127,United States,GA,Georgia,Forsyth,CUMMING,30041
+36152,United States,GA,Georgia,Whitfield,DALTON,30720
+36177,United States,GA,Georgia,DeKalb,DECATUR,30033
+36202,United States,GA,Georgia,Habersham,DEMOREST,30535
+36227,United States,GA,Georgia,Douglas,DOUGLASVILLE,30135
+36252,United States,GA,Georgia,Gwinnett,DULUTH,30096
+36277,United States,GA,Georgia,Gwinnett,DULUTH,30097
+36302,United States,GA,Georgia,Dodge,EASTMAN,31023
+36327,United States,GA,Georgia,Elbert,ELBERTON,30635
+36352,United States,GA,Georgia,Hall,GAINESVILLE,30501
+36377,United States,GA,Georgia,Spalding,GRIFFIN,30223
+36402,United States,GA,Georgia,Spalding,GRIFFIN,30224
+36427,United States,GA,Georgia,Pulaski,HAWKINSVILLE,31036
+36452,United States,GA,Georgia,Liberty,HINESVILLE,31313
+36477,United States,GA,Georgia,Pickens,JASPER,30143
+36502,United States,GA,Georgia,Wayne,JESUP,31545
+36527,United States,GA,Georgia,Troup,LAGRANGE,30240
+36552,United States,GA,Georgia,Franklin,LAVONIA,30553
+36577,United States,GA,Georgia,Bibb,MACON,31204
+36602,United States,GA,Georgia,Bibb,MACON,31206
+36627,United States,GA,Georgia,Bibb,MACON,31210
+36652,United States,GA,Georgia,Cobb,MARIETTA,30066
+36677,United States,GA,Georgia,Cobb,MARIETTA,30067
+36702,United States,GA,Georgia,Richmond,MARTINEZ,30907
+36727,United States,GA,Georgia,Telfair,MC RAE,31055
+36752,United States,GA,Georgia,Colquitt,MOULTRIE,31768
+36777,United States,GA,Georgia,Brantley,NAHUNTA,31553
+36802,United States,GA,Georgia,Gwinnett,NORCROSS,30093
+36827,United States,GA,Georgia,Fayette,PEACHTREE CITY,30269
+36852,United States,GA,Georgia,Gwinnett,PEACHTREE CORNERS,30092
+36877,United States,GA,Georgia,Atkinson,PEARSON,31642
+36902,United States,GA,Georgia,Chatham,POOLER,31322
+36927,United States,GA,Georgia,Catoosa,RINGGOLD,30736
+36952,United States,GA,Georgia,Clayton,RIVERDALE,30274
+36977,United States,GA,Georgia,Floyd,ROME,30161
+37002,United States,GA,Georgia,Floyd,ROME,30165
+37027,United States,GA,Georgia,Fulton,ROSWELL,30076
+37052,United States,GA,Georgia,DeKalb,SANDY SPRINGS,30350
+37077,United States,GA,Georgia,Chatham,SAVANNAH,31404
+37102,United States,GA,Georgia,Chatham,SAVANNAH,31405
+37127,United States,GA,Georgia,Cobb,SMYRNA,30080
+37152,United States,GA,Georgia,Bulloch,STATESBORO,30458
+37177,United States,GA,Georgia,Thomas,THOMASVILLE,31792
+37202,United States,GA,Georgia,McDuffie,THOMSON,30824
+37227,United States,GA,Georgia,Tift,TIFTON,31794
+37252,United States,GA,Georgia,DeKalb,TUCKER,30084
+37277,United States,GA,Georgia,Lowndes,VALDOSTA,31602
+37302,United States,GA,Georgia,Lowndes,VALDOSTA,31605
+37327,United States,GA,Georgia,Toombs,VIDALIA,30474
+37352,United States,GA,Georgia,Oconee,WATKINSVILLE,30677
+37377,United States,GA,Georgia,Ware,WAYCROSS,31501
+37402,United States,GA,Georgia,Burke,WAYNESBORO,30830
+37427,United States,GA,Georgia,Cherokee,WOODSTOCK,30188
+62402,United States,ME,Maine,York,KITTERY,3904
+62652,United States,ME,Maine,York,YORK,3909
+74977,United States,MS,Mississippi,Panola,BATESVILLE,38606
+75002,United States,MS,Mississippi,Jasper,BAY SPRINGS,39422
+75027,United States,MS,Mississippi,Humphreys,BELZONI,39038
+75052,United States,MS,Mississippi,Harrison,BILOXI,39532
+75077,United States,MS,Mississippi,Lincoln,BROOKHAVEN,39601
+75102,United States,MS,Mississippi,Calhoun,CALHOUN CITY,38916
+75127,United States,MS,Mississippi,Leake,CARTHAGE,39051
+75152,United States,MS,Mississippi,Coahoma,CLARKSDALE,38614
+75177,United States,MS,Mississippi,Bolivar,CLEVELAND,38732
+75202,United States,MS,Mississippi,Covington,COLLINS,39428
+75227,United States,MS,Mississippi,Marion,COLUMBIA,39429
+75252,United States,MS,Mississippi,Lowndes,COLUMBUS,39701
+75277,United States,MS,Mississippi,Lowndes,COLUMBUS,39705
+75302,United States,MS,Mississippi,Alcorn,CORINTH,38834
+75327,United States,MS,Mississippi,Harrison,DIBERVILLE,39540
+75352,United States,MS,Mississippi,Webster,EUPORA,39744
+75377,United States,MS,Mississippi,Jefferson,FAYETTE,39069
+75402,United States,MS,Mississippi,Hinds,FLOWOOD,39232
+75427,United States,MS,Mississippi,Washington,GREENVILLE,38701
+75452,United States,MS,Mississippi,Leflore,GREENWOOD,38930
+75477,United States,MS,Mississippi,Grenada,GRENADA,38901
+75502,United States,MS,Mississippi,Harrison,GULFPORT,39503
+75527,United States,MS,Mississippi,Forrest,HATTIESBURG,39402
+75552,United States,MS,Mississippi,Copiah,HAZLEHURST,39083
+75577,United States,MS,Mississippi,Washington,HOLLANDALE,38748
+75602,United States,MS,Mississippi,Chickasaw,HOUSTON,38851
+75627,United States,MS,Mississippi,Hinds,JACKSON,39202
+75652,United States,MS,Mississippi,Hinds,JACKSON,39206
+75677,United States,MS,Mississippi,Jones,LAUREL,39440
+75702,United States,MS,Mississippi,Pike,MCCOMB,39648
+75727,United States,MS,Mississippi,Lauderdale,MERIDIAN,39305
+75752,United States,MS,Mississippi,Jackson,PASGOULA,39567
+75777,United States,MS,Mississippi,Pearl River,PICAYUNE,39466
+75802,United States,MS,Mississippi,Perry,RICHTON,39476
+75827,United States,MS,Mississippi,Lee,TUPELO,38801
+75852,United States,MS,Mississippi,Warren,VICKSBURG,39180
+75877,United States,MS,Mississippi,Warren,VICKSBURG,39183
+75902,United States,MS,Mississippi,Wayne,WAYNESBORO,39367
+81502,United States,NH,New Hampshire,Rockingham,AUBURN,3032
+81527,United States,NH,New Hampshire,Hillsborough,BEDFORD,3110
+81552,United States,NH,New Hampshire,Coos,BERLIN,3570
+81577,United States,NH,New Hampshire,Grafton,BRISTOL,3222
+81602,United States,NH,New Hampshire,Merrimack,CONCORD,3301
+81627,United States,NH,New Hampshire,Rockingham,DERRY,3038
+81652,United States,NH,New Hampshire,Strafford,DOVER,3820
+81677,United States,NH,New Hampshire,Rockingham,EXETER,3833
+81702,United States,NH,New Hampshire,Merrimack,FRANKLIN,3235
+81727,United States,NH,New Hampshire,Belknap,GILFORD,3249
+81752,United States,NH,New Hampshire,Rockingham,HAMPSTEAD,3841
+81777,United States,NH,New Hampshire,Cheshire,KEENE,3431
+81802,United States,NH,New Hampshire,Belknap,LACONIA,3246
+81827,United States,NH,New Hampshire,Coos,LANCASTER,3584
+81852,United States,NH,New Hampshire,Grafton,LITTLETON,3561
+81877,United States,NH,New Hampshire,Hillsborough,MANCHESTER,3101
+81902,United States,NH,New Hampshire,Hillsborough,MANCHESTER,3103
+81927,United States,NH,New Hampshire,Hillsborough,MANCHESTER,3105
+81952,United States,NH,New Hampshire,Hillsborough,MANCHESTER,3109
+81977,United States,NH,New Hampshire,Belknap,MEREDITH,3253
+82002,United States,NH,New Hampshire,Hillsborough,MERRIMACK,3054
+82027,United States,NH,New Hampshire,Hillsborough,NASHUA,3064
+82052,United States,NH,New Hampshire,Merrimack,NEW LONDON,3257
+82077,United States,NH,New Hampshire,Sullivan,NEWPORT,3773
+82102,United States,NH,New Hampshire,Carroll,NORTH CONWAY,3860
+82127,United States,NH,New Hampshire,Grafton,PLYMOUTH,3264
+82152,United States,NH,New Hampshire,Rockingham,PORTSMOUTH,3801
+82177,United States,NH,New Hampshire,Strafford,ROCHESTER,3867
+82202,United States,NH,New Hampshire,Rockingham,SALEM,3079
+109077,United States,TN,Tennessee,McMinn,ATHENS,37303
+109102,United States,TN,Tennessee,Shelby,BARTLETT,38133
+109127,United States,TN,Tennessee,Williamson,BRENTWOOD,37027
+109152,United States,TN,Tennessee,Haywood,BROWNSVILLE,38012
+109177,United States,TN,Tennessee,Benton,CAMDEN,38320
+109202,United States,TN,Tennessee,Clay,CELINA,38551
+109227,United States,TN,Tennessee,Hickman,CENTERVILLE,37033
+109252,United States,TN,Tennessee,Hamilton,CHATTANOOGA,37406
+109277,United States,TN,Tennessee,Hamilton,CHATTANOOGA,37411
+109302,United States,TN,Tennessee,Hamilton,CHATTANOOGA,37421
+109327,United States,TN,Tennessee,Montgomery,CLARKSVILLE,37043
+109352,United States,TN,Tennessee,Bradley,CLEVELAND,37311
+109377,United States,TN,Tennessee,Bradley,CLEVELAND,37312
+109402,United States,TN,Tennessee,Anderson,CLINTON,37716
+109427,United States,TN,Tennessee,Shelby,COLLIERVILLE,38017
+109452,United States,TN,Tennessee,Maury,COLUMBIA,38401
+109477,United States,TN,Tennessee,Putnam,COOKEVILLE,38501
+109502,United States,TN,Tennessee,Putnam,COOKEVILLE,38506
+109527,United States,TN,Tennessee,Shelby,CORDOVA,38016
+109552,United States,TN,Tennessee,Shelby,CORDOVA,38018
+109577,United States,TN,Tennessee,Dyer,DYERSBURG,38024
+109602,United States,TN,Tennessee,Shelby,EADS,38028
+109627,United States,TN,Tennessee,Carter,ELIZABETHTON,37643
+109652,United States,TN,Tennessee,Lincoln,FAYETTEVILLE,37334
+109677,United States,TN,Tennessee,Williamson,FRANKLIN,37067
+109702,United States,TN,Tennessee,Sumner,GALLATIN,37066
+109727,United States,TN,Tennessee,Davidson,GOODLETTSVILLE,37072
+109752,United States,TN,Tennessee,Greene,GREENEVILLE,37743
+109777,United States,TN,Tennessee,Greene,GREENEVILLE,37744
+109802,United States,TN,Tennessee,Greene,GREENEVILLE,37745
+109827,United States,TN,Tennessee,Davidson,HERMITAGE,37076
+109852,United States,TN,Tennessee,Gibson,HUMBOLDT,38343
+109877,United States,TN,Tennessee,Carroll,HUNTINGDON,38344
+109902,United States,TN,Tennessee,Madison,JACKSON,38305
+109927,United States,TN,Tennessee,Fentress,JAMESTOWN,38556
+109952,United States,TN,Tennessee,Jefferson,JEFFERSON CITY,37760
+109977,United States,TN,Tennessee,Campbell,JELLICO,37762
+110002,United States,TN,Tennessee,Washington,JOHNSON CITY,37604
+110027,United States,TN,Tennessee,Washington,JOHNSON CITY,37615
+110052,United States,TN,Tennessee,Sullivan,KINGSPORT,37660
+110077,United States,TN,Tennessee,Sullivan,KINGSPORT,37664
+110102,United States,TN,Tennessee,Knox,KNOXVILLE,37909
+110127,United States,TN,Tennessee,Knox,KNOXVILLE,37918
+110152,United States,TN,Tennessee,Knox,KNOXVILLE,37919
+110177,United States,TN,Tennessee,Knox,KNOXVILLE,37921
+110202,United States,TN,Tennessee,Knox,KNOXVILLE,37922
+110227,United States,TN,Tennessee,Knox,KNOXVILLE,37923
+110252,United States,TN,Tennessee,,KNOXVILLE,37934
+110277,United States,TN,Tennessee,Wilson,LEBANON,37087
+110302,United States,TN,Tennessee,Henderson,LEXINGTON,38351
+110327,United States,TN,Tennessee,Overton,LIVINGSTON,38570
+110352,United States,TN,Tennessee,Davidson,MADISON,37115
+110377,United States,TN,Tennessee,Coffee,MANCHESTER,37355
+110402,United States,TN,Tennessee,Weakley,MARTIN,38237
+110427,United States,TN,Tennessee,Blount,MARYVILLE,37804
+110452,United States,TN,Tennessee,Warren,MC MINNVILLE,37110
+110477,United States,TN,Tennessee,Shelby,MEMPHIS,38104
+110502,United States,TN,Tennessee,Shelby,MEMPHIS,38115
+110527,United States,TN,Tennessee,Shelby,MEMPHIS,38117
+110552,United States,TN,Tennessee,Shelby,MEMPHIS,38118
+110577,United States,TN,Tennessee,Shelby,MEMPHIS,38119
+110602,United States,TN,Tennessee,Shelby,MEMPHIS,38120
+110627,United States,TN,Tennessee,Shelby,MEMPHIS,38125
+110652,United States,TN,Tennessee,Shelby,MEMPHIS,38132
+110677,United States,TN,Tennessee,Shelby,MEMPHIS,38133
+110702,United States,TN,Tennessee,Shelby,MEMPHIS,38134
+110727,United States,TN,Tennessee,Gibson,MILAN,38358
+110752,United States,TN,Tennessee,Hamblen,MORRISTOWN,37814
+110777,United States,TN,Tennessee,Wilson,MOUNT JULIET,37122
+110802,United States,TN,Tennessee,Johnson,MOUNTAIN CITY,37683
+110827,United States,TN,Tennessee,Rutherford,MURFREESBORO,37129
+110852,United States,TN,Tennessee,Davidson,NASHVILLE,37210
+110877,United States,TN,Tennessee,Davidson,NASHVILLE,37211
+110902,United States,TN,Tennessee,Davidson,NASHVILLE,37212
+110927,United States,TN,Tennessee,Davidson,NASHVILLE,37214
+110952,United States,TN,Tennessee,Davidson,NASHVILLE,37215
+110977,United States,TN,Tennessee,Davidson,NASHVILLE,37217
+111002,United States,TN,Tennessee,Davidson,NASHVILLE,37228
+111027,United States,TN,Tennessee,Davidson,NASHVILLE,37232
+111052,United States,TN,Tennessee,Cocke,NEWPORT,37821
+111077,United States,TN,Tennessee,Scott,ONEIDA,37841
+111102,United States,TN,Tennessee,Hamilton,OOLTEWAH,37363
+111127,United States,TN,Tennessee,Henry,PARIS,38242
+111152,United States,TN,Tennessee,Decatur,PARSONS,38363
+111177,United States,TN,Tennessee,Hawkins,ROGERSVILLE,37857
+111202,United States,TN,Tennessee,Hardin,SAVANNAH,38372
+111227,United States,TN,Tennessee,Bedford,SHELBYVILLE,37160
+111252,United States,TN,Tennessee,DeKalb,SMITHVILLE,37166
+111277,United States,TN,Tennessee,Rutherford,SMYRNA,37167
+111302,United States,TN,Tennessee,Hancock,SNEEDVILLE,37869
+111327,United States,TN,Tennessee,Fayette,SOMERVILLE,38068
+111352,United States,TN,Tennessee,Robertson,SPRINGFIELD,37172
+111377,United States,TN,Tennessee,Monroe,SWEETWATER,37874
+111402,United States,TN,Tennessee,Claiborne,TAZEWELL,37879
+111427,United States,TN,Tennessee,Coffee,TULLAHOMA,37388
+111452,United States,TN,Tennessee,Obion,UNION CITY,38261
+111477,United States,TN,Tennessee,Franklin,WINCHESTER,37398

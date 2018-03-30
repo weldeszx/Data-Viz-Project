@@ -1,0 +1,47 @@
+state,LocationNO,Certification_NO,Address,LicenseRenewalDate,Offers Nursing Care Services,Offers Physical Therapy Services,Offers Speech Pathology Services,Offers Home Health Aide Services,Date Certified,Service Quality,ServiceQualityRating,Type of Ownership
+Mississippi,75602,257808,797 S JACKSON ST,1997-10-09,YES,NO,NO,YES,1967-10-09,Not Available,,Government - State/ County
+Mississippi,75252,257843,400 A WILKINS WISE RD STE 1,1998-01-12,YES,NO,NO,YES,1968-01-12,Not Available,,Government - State/ County
+Mississippi,75627,257082,1200 NORTH STATE STREET SUITE 200,1999-03-24,YES,YES,YES,YES,1969-03-24,Same As Expected,3.0 - 4.0,Non - Profit Private
+Mississippi,75677,257085,128 SOUTH 11TH AVENUE,2001-03-01,YES,YES,YES,YES,1971-03-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75202,257087,18 MELODY LANE,2003-05-31,YES,YES,YES,YES,1973-05-31,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75902,257088,P. O. BOX 1249,2003-07-25,YES,YES,YES,YES,1973-07-25,Same As Expected,3.0 - 4.0,Government - Local
+Mississippi,75227,257089,P. O. BOX 630,2004-09-04,YES,YES,YES,YES,1974-09-04,Same As Expected,3.0 - 4.0,Government - Local
+Mississippi,75502,257090,10281 CORPORATE DRIVE,2005-03-11,YES,YES,YES,YES,1975-03-11,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75527,257091,133 MAYFAIR ROAD,2005-06-18,YES,YES,YES,YES,1975-06-18,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75427,257098,300 SOUTH WASHINGTON AVE / PO BOX 5247,2005-11-24,YES,YES,YES,YES,1975-11-24,Same As Expected,3.0 - 4.0,Government - State/ County
+Mississippi,75002,257096,#20 BAY AVENUE / P. O. BOX 527,2005-12-10,YES,YES,YES,YES,1975-12-10,Same As Expected,3.0 - 4.0,Government - Local
+Mississippi,75852,257097,2080 SOUTH FRONTAGE ROAD SUITE 103,2006-01-09,YES,YES,YES,YES,1976-01-09,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75677,257099,2260 HIGHWAY 15 NORTH,2006-04-20,YES,YES,YES,YES,1976-04-20,Same As Expected,3.0 - 4.0,Non - Profit Other
+Mississippi,75727,257300,2600 OLD NORTH HILLS STREET,2006-06-14,YES,YES,YES,YES,1976-06-14,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75577,257101,401 BAILEY DRIVE,2006-09-26,YES,YES,YES,YES,1976-09-26,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75652,257102,406 BRIARWOOD DR BLDG 200,2006-12-12,YES,YES,YES,YES,1976-12-12,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75852,257103,2080 SOUTH FRONTAGE ROAD SUITE 105,2007-02-11,YES,YES,YES,YES,1977-02-11,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75877,257107,105 THALWEG DR SUITE B,2007-03-16,YES,YES,YES,YES,1977-03-16,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75377,257106,210 GILCHRIST STREET / P. O. BOX 699,2007-04-01,YES,YES,YES,YES,1977-04-01,Better Than Expected,4.5 - 5.0,Non - Profit Private
+Mississippi,75752,257111,2915 SHORTCUT ROAD,2007-12-01,YES,YES,YES,YES,1977-12-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,74977,257114,548 HIGHWAT 6 EAST,2007-12-01,YES,YES,YES,YES,1977-12-01,Worse Than Expected,1.0 - 2.5,Non - Profit Religious
+Mississippi,75027,257115,405 N HAYDEN ST,2008-03-15,YES,YES,YES,YES,1978-03-15,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75302,257117,1001 SOUTH HARPER ROAD,2008-04-01,YES,YES,YES,YES,1978-04-01,Same As Expected,3.0 - 4.0,Government - State/ County
+Mississippi,75802,257120,205 ELM AVE E,2008-08-01,YES,YES,YES,YES,1978-08-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75727,257121,2900 NORTH HILLS STREET,2008-08-15,YES,YES,YES,YES,1978-08-15,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75527,257123,229 METHODIST BLVD,2008-10-01,YES,YES,YES,YES,1978-10-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75827,257303,101 NORTH INDUSTRIAL ROAD SUITE B,2008-10-01,YES,YES,YES,YES,1978-10-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75352,257122,1700 VETERANS BLVD  SUITE B,2008-10-09,YES,YES,YES,YES,1978-10-09,Same As Expected,3.0 - 4.0,Non - Profit Private
+Mississippi,75552,257304,217 CALDWELL DRIVE,2008-11-01,YES,YES,YES,YES,1978-11-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75177,257305,803 EAST SUNFLOWER RD,2008-11-27,YES,YES,YES,YES,1978-11-27,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75702,257124,1504 ASHTON AVENUE,2008-12-26,YES,YES,YES,YES,1978-12-26,Worse Than Expected,1.0 - 2.5,Non - Profit Private
+Mississippi,75402,257126,106 RIVERVIEW DRIVE,2009-03-13,YES,YES,YES,YES,1979-03-13,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75527,257127,1414 SOUTH 28TH AVENUE,2009-06-26,YES,YES,YES,YES,1979-06-26,Same As Expected,3.0 - 4.0,Government - Local
+Mississippi,75327,257128,10598 D'IBERVILLE BLVD SUITE B,2009-07-13,YES,YES,YES,YES,1979-07-13,Worse Than Expected,1.0 - 2.5,Proprietary
+Mississippi,75127,257129,616 HWY 35 SOUTH,2000-01-01,YES,YES,YES,YES,1980-01-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75102,257309,104 LEGION AVE / MAIL PO DRAWER W,2000-02-26,YES,YES,YES,YES,1980-02-26,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75452,257131,205 WALTHALL  STREET,2000-03-28,YES,YES,YES,YES,1980-03-28,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75152,257311,620 SOUTH STATE STREET STE 3,2000-07-16,YES,YES,YES,YES,1980-07-16,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75277,257110,189 PARK CREEK DRIVE,2001-02-09,YES,YES,YES,YES,1981-02-09,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75052,257100,925 TOMMY MUNRO DRIVE SUITE K,2001-10-01,YES,YES,YES,YES,1981-10-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75077,257135,105 WHITEBROOK DRIVE,2007-01-01,YES,YES,YES,YES,1987-01-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75777,257141,1701 HWY 43 N STE 6,2003-09-01,YES,YES,YES,YES,2001-09-01,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75502,257143,11010 HIGHWAY 49 SUTE 4,2004-10-08,YES,YES,YES,YES,2002-10-08,Same As Expected,3.0 - 4.0,Proprietary
+Mississippi,75477,257145,960 AVENT DRIVE,2016-12-30,YES,YES,YES,YES,2014-12-30,Not Available,,Government - State/ County
+Mississippi,75827,257002,812 GARFIELD,1996-07-01,YES,YES,YES,YES,1966-07-01,Worse Than Expected,1.0 - 2.5,Non - Profit Other
+Mississippi,75177,257016,210 NORTH STREET,1996-08-02,YES,YES,YES,YES,1966-08-02,Same As Expected,3.0 - 4.0,Proprietary

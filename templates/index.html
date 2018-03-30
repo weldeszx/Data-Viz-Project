@@ -1,0 +1,455 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!-- plotly -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- leaflet -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.1/dist/leaflet.css"
+  integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
+  integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
+  crossorigin=""></script>
+    <!-- d3js -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <title>Healthcare Providers</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <div class="jumbotron jumbotron-fluid">
+        <h2 class="display-4"><center>US Healthcare Providers Data Visualization</center></h1>
+        <p class="lead"></p>
+      </div>
+    </div>
+
+    <hr>
+    <h2><center>Summary of Providers in All States</center></h2>
+    <br>
+    <!-- bar chart button-->
+    <div class='container'>
+      <div class='row'>
+      <p>Physical Therapy:&nbsp&nbsp</p>
+      <select id='pts' style='height: 30px'>
+        <option value='pts'>Yes</option>
+        <option value='NO'>No</option>
+      </select>
+
+      <p>&nbsp&nbsp Speech Pathology:&nbsp&nbsp</p>
+      <select id='sps' style='height: 30px'>
+        <option value='sps'>Yes</option>
+        <option value='NO'>No</option>
+      </select>
+
+      <p>&nbsp&nbsp Home Health Aid:&nbsp&nbsp</p>
+      <select id='hhas' style='height: 30px'>
+        <option value='hhas'>Yes</option>
+        <option value='NO'>No</option>
+      </select>
+      </div>
+     <div class='row'><button id='bar_confirm' type="button" class="btn btn-secondary btn-sm">Confirm</button></div>
+    </div>
+
+    <!-- bar chart-->
+    <br>
+    <div class='container'>
+    <div class='row'>
+        <div class='chart' id='bar_chart' style='width: 1000px;'></div></div>
+    </div>
+
+    <script type="text/javascript">
+      //set var
+      let barchart=d3.select('#bar_chart');
+      let bar_confirm=d3.select('#bar_confirm');
+
+      //functions bar plot
+      function plot_bar(){
+        let pts=$("#pts :selected").val();
+        let sps=$("#sps :selected").val();
+        let hhas=$("#hhas :selected").val();
+        let bar_data_string=`${pts}_${sps}_${hhas}`;
+        Plotly.d3.json(`/bar/${bar_data_string}`, function(error, data){
+          if (error) return console.warn(error);
+          let barDiv=document.getElementById("bar_chart");
+          let x_bar=Object.keys(data.count);
+          let y_bar=Object.values(data.count);
+          let d = [{
+                    x: x_bar,
+                    y: y_bar,
+                    type: 'bar'
+                    }];
+          let layout={title: 'Number of Providers in Each State',
+                      xaxis: {tickangle: -90},
+                      yaxis: {title: 'Number of Providers',
+                      titlefont: {size: 18}}
+                     };
+          Plotly.newPlot(barDiv, d, layout);
+          });
+        };
+
+      //bar chart on click event
+      plot_bar();
+      bar_confirm.on('click',function(){
+        plot_bar();
+      });
+    </script>
+
+    <hr>
+
+    <!-- pie chart-->
+    <h2><center>Summary of Providers in Each States</center></h2>
+    <br>
+    <div class='container'>
+      <!-- pie chart button-->
+      <div class='row'>
+        <div class='col-3'>
+          <!-- pie chart button-->
+          <div class="input-group">
+            <input id='pie_input' type="text" class="form-control" placeholder="Enter State Abbv..." style='height:30px;'>
+            <span class="input-group-btn">
+            <button id='pie_search' class="btn btn-secondary btn-sm" type="button">Search</button>
+            </span>
+          </div></div>
+       </div>
+       <br>
+       <!-- pie chart+abbv-->
+       <div class='row'>
+         <!-- pie abbv-->
+         <div class='col-4'>
+            <br><br>
+           <ul class="list-group">
+              <li class="list-group-item">PTS: Physical Therapy Services</li>
+              <li class="list-group-item">SPS: Speech Pathology Services</li>
+              <li class="list-group-item">HHAS: Home Health Aide Services</li>
+            </ul>
+         </div>
+         <!-- pie chart-->
+         <div class='col-8'>
+            <div id='pie_chart'></div>
+            <script type="text/javascript">
+            //set var
+            let piechart=d3.select('#pie_chart');
+            let pie_search=d3.select('#pie_search');
+
+            //function pie chart
+            function plot_pie(){
+              let state=$('#pie_input').val();
+              if (state){} else {state='dc'};
+              let state_up=state.toUpperCase();
+              let title=`State: ${state_up}`;
+              Plotly.d3.json(`/pie/${state}`,function(error, data){
+                if (error) return console.warn(error);
+                let pieDiv=document.getElementById("pie_chart");
+                let pie_d=[{
+                  values: Object.values(data),
+                  labels: Object.keys(data),
+                  type:'pie'
+                }];
+                let layout = {
+                              title: title,
+                              height: 500,
+                              width: 700
+                            };
+                Plotly.newPlot(pieDiv, pie_d, layout);
+              });
+            };
+
+            //plot pie
+            plot_pie();
+            pie_search.on('click', function(){
+              plot_pie();
+            });
+            </script>
+          </div>
+        </div>
+      </div></div>
+  <hr>
+
+<!--heatmap-->
+<h2><center>Features Comparison</center></h2>
+<br>
+<div class='container'>
+  <div class='row'>
+    <!-- left hm -->
+    <div class='col-6'>
+      <!--left button-->
+      <div class='row'>
+      <p>Select Feature:&nbsp&nbsp</p>
+      <select id='left_feature' style='height: 30px' onchange="optionChanged(this.value)">
+        <option value='state'>Number of Providers</option>
+        <option value='Population'>Population</option>
+        <option value='Median_Age'>Median Age</option>
+        <option value='Poverty_Rate'>Poverty Rate</option>
+        <option value='Household_Income'>Household Income</option>
+        <option value='Unemployment_Rate'>Unemployment Rate</option>
+        <option value='Total_housing_units'>Total housing units</option>
+        <option value='Median_Value_for_Housing_Units'>Median Value for Housing Units</option>
+      </select>
+      </div>
+      <!--left chart-->
+      <div>
+        <div id='left_hmchart_holder' style='height: 360px; width: 90%;'></div>
+        <script type="text/javascript">
+          //set var
+          let left_hmchart=d3.select('#left_hmchart');
+          let left_select=d3.select('#left_feature');
+
+          //plot function
+            //color func
+          function getColor(d) {
+              return d > 0.8 ? '#800026' :
+                     d > 0.6  ? '#BD0026' :
+                     d > 0.3  ? '#E31A1C' :
+                     d > 0  ? '#FC4E2A' :
+                     d > -0.3   ? '#FD8D3C' :
+                     d > -0.5   ? '#FEB24C' :
+                     d > -0.8   ? '#FED976' :
+                                '#FFEDA0';
+          };
+
+            //style func
+          function style(feature) {
+              return {
+                  fillColor: getColor(feature.properties.density),
+                  weight: 2,
+                  opacity: 1,
+                  color: 'white',
+                  dashArray: '3',
+                  fillOpacity: 0.7
+              };
+          };
+           //func plt
+          function plot_hm(v){
+            let hmc=document.getElementById('left_hmchart_holder');
+            let element = document.createElement('div');
+            element.id='left_hmchart';
+            element.style='height: 360px; width: 90%;'
+            hmc.appendChild(element);
+            d3.json(`/heatmap/${v}`,function(error, data){
+              if (error) return console.warn(error);
+              let map = L.map('left_hmchart').setView([37.8, -96], 3);
+              L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+                  maxZoom: 12,
+                  id: 'mapbox.light',
+                  accessToken: 'pk.eyJ1Ijoic2hvdWp1bmd1IiwiYSI6ImNqZWdsNzIyOTF3OHQycW8yZGt2cjZkOTAifQ.tvV-Oa9NnJx42g-O0Ia8Fw'
+              }).addTo(map);
+              L.geoJson(data,{style: style}).addTo(map);
+            });
+          };
+
+             //func onchange
+             function optionChanged(v) {
+               let hmc=document.getElementById('left_hmchart_holder');
+               let left_node=document.getElementById('left_hmchart')
+               hmc.removeChild(left_node);
+               plot_hm(v);
+               let v_r=$('#right_feature :selected').val();
+               let features_l=`${v}-${v_r}`;
+               let title_l=$('#left_feature :selected').text();
+               let title_r=$('#right_feature :selected').text();
+               Plotly.d3.json(`/scatter/${features_l}`,function(error, data){
+                 let x=Object.values(data[v]);
+                 let y=Object.values(data[v_r]);
+                 let labels=Object.keys(data[v]);
+                 let trace = {
+                                x: x,
+                                y: y,
+                                mode: 'markers',
+                                type: 'scatter',
+                                text: labels
+                              };
+                 let d=[trace];
+                 let layout = {
+                              xaxis: {
+                                range: [ -1, 1 ],
+                                title: title_l
+                              },
+                              yaxis: {
+                                range: [-1, 1],
+                                title: title_r
+                              },
+                              title:`${title_l} vs ${title_r}`
+                            };
+                 Plotly.newPlot('scatter_plot', d, layout);
+               });
+             };
+
+          //plot left heatmap
+          plot_hm('state');
+          Plotly.d3.json(`/scatter/state-state`,function(error, data){
+            let x=Object.values(data.state);
+            //let y=Object.values(data[v_r]);
+            let labels=Object.keys(data.state);
+            let trace = {
+                           x: x,
+                           y: x,
+                           mode: 'markers',
+                           type: 'scatter',
+                           text: labels
+                         };
+            let d=[trace];
+            let layout = {
+                         xaxis: {
+                           range: [ -1, 1 ],
+                           title: 'Number of Providers'
+                         },
+                         yaxis: {
+                           range: [-1, 1],
+                           title: 'Number of Providers'
+                         },
+                         title:`Number of Providers vs Number of Providers`
+                       };
+            Plotly.newPlot('scatter_plot', d, layout);
+          });
+        </script>
+      </div>
+    </div>
+
+    <!-- right hm -->
+    <div class='col-6'>
+      <!--right button-->
+      <div class='row'>
+      <p>Select Feature:&nbsp&nbsp</p>
+      <select id='right_feature' style='height: 30px' onchange="optionChanged_r(this.value)">
+        <option value='state'>Number of Providers</option>
+        <option value='Population'>Population</option>
+        <option value='Median_Age'>Median Age</option>
+        <option value='Poverty_Rate'>Poverty Rate</option>
+        <option value='Household_Income'>Household Income</option>
+        <option value='Unemployment_Rate'>Unemployment Rate</option>
+        <option value='Total_housing_units'>Total housing units</option>
+        <option value='Median_Value_for_Housing_Units'>Median Value for Housing Units</option>
+      </select>
+      </div>
+
+      <!--right chart-->
+      <div>
+        <div id='right_hmchart_holder' style='height: 360px; width: 90%;'></div>
+        <script type="text/javascript">
+          //set var
+          let right_hmchart=d3.select('#right_hmchart');
+          let right_select=d3.select('#right_feature');
+
+          //plot function
+            //color func
+          function getColor_r(d) {
+              return d > 0.8 ? '#800026' :
+                     d > 0.6  ? '#BD0026' :
+                     d > 0.3  ? '#E31A1C' :
+                     d > 0  ? '#FC4E2A' :
+                     d > -0.3   ? '#FD8D3C' :
+                     d > -0.5   ? '#FEB24C' :
+                     d > -0.8   ? '#FED976' :
+                                '#FFEDA0';
+          };
+
+            //style func
+          function style_r(feature) {
+              return {
+                  fillColor: getColor_r(feature.properties.density),
+                  weight: 2,
+                  opacity: 1,
+                  color: 'white',
+                  dashArray: '3',
+                  fillOpacity: 0.7
+              };
+          };
+           //func plt
+          function plot_hm_r(v){
+            let hmc_r=document.getElementById('right_hmchart_holder');
+            let element_r = document.createElement('div');
+            element_r.id='right_hmchart';
+            element_r.style='height: 360px; width: 90%;'
+            hmc_r.appendChild(element_r);
+            d3.json(`/heatmap/${v}`,function(error, data){
+              if (error) return console.warn(error);
+              let map = L.map('right_hmchart').setView([37.8, -96], 3);
+              L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+                  maxZoom: 12,
+                  id: 'mapbox.light',
+                  accessToken: 'pk.eyJ1Ijoic2hvdWp1bmd1IiwiYSI6ImNqZWdsNzIyOTF3OHQycW8yZGt2cjZkOTAifQ.tvV-Oa9NnJx42g-O0Ia8Fw'
+              }).addTo(map);
+              L.geoJson(data,{style: style}).addTo(map);
+            });
+          };
+
+             //func onchange
+             function optionChanged_r(v) {
+               let hmc_r=document.getElementById('right_hmchart_holder');
+               let right_node=document.getElementById('right_hmchart')
+               hmc_r.removeChild(right_node);
+               plot_hm_r(v);
+               let v_l=$('#left_feature :selected').val();
+               let features_r=`${v}-${v_l}`;
+               let title_l=$('#left_feature :selected').text();
+               let title_r=$('#right_feature :selected').text();
+               Plotly.d3.json(`/scatter/${features_r}`,function(error, data){
+                 let x=Object.values(data[v]);
+                 let y=Object.values(data[v_l]);
+                 let labels=Object.keys(data[v]);
+                 let trace = {
+                                x: x,
+                                y: y,
+                                mode: 'markers',
+                                type: 'scatter',
+                                text: labels
+                              };
+                 let d=[trace];
+                 let layout = {
+                              xaxis: {
+                                range: [ -1, 1 ],
+                                title: title_r
+                              },
+                              yaxis: {
+                                range: [-1, 1],
+                                title: title_l
+                              },
+                              title:`${title_r} vs ${title_l}`
+                            };
+                 Plotly.newPlot('scatter_plot', d, layout);
+               });
+             };
+
+          //plot left heatmap
+          plot_hm_r('state');
+        </script>
+      </div>
+    </div>
+  </div>
+
+  <!--legend-->
+  <div>
+    <span class="badge badge-default" style="background-color:#FFEDA0;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span class="badge badge-default" style="background-color:#FED976;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span class="badge badge-default" style="background-color:#FEB24C;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span class="badge badge-default" style="background-color:#FD8D3C;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span class="badge badge-default" style="background-color:#FC4E2A;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span class="badge badge-default" style="background-color:#E31A1C;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span class="badge badge-default" style="background-color:#BD0026;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+    <span class="badge badge-default" style="background-color:#800026;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</span>
+  </div>
+  <div>
+    <span class="badge badge-default">&lt-0.8</span>
+    <span class="badge badge-default">&nbsp&nbsp-0.8~-0.5</span>
+    <span class="badge badge-default">-0.5~-0.3</span>
+    <span class="badge badge-default">-0.3~0</span>
+    <span class="badge badge-default">0-0.3</span>
+    <span class="badge badge-default">&nbsp0.3-0.6</span>
+    <span class="badge badge-default">&nbsp&nbsp0.6-0.8</span>
+    <span class="badge badge-default">&nbsp&gt0.8</span>
+    <span class="badge badge-default">&nbsp (normalized value)</span>
+  </div>
+
+<!--scatter-->
+<div id='scatter_plot'></div>
+
+</div>
+
+  </body>
+</html>
