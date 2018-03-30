@@ -29,7 +29,7 @@ session = Session(engine)
 
 @app.route("/")
 def home():
-    return render_template("index.html")
+    return render_template("index2.html")
 #serve up data to the clustered marker map
 @app.route("/location_data")
 def get_homecareDta():
